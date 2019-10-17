@@ -52,4 +52,4 @@ News
 ### Natural Language Processing 
 
 - Question Answering
-- Summerization
+- Document Summarization 
