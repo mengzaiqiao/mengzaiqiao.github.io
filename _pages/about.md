@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: “Zaiqiao Meng (蒙在桥)"
+title: Zaiqiao Meng (蒙在桥)
 excerpt: "About me"
 author_profile: true
 redirect_from: 
