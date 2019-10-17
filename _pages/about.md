@@ -12,19 +12,16 @@ I’m now a postdoc at [Terrier](http://terrierteam.dcs.gla.ac.uk/People.html) t
 
 My research interests include developing Machine Learning algorithms for graph/relational structured data, including generating/optimizing graph structures, developing new graph neural network architectures, and applying these techniques in various domains.
 
-News
+# News
 ======
 1. **2019-9-3**
-
    One papers are accepted by [*NeurIPS* 2019](https://neurips.cc/Conferences/2019/)  about **Semi-supervisedly Co-embedding Attributed Networks**.
    
 2. **2019-8-8**
-
    Three papers are accepted by [*CIKM* 2019](http://www.cikm2019.net/) about **Dynamic recommendation** **User Profile in Community Question Answering**, and **Personalized Product Search**.
    
 3. **2018-10-22**
    Our paper entitled “Co-embedding Attributed Networks” has been accepted by **WSDM 2019** (acceptance rate 16%).
-
 
 
 # Research
