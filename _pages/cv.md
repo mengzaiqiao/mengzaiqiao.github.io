@@ -13,43 +13,43 @@ redirect_from:
 
 - **Sun Yat-sen University**, Guangzhou, China 2014 - 2018
 
-  > Ph.D. student in Computer Science and Technology
+  Ph.D. student in Computer Science and Technology
 
 - **Guangdong University of Technology**, Guangzhou, China 2011 - 2014
 
-  > M.S. in Computer Science and Technology
+  M.S. in Computer Science and Technology
 
 - **Jiangxi University of Science and Technology**, Ganzhou, China 2008 - 2010
 
-  > B.S. in Software Engineering
+  B.S. in Software Engineering
 
 - **Jiangxi University of Science and Technology**, Nanchang, China 2005 - 2008
 
-  > Coll. in Software Technology
+  Coll. in Software Technology
 
 ## Research Interests
 
-  ### Network Modelling
+### Network Modelling
 
   - Network Representation Learning
   - Dynamic Embedding
   - Similarity Search
 
-  ### Information Retrieval
+### Information Retrieval
 
   - Search Result Diversification
   - User profiling
 
-  ### Recommender Systems
+### Recommender Systems
 
   - Grocery Recommendation
   - Dynamic Recommendation
 
-  ### Deep Learning
+### Deep Learning
 
   - Variational Auto-encoders
 
-  ### Natural Language Processing
+### Natural Language Processing
 
   - Question Answering
   - Document Summarization
@@ -65,7 +65,7 @@ redirect_from:
 - **SIGIR** 2018
 - **CIKM** 2017, 2018
 - **WSDM** 2017, 2018
-### Journal Invited Reviewer,
+### Journal Invited Reviewer
 - **Journal of Computer and System Sciences**. 2019
 - **IEEE Access**. 2019
 - **Information Science**. 2019
