@@ -4,8 +4,8 @@
  *  Square icons designed to be used alongside Font Awesome square icons - https://fortawesome.github.io/Font-Awesome/
  *  Licenses - Font: SIL OFL 1.1, CSS: MIT License
  */
-@font-face {
-    font-family: 'Academicons';
+/* @font-face {
+    font-family: 'Linux Biolinum';
     src:url('../fonts/academicons.eot?v=1.8.0');
     src:url('../fonts/academicons.eot?v=1.8.0') format('embedded-opentype'),
         url('../fonts/academicons.ttf?v=1.8.0') format('truetype'),
@@ -13,10 +13,12 @@
         url('../fonts/academicons.svg?v=1.8.0#academicons') format('svg');
     font-weight: normal;
     font-style: normal;
-}
+} */
+@font-face {font-family: "Linux Biolinum"; src: url("//db.onlinewebfonts.com/t/13aef2ccc4e45b7b8f440f0fdb7d3fbc.eot"); src: url("//db.onlinewebfonts.com/t/13aef2ccc4e45b7b8f440f0fdb7d3fbc.eot?#iefix") format("embedded-opentype"), url("//db.onlinewebfonts.com/t/13aef2ccc4e45b7b8f440f0fdb7d3fbc.woff2") format("woff2"), url("//db.onlinewebfonts.com/t/13aef2ccc4e45b7b8f440f0fdb7d3fbc.woff") format("woff"), url("//db.onlinewebfonts.com/t/13aef2ccc4e45b7b8f440f0fdb7d3fbc.ttf") format("truetype"), url("//db.onlinewebfonts.com/t/13aef2ccc4e45b7b8f440f0fdb7d3fbc.svg#Linux Biolinum") format("svg"); }
+/* 
 .ai {
 	display:inline-block;
-	font:normal normal normal 14px/1 Academicons;
+	font:normal normal normal 14px/1 Linux Biolinum;
 	font-size:inherit;
 	text-rendering:auto;
 	-webkit-font-smoothing:antialiased;
@@ -324,4 +326,4 @@
 }
 .fa.fa-pull-right {
   margin-left: .3em;
-}
+} */
