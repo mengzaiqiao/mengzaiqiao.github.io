@@ -11,19 +11,19 @@ redirect_from:
 
 ## Education
 
-- **Sun Yat-sen University**, Guangzhou, China 2014 - 2018
+- **Sun Yat-sen University**, Guangzhou, China	2014 - 2018
 
   Ph.D. student in Computer Science and Technology
 
-- **Guangdong University of Technology**, Guangzhou, China 2011 - 2014
+- **Guangdong University of Technology**, Guangzhou, China	2011 - 2014
 
   M.S. in Computer Science and Technology
 
-- **Jiangxi University of Science and Technology**, Ganzhou, China 2008 - 2010
+- **Jiangxi University of Science and Technology**, Ganzhou, China	2008 - 2010
 
   B.S. in Software Engineering
 
-- **Jiangxi University of Science and Technology**, Nanchang, China 2005 - 2008
+- **Jiangxi University of Science and Technology**, Nanchang, China	2005 - 2008
 
   Coll. in Software Technology
 
@@ -31,28 +31,28 @@ redirect_from:
 
 ### Network Modelling
 
-  - Network Representation Learning
-  - Dynamic Embedding
-  - Similarity Search
+- Network Representation Learning
+- Dynamic Embedding
+- Similarity Search
 
 ### Information Retrieval
 
-  - Search Result Diversification
-  - User profiling
+- Search Result Diversification
+- User profiling
 
 ### Recommender Systems
 
-  - Grocery Recommendation
-  - Dynamic Recommendation
+- Grocery Recommendation
+- Dynamic Recommendation
 
 ### Deep Learning
 
-  - Variational Auto-encoders
+- Variational Auto-encoders
 
 ### Natural Language Processing
 
-  - Question Answering
-  - Document Summarization
+- Question Answering
+- Document Summarization
 
 ## Professional Activities
 
