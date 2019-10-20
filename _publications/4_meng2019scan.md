@@ -9,7 +9,7 @@ date: 2019-9-03
 year: 2019
 codeurl: 'https://github.com/mengzaiqiao/SCAN'
 venue: 'NeurIPS'
-paperurl: 'meng2019neurips'
+paperurl: ‘meng2019neurips.pdf'
 citation:
 ---
 
