@@ -7,7 +7,7 @@ permalink: /publication/xiao2019aaai
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-9-03
 year: 2019
-venue: 'AAAI'
+venue: 'xiao2019aaai'
 citation:
 ---
 

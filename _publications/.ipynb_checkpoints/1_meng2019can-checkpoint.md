@@ -9,7 +9,7 @@ date: 2019-9-03
 year: 2019
 codeurl: 'https://github.com/mengzaiqiao/CAN'
 venue: 'WSDM'
-paperurl: 'meng2019can.pdf'
+paperurl: 'meng2019wsdm.pdf'
 citation:
 ---
 
