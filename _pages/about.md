@@ -8,16 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I’m now a postdoc at [Terrier](http://terrierteam.dcs.gla.ac.uk/People.html) team of the University of Glasgow (UoG). I obtained my PhD in computer science from Sun Yat-sen University (SYSU) in December 2018, supervised by Prof. Hong Shen. Before joining SYSU, I received my M.Sc from Guangdong University of Technology in 2011 and B.E from Jiangxi University of Science and Technology 2010 respectively. 
+I’m now a postdoc at [Terrier](http://terrierteam.dcs.gla.ac.uk/People.html) team of the University of Glasgow (UoG). I obtained my PhD in computer science from Sun Yat-sen University (SYSU) in December 2018, working with Professor [Hong Shen](http://www.cs.adelaide.edu.au/~hong). Before joining SYSU, I received my M.Sc from Guangdong University of Technology in 2011 and B.E from Jiangxi University of Science and Technology 2010 respectively. 
 
-My research interests include developing Machine Learning algorithms for graph/relational structured data, including generating/optimizing graph structures, developing new graph neural network architectures, and applying these techniques in various domains.
+My research interests include developing Machine Learning algorithms, graph/relational structured data, including generating/optimizing graph structures, developing new graph neural network architectures, and applying these techniques in various domains. Now I am working on the topic of grocery recommender systems, providing supports for the [Bigdatastack](https://www.bigdatastack.eu/use-cases) project on the use case application, which provides retailers with optimal insights into consumer preferences and improves the effectiveness of marketing strategies for improving consumer shopping experience.
 
 # News
 1. **2019-9-3**
    One papers are accepted by [*NeurIPS* 2019](https://neurips.cc/Conferences/2019/)  about **Semi-supervisedly Co-embedding Attributed Networks**.
 2. **2019-8-8**
    Three papers are accepted by [*CIKM* 2019](http://www.cikm2019.net/) about **Dynamic recommendation** **User Profile in Community Question Answering**, and **Personalized Product Search**. 
-3. **2018-10-22**
+3. **2019-7-11**
+   Our paper entitled “Fast top-k similarity search in large dynamic attributed networks” has been accepted by **Information Processing & Management**
+4. **2018-10-22**
    Our paper entitled “Co-embedding Attributed Networks” has been accepted by **WSDM 2019** (acceptance rate 16%).
 
 
