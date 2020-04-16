@@ -1,5 +1,5 @@
 ---
-authors: Zaiqiao Meng, Shangsong Liang, Jinyuan Fang, Teng Xiao
+authors: <b>Zaiqiao Meng</b>, Shangsong Liang, Jinyuan Fang, Teng Xiao
 title: Semi-supervisedly Co-embedding Attributed Networks
 collection: publications
 subcollection: conferences

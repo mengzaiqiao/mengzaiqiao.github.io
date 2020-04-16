@@ -1,5 +1,5 @@
 ---
-authors: Yupeng Luo, Shangsong Liang, and Zaiqiao Meng
+authors: Yupeng Luo, Shangsong Liang, and <b>Zaiqiao Meng</b>
 title: Constrained Co-embedding Model for User Profiling in Question Answering Communities
 collection: publications
 subcollection: conferences

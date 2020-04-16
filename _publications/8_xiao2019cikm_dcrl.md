@@ -1,5 +1,5 @@
 ---
-authors: Teng Xiao, Shangsong Liang, and Zaiqiao Meng
+authors: Teng Xiao, Shangsong Liang, and <b>Zaiqiao Meng</b>
 title: Dynamic Collaborative Recurrent Learning
 collection: publications
 subcollection: conferences

@@ -1,5 +1,5 @@
 ---
-authors: Zaiqiao Meng, Hong Shen
+authors: <b>Zaiqiao Meng</b>, Hong Shen
 title: Dissimilarity-constrained node attribute coverage diversification for novelty-enhanced top-k search in large attributed networks
 collection: publications
 subcollection: journals

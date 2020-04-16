@@ -1,5 +1,5 @@
 ---
-authors: Zaiqiao Meng, Hong Shen
+authors: <b>Zaiqiao Meng</b>, Hong Shen
 title: Scalable Aspects Learning for Intent-Aware Diversified Search on Social Networks
 collection: publications
 subcollection: journals

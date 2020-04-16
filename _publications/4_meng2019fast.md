@@ -1,5 +1,5 @@
 ---
-authors: Zaiqiao Meng, Hong Shen
+authors: <b>Zaiqiao Meng</b>, Hong Shen
 title: Fast top-k similarity search in large dynamic attributed networks
 collection: publications
 subcollection: journals

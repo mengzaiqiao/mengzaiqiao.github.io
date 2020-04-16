@@ -1,5 +1,5 @@
 ---
-authors: Zaiqiao Meng, Hong Shen, Huimin Huang, Wei Liu, Jing Wang, Arun Kumar Sangaiah
+authors: <b>Zaiqiao Meng</b>, Hong Shen, Huimin Huang, Wei Liu, Jing Wang, Arun Kumar Sangaiah
 title: Search result diversification on attributed networks via nonnegative matrix factorization
 collection: publications
 subcollection: journals

@@ -1,5 +1,5 @@
 ---
-authors: Teng Xiao, Jiaxin Ren, Zaiqiao Meng, Huan Sun, and Shangsong Liang
+authors: Teng Xiao, Jiaxin Ren, <b>Zaiqiao Meng</b>, Huan Sun, and Shangsong Liang
 title: Dynamic Bayesian Metric Learning for Personalized Product Search
 collection: publications
 subcollection: conferences

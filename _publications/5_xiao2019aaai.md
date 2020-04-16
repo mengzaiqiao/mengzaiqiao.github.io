@@ -1,5 +1,5 @@
 ---
-authors: Teng Xiao, Shangsong Liang, Zaiqiao Meng
+authors: Teng Xiao, Shangsong Liang, <b>Zaiqiao Meng</b>
 title: Bayesian Deep Collaborative Matrix Factorization
 collection: publications
 subcollection: conferences

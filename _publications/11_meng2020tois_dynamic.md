@@ -1,5 +1,5 @@
 ---
-authors: Zaiqiao Meng, Shangsong Liang, Xiangliang Zhang, Richard McCreadie and Iadh Ounis
+authors: <b>Zaiqiao Meng</b>, Shangsong Liang, Xiangliang Zhang, Richard McCreadie and Iadh Ounis
 title: Jointly Learning Representations of Nodes and Attributes for Attributed Networks
 collection: publications
 subcollection: journals

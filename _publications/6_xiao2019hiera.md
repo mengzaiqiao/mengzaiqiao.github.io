@@ -1,12 +1,12 @@
 ---
-authors: Teng Xiao, Shangsong Liang, Zaiqiao Meng
+authors: Teng Xiao, Shangsong Liang, <b>Zaiqiao Meng</b>
 title: Hierarchical Neural Variational Model for Personalized Sequential Recommendation
 collection: publications
 subcollection: conferences
 permalink: /publication/xiao2019hiera
 date: 2019-9-03
 year: 2019
-venue: The World Wide Web Conference
+venue: WWW
 paperurl: xiao2019www.pdf
 citation:
 ---
