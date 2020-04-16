@@ -1,15 +1,14 @@
 ---
-authors: "Zaiqiao Meng, Shangsong Liang, Hongyan Bao, Xiangliang Zhang"
-title: "Co-embedding Attributed Networks"
+authors: <b>Zaiqiao Meng</b>, Shangsong Liang, Hongyan Bao, Xiangliang Zhang
+title: Co-embedding Attributed Networks
 collection: publications
 subcollection: conferences
 permalink: /publication/meng2019can
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-9-03
 year: 2019
-codeurl: 'https://github.com/mengzaiqiao/CAN'
-venue: 'WSDM'
-paperurl: 'meng2019wsdm.pdf'
+codeurl: https://github.com/mengzaiqiao/CAN
+venue: WSDM
+paperurl: meng2019wsdm.pdf
 citation:
 ---
 

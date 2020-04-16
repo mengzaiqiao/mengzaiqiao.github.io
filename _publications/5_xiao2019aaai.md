@@ -1,14 +1,13 @@
 ---
-authors: "Teng Xiao, Shangsong Liang, Zaiqiao Meng"
-title: "Bayesian Deep Collaborative Matrix Factorization"
+authors: Teng Xiao, Shangsong Liang, Zaiqiao Meng
+title: Bayesian Deep Collaborative Matrix Factorization
 collection: publications
 subcollection: conferences
 permalink: /publication/xiao2019aaai
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-9-03
 year: 2019
-paperurl: 'xiao2019aaai.pdf'
-venue: ‘xiao2019aaai'
+paperurl: xiao2019aaai.pdf
+venue: AAAI
 citation:
 ---
 

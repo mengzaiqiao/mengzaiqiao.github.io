@@ -1,10 +1,9 @@
 ---
-authors: “Zaiqiao Meng, Shangsong Liang, Xiangliang Zhang, Richard McCreadie and Iadh Ounis"
-title: "Jointly Learning Representations of Nodes and Attributes for Attributed Networks"
+authors: Zaiqiao Meng, Shangsong Liang, Xiangliang Zhang, Richard McCreadie and Iadh Ounis
+title: Jointly Learning Representations of Nodes and Attributes for Attributed Networks
 collection: publications
 subcollection: journals
 permalink: /publication/meng2020tois
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2020-1-1
 year: 2020
 venue: TOIS

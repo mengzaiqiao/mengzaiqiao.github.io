@@ -1,15 +1,14 @@
 ---
-authors: “Teng Xiao, Jiaxin Ren, Zaiqiao Meng, Huan Sun, and Shangsong Liang"
-title: "Dynamic Bayesian Metric Learning for Personalized Product Search"
+authors: Teng Xiao, Jiaxin Ren, Zaiqiao Meng, Huan Sun, and Shangsong Liang
+title: Dynamic Bayesian Metric Learning for Personalized Product Search
 collection: publications
 subcollection: conferences
 permalink: /publication/xiao2019cikm2
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-11-03
 year: 2019
-venue: 'CIKM'
-paperurl: ‘xiao2019cikm2.pdf'
-codeurl: 'https://github.com/DBML-model/DBML'
+venue: CIKM
+paperurl: xiao2019cikm2.pdf
+codeurl: https://github.com/DBML-model/DBML
 citation:
 ---
 

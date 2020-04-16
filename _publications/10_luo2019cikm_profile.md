@@ -1,13 +1,12 @@
 ---
-authors: “Yupeng Luo, Shangsong Liang, and Zaiqiao Meng"
-title: "Constrained Co-embedding Model for User Profiling in Question Answering Communities"
+authors: Yupeng Luo, Shangsong Liang, and Zaiqiao Meng
+title: Constrained Co-embedding Model for User Profiling in Question Answering Communities
 collection: publications
 subcollection: conferences
 permalink: /publication/luo2019cikm
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-11-03
 year: 2019
-venue: 'CIKM'
+venue: CIKM
 paperurl: luo2019cikm.pdf
 citation:
 ---

@@ -1,14 +1,13 @@
 ---
-authors: "Teng Xiao, Shangsong Liang, Zaiqiao Meng"
-title: "Hierarchical Neural Variational Model for Personalized Sequential Recommendation"
+authors: Teng Xiao, Shangsong Liang, Zaiqiao Meng
+title: Hierarchical Neural Variational Model for Personalized Sequential Recommendation
 collection: publications
 subcollection: conferences
 permalink: /publication/xiao2019hiera
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-9-03
 year: 2019
-venue: 'The World Wide Web Conference'
-paperurl: ‘xiao2019www.pdf'
+venue: The World Wide Web Conference
+paperurl: xiao2019www.pdf
 citation:
 ---
 

@@ -1,14 +1,13 @@
 ---
-authors: "Zaiqiao Meng, Hong Shen"
-title: "Scalable Aspects Learning for Intent-Aware Diversified Search on Social Networks"
+authors: Zaiqiao Meng, Hong Shen
+title: Scalable Aspects Learning for Intent-Aware Diversified Search on Social Networks
 collection: publications
 subcollection: journals
 permalink: /publication/meng2018iadiv
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-9-03
 year: 2018
-venue: 'IEEE Access'
-paperurl: 'meng2018ieeeaccess.pdf'
+venue: IEEE Access
+paperurl: meng2018ieeeaccess.pdf
 citation:
 ---
 

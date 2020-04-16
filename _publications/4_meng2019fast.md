@@ -1,13 +1,13 @@
 ---
-authors: "Zaiqiao Meng, Hong Shen"
-title: "Fast top-k similarity search in large dynamic attributed networks"
+authors: Zaiqiao Meng, Hong Shen
+title: Fast top-k similarity search in large dynamic attributed networks
 collection: publications
 subcollection: journals
 permalink: /publication/meng2019fast
 date: 2019-9-03
 year: 2019
-venue: 'Information Processing & Management'
-paperurl: ‘meng2019ipm.pdf'
+venue: Information Processing & Management
+paperurl: meng2019ipm.pdf
 citation:
 ---
 

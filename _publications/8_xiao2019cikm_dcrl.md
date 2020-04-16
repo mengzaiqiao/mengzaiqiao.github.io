@@ -1,15 +1,15 @@
 ---
-authors: “Teng Xiao, Shangsong Liang, and Zaiqiao Meng"
-title: "Dynamic Collaborative Recurrent Learning"
+authors: Teng Xiao, Shangsong Liang, and Zaiqiao Meng
+title: Dynamic Collaborative Recurrent Learning
 collection: publications
 subcollection: conferences
 permalink: /publication/xiao2019cikm1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: This paper is about the number 1. The number 2 is left for future work.
 date: 2019-11-03
 year: 2019
-venue: 'CIKM'
+venue: CIKM
 citation:
-paperurl: ‘xiao2019cikm1.pdf'
+paperurl: xiao2019cikm1.pdf
 ---
 
 

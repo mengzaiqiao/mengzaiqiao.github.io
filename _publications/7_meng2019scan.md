@@ -1,14 +1,14 @@
 ---
-authors: "Zaiqiao Meng, Shangsong Liang, Jinyuan Fang, Teng Xiao"
-title: "Semi-supervisedly Co-embedding Attributed Networks"
+authors: Zaiqiao Meng, Shangsong Liang, Jinyuan Fang, Teng Xiao
+title: Semi-supervisedly Co-embedding Attributed Networks
 collection: publications
 subcollection: conferences
 permalink: /publication/meng2019scan
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: This paper is about the number 1. The number 2 is left for future work.
 date: 2019-9-03
 year: 2019
-codeurl: 'https://github.com/mengzaiqiao/SCAN'
-venue: 'NeurIPS'
+codeurl: https://github.com/mengzaiqiao/SCAN
+venue: NeurIPS
 paperurl: meng2019neurips.pdf
 citation:
 ---
