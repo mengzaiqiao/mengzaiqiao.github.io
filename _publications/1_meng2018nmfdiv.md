@@ -4,12 +4,10 @@ title: "Search result diversification on attributed networks via nonnegative mat
 collection: publications
 subcollection: journals
 permalink: /publication/meng2018nmfdiv
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-9-03
 year: 2018
-venue: 'Information Processing & Management'
-paperurl: 'meng2018ipm.pdf'
-citation:
+venue: "Information Processing & Management"
+paperurl: meng2018ipm.pdf
 ---
 
 ## Introduction

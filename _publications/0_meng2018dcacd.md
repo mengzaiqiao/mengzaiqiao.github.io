@@ -4,12 +4,10 @@ title: "Dissimilarity-constrained node attribute coverage diversification for no
 collection: publications
 subcollection: journals
 permalink: /publication/meng2018dcacd
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2018-9-03
 year: 2018
-venue: 'Knowledge-Based Systems'
-paperurl: 'meng2018dcacd.pdf'
-citation:
+venue: Knowledge-Based Systems
+paperurl: meng2018dcacd.pdf
 ---
 
 
