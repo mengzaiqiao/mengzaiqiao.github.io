@@ -7,7 +7,7 @@ permalink: /publication/meng2019fast
 date: 2019-9-03
 year: 2019
 venue: 'Information Processing & Management'
-paperurl: 'available soon'
+paperurl: ‘meng2019ipm.pdf'
 citation:
 ---
 
