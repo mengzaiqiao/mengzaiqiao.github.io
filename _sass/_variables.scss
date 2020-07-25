@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size              : 16;
+$doc-font-size              : 15.5;
 
 /* paragraph indention */
 $paragraph-indent           : false; // true, false (default)
@@ -14,7 +14,7 @@ $indent-var                 : 1.3em;
 
 /* system typefaces */
 $serif                      : 'Lobster', Georgia, Times, serif;
-$sans-serif                 : 'Roboto', Helvetica, Arial, sans-serif
+$sans-serif                 : 'Roboto', Helvetica, Arial, sans-serif;
 $monospace                  : Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
@@ -148,6 +148,6 @@ $susy: (
 
 $border-radius              : 4px;
 $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
-$navicon-width              : 28px;
+$navicon-width              : 24px;
 $navicon-height             : 4px;
 $global-transition          : all 0.2s ease-in-out;
