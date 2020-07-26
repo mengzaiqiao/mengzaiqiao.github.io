@@ -11,8 +11,8 @@ title                    : "Zaiqiao Meng"
 title_separator          : "-"
 name                     : &name "Zaiqiao Meng"
 description              : &description "Posdoc at University of Glasgow"
-url                      : https://mengzaiqiao.github.io # the base hostname & protocol for your site e.g. 
-# url                      : http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. 
+url                      : https://mengzaiqiao.github.io # the base hostname & protocol for your site e.g.
+# url                      : http://127.0.0.1:4000 # the base hostname & protocol for your site e.g.
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,10 +83,10 @@ analytics:
 author:
   name             : "Zaiqiao Meng"
   avatar           : "profile.jpg"
-  bio              : "Posdoc at Univserity of Glasgow"
-  location         : "Glasgow, UK"
+  bio              : "Posdoc at Univserity of Cambridge"
+  location         : "Cambridge, UK"
   employer         :
-  pubmed           : 
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=5jJKFVcAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "zm324@cam.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -104,10 +104,10 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "/meng/?locale=en_US"
-  orcid            : 
+  orcid            : "0000-0001-5374-0318"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : "mengzaiqiao"
