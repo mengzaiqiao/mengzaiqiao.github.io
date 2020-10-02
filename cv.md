@@ -7,7 +7,7 @@ modified: 2-10-2020
 comments: false
 ---
 
-You can also download my [CV](../files/ZaiqiaoMeng_CV_latest) (2020-7-1).
+You can also download my [CV](../files/ZaiqiaoMeng_CV_latest.pdf) (2020-7-1).
 
 ## Work & Research experience
 
