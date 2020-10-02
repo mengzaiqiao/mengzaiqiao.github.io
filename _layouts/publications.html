@@ -1,0 +1,606 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include _head.html %}
+</head>
+
+<body class="page">
+<style>
+    /*********************************
+     The list of publication items
+     *********************************/
+/* The list of items */
+.biblist { }
+
+/* The item */
+.biblist li { }
+
+/* You can define custom styles for plstyle field here. */
+
+
+/*************************************
+ The box that contain BibTeX code
+ *************************************/
+div.noshow { display: none; }
+div.bibtex {
+	margin-right: 0%;
+	margin-top: 1.2em;
+	margin-bottom: 1em;
+	border: 1px solid silver;
+	padding: 0em 1em;
+	background: #ffffee;
+}
+div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; padding: 0em 0em;}</style>
+<script type="text/javascript">
+    <!--
+    // Toggle Display of BibTeX
+    function toggleBibtex(articleid) {
+        var bib = document.getElementById('bib_'+articleid);
+        if (bib) {
+            if(bib.className.indexOf('bibtex') != -1) {
+                bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
+            }
+        } else {
+            return;
+        }
+    }
+-->
+    </script>
+
+{% include _browser-upgrade.html %}
+
+{% include _navigation.html %}
+
+{% if page.image.feature %}
+  <div class="image-wrap">
+  <img src=
+    {% if page.image.feature contains 'http://' %}
+      "{{ page.image.feature }}"
+    {% elsif page.image.feature contains 'https://' %}
+      "{{ page.image.feature }}"
+    {% else %}
+      "{{ site.url }}/images/{{ page.image.feature }}"
+    {% endif %}
+  alt="{{ page.title }} feature image">
+  {% if page.image.credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+  {% endif %}
+  </div><!-- /.image-wrap -->
+{% endif %}
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    {% include _author-bio.html %}
+  </div>
+  <article>
+    <h1>{{ page.title }}</h1>
+    <div class="article-wrap">
+      {{ content }}
+
+<!----------------------------------------------------------------------------------->
+<!-- Generated from JabRef by PubList by Truong Nghiem at 12:49 on 2016.07.15. -->
+
+      
+  <!----------------Start conference papers------------------------------------------------------------------>
+  <h4 style="margin-bottom:0px;padding-top:20px;">Conference Publications</h4>
+  <ul class="biblist">
+  	
+  <!-- Item: meng2020beta -->
+  <li ><p>
+  <b>Zaiqiao Meng</b>, Richard McCreadie, Craig Macdonald, Iadh Ounis, Siwei Liu, Yaxiong Wu, Xi Wang, Shangsong Liang, Yucheng Liang, Guangtao Zeng, Junhua Liang, Qiang Zhang, <br>
+  &ldquo;BETA-Rec: Build, Evaluate and Tune Automated Recommender Systems.&rdquo;<br>
+  <i>Fourteenth ACM Conference on Recommender Systems (Recsys)</i>, 2020.  
+
+  <br />
+  <a href="javascript:toggleBibtex('meng2020beta')">[BibTeX]</a>
+  <a href="../files/meng2020beta.pdf">[PDF]</a>
+    <a href="https://beta-recsys.readthedocs.io/">[Project]</a>
+
+
+  </p>
+  <div id="bib_meng2020beta" class="bibtex noshow">
+  <pre>
+  @inproceedings{meng2020beta,
+  title={BETA-Rec: Build, Evaluate and Tune Automated Recommender Systems},
+  author={Meng, Zaiqiao and McCreadie, Richard and Macdonald, Craig and Ounis, Iadh and Liu, Siwei and Wu, Yaxiong and Wang, Xi and Liang, Shangsong and Liang, Yucheng and Zeng, Guangtao and others},
+  booktitle={Fourteenth ACM Conference on Recommender Systems},
+  pages={588--590},
+  year={2020}
+}
+  </pre>
+  </div>
+  </li>
+
+   <!-- Item: meng2020exploring -->
+  <li ><p>
+  <b>Zaiqiao Meng</b>, Richard McCreadie, Craig Macdonald, Iadh Ounis, <br>
+  &ldquo;Exploring Data Splitting Strategies for the Evaluation of Recommendation Models.&rdquo;<br>
+  <i>Fourteenth ACM Conference on Recommender Systems (Recsys)</i>, 2020.  
+
+  <br />
+  <a href="javascript:toggleBibtex('meng2020exploring')">[BibTeX]</a>
+  <a href="../files/meng2020exploring.pdf">[PDF]</a>
+  <a href="https://github.com/beta-team/beta-recsys">[Code]</a>
+
+
+  </p>
+  <div id="bib_meng2020exploring" class="bibtex noshow">
+  <pre>
+  @article{meng2020exploring,
+  title={Exploring Data Splitting Strategies for the Evaluation of Recommendation Models},
+  author={Meng, Zaiqiao and McCreadie, Richard and Macdonald, Craig and Ounis, Iadh},
+  journal={arXiv preprint arXiv:2007.13237},
+  year={2020}
+}
+  </pre>
+  </div>
+  </li>
+
+   <!-- Item: liu2020heterogeneous -->
+  <li ><p>
+  Siwei Liu, Iadh Ounis, Craig Macdonald, <b>Zaiqiao Meng</b>, <br>
+  &ldquo;A Heterogeneous Graph Neural Model for Cold-Start Recommendation.&rdquo;<br>
+  <i>Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)</i>, 2019.  
+
+  <br />
+  <a href="javascript:toggleBibtex('liu2020heterogeneous')">[BibTeX]</a>
+  <a href="../files/liu2020heterogeneous.pdf">[PDF]</a>
+
+  </p>
+  <div id="bib_liu2020heterogeneous" class="bibtex noshow">
+  <pre>
+  @inproceedings{liu2020heterogeneous,
+  title={A Heterogeneous Graph Neural Model for Cold-Start Recommendation},
+  author={Liu, Siwei and Ounis, Iadh and Macdonald, Craig and Meng, Zaiqiao},
+  booktitle={Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval},
+  pages={2029--2032},
+  year={2020}
+}
+  </pre>
+  </div>
+  </li>
+
+   <!-- Item: meng2019semi -->
+  <li ><p>
+ <b>Zaiqiao Meng</b>, Shangsong Liang, Jinyuan Fang, and Teng Xiao, <br>
+  &ldquo;Semi-supervisedly co-embedding attributed networks.&rdquo;<br>
+  <i>In Advances in Neural Information Processing Systems (NeurIPS)</i>, 2019.  
+
+  <br />
+  <a href="javascript:toggleBibtex('meng2019semi')">[BibTeX]</a>
+  <a href="../files/meng2019semi.pdf">[PDF]</a>
+  <a href="https://github.com/mengzaiqiao/scan">[Code]</a>
+
+  </p>
+  <div id="bib_meng2019semi" class="bibtex noshow">
+  <pre>
+  @inproceedings{meng2019semi,
+    title={Semi-supervisedly co-embedding attributed networks},
+    author={Meng, Zaiqiao and Liang, Shangsong and Fang, Jinyuan and Xiao, Teng},
+    booktitle={Advances in Neural Information Processing Systems},
+    pages={6507--6516},
+    year={2019}
+  }
+  </pre>
+  </div>
+  </li>
+
+   <!-- Item: meng2019co -->
+  <li ><p>
+  <b>Zaiqiao Meng</b>, Shangsong Liang, Hongyan Bao, Xiangliang Zhang, <br>
+  &ldquo;Co-embedding attributed networks.&rdquo;<br>
+  <i>Proceedings of the Twelfth ACM International Conference on Web Search and Data Mining (WSDM)</i>, 2019.  
+
+  <br />
+  <a href="javascript:toggleBibtex('meng2019co')">[BibTeX]</a>
+  <a href="../files/meng2019co.pdf">[PDF]</a>
+    <a href="https://github.com/mengzaiqiao/can">[Code]</a>
+
+
+  </p>
+  <div id="bib_meng2019co" class="bibtex noshow">
+  <pre>
+  @inproceedings{meng2019co,
+  title={Co-embedding attributed networks},
+  author={Meng, Zaiqiao and Liang, Shangsong and Bao, Hongyan and Zhang, Xiangliang},
+  booktitle={Proceedings of the Twelfth ACM International Conference on Web Search and Data Mining},
+  pages={393--401},
+  year={2019}
+}
+  </pre>
+  </div>
+  </li>
+
+   <!-- Item: xiao2019hierarchical -->
+  <li ><p>
+  Teng Xiao, Shangsong Liang, <b>Zaiqiao Meng</b>, <br>
+  &ldquo;Hierarchical neural variational model for personalized sequential recommendation.&rdquo;<br>
+  <i>The World Wide Web Conference (WWW)</i>, 2019.  
+
+  <br />
+  <a href="javascript:toggleBibtex('xiao2019hierarchical')">[BibTeX]</a>
+  <a href="../files/xiao2019hierarchical.pdf">[PDF]</a>
+
+  </p>
+  <div id="bib_xiao2019hierarchical" class="bibtex noshow">
+  <pre>
+  @inproceedings{xiao2019hierarchical,
+  title={Hierarchical neural variational model for personalized sequential recommendation},
+  author={Xiao, Teng and Liang, Shangsong and Meng, Zaiqiao},
+  booktitle={The World Wide Web Conference},
+  pages={3377--3383},
+  year={2019}
+}
+  </pre>
+  </div>
+  </li>
+
+   <!-- Item: luo2019constrained -->
+  <li ><p>
+  Yupeng Luo, <b>Zaiqiao Meng</b>, Shangsong Liang, <br>
+  &ldquo;Constrained co-embedding model for user profiling in question answering communities.&rdquo;<br>
+  <i>Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM)</i>, 2019.  
+
+  <br />
+  <a href="javascript:toggleBibtex('luo2019constrained')">[BibTeX]</a>
+  <a href="../files/luo2019constrained.pdf">[PDF]</a>
+
+  </p>
+  <div id="bib_luo2019constrained" class="bibtex noshow">
+  <pre>
+  @inproceedings{luo2019constrained,
+  title={Constrained co-embedding model for user profiling in question answering communities},
+  author={Luo, Yupeng and Liang, Shangsong and Meng, Zaiqiao},
+  booktitle={Proceedings of the 28th ACM International Conference on Information and Knowledge Management},
+  pages={439--448},
+  year={2019}
+}
+  </pre>
+  </div>
+  </li>
+
+   <!-- Item: xiao2019dynamic1 -->
+  <li ><p>
+  Teng Xiao, Jiaxin Ren, <b>Zaiqiao Meng</b>, Huan Sun, Shangsong Liang, <br>
+  &ldquo;Dynamic Bayesian Metric Learning for Personalized Product Search.&rdquo;<br>
+  <i>Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM)</i>, 2019.  
+
+  <br />
+  <a href="javascript:toggleBibtex('xiao2019dynamic1')">[BibTeX]</a>
+  <a href="../files/xiao2019dynamic1.pdf">[PDF]</a>
+  <a href="  https://github.com/DBML-model/DBML">[Code]</a>
+
+
+  </p>
+  <div id="bib_xiao2019dynamic1" class="bibtex noshow">
+  <pre>
+  @inproceedings{xiao2019dynamic1,
+  title={Dynamic Bayesian Metric Learning for Personalized Product Search},
+  author={Xiao, Teng and Ren, Jiaxin and Meng, Zaiqiao and Sun, Huan and Liang, Shangsong},
+  booktitle={Proceedings of the 28th ACM International Conference on Information and Knowledge Management},
+  pages={1693--1702},
+  year={2019}
+}
+  </pre>
+  </div>
+  </li>
+
+   <!-- Item: xiao2019dynamic2 -->
+  <li ><p>
+  Teng Xiao, Shangsong Liang, <b>Zaiqiao Meng</b>, <br>
+  &ldquo;Dynamic Collaborative Recurrent Learning.&rdquo;<br>
+  <i>Proceedings of the 28th ACM International Conference on Information and Knowledge Management (CIKM)</i>, 2019.  
+
+  <br />
+  <a href="javascript:toggleBibtex('xiao2019dynamic2')">[BibTeX]</a>
+  <a href="../files/xiao2019dynamic2.pdf">[PDF]</a>
+
+  </p>
+  <div id="bib_xiao2019dynamic2" class="bibtex noshow">
+  <pre>
+  @inproceedings{xiao2019dynamic2,
+  title={Dynamic Collaborative Recurrent Learning},
+  author={Xiao, Teng and Liang, Shangsong and Meng, Zaiqiao},
+  booktitle={Proceedings of the 28th ACM International Conference on Information and Knowledge Management},
+  pages={1151--1160},
+  year={2019}
+}
+  </pre>
+  </div>
+  </li>
+
+
+  <!-- Item: xiao2019bayesian -->
+  <li ><p>
+ Teng Xiao, Shangsong Liang, <b>Zaiqiao Meng</b>, <br>
+  &ldquo;Bayesian Deep Collaborative Matrix Factorization.&rdquo;<br>
+  <i>Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)</i>, 2019.  
+
+  <br />
+  <a href="javascript:toggleBibtex('xiao2019bayesian')">[BibTeX]</a>
+  <a href="../files/xiao2019bayesian.pdf">[PDF]</a>
+
+  </p>
+  <div id="bib_xiao2019bayesian" class="bibtex noshow">
+  <pre>
+  @inproceedings{xiao2019bayesian,
+  title={Bayesian deep collaborative matrix factorization},
+  author={Xiao, Teng and Liang, Shangsong and Shen, Weizhou and Meng, Zaiqiao},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={33},
+  pages={5474--5481},
+  year={2019}
+}
+  </pre>
+  </div>
+  </li>
+  </ul>  
+  <!----------------End conference papers------------------------------------------------------------------>
+
+<!----------------Start journal papers------------------------------------------------------------------>
+<h4 style="margin-bottom:0px;padding-top:20px;">Journal Publications</h4>
+
+<ul class="biblist">
+
+  <!-- Item: meng2020jointly -->
+  <li ><p>
+  <b>Zaiqiao Meng</b>, Shangsong Liang, Xiangliang Zhang, Richard McCreadie and Iadh Ounis, <br>
+  &ldquo;Jointly Learning Representations of Nodes and Attributes for Attributed Networks.&rdquo;<br>
+  <i>ACM Transactions on Information Systems (TOIS)</i>, 2020.
+
+  <br />
+  <a href="javascript:toggleBibtex('meng2020jointly')">[BibTeX]</a>
+  <a href="../files/meng2020jointly.pdf">[PDF]</a>
+
+  </p>
+  <div id="bib_meng2020jointly" class="bibtex noshow">
+  <pre>
+  @article{meng2020jointly,
+    title={Jointly Learning Representations of Nodes and Attributes for Attributed Networks},
+    author={Meng, Zaiqiao and Liang, Shangsong and Zhang, Xiangliang and McCreadie, Richard and Ounis, Iadh},
+    journal={ACM Transactions on Information Systems (TOIS)},
+    volume={38},
+    number={2},
+    pages={1--32},
+    year={2020},
+    publisher={ACM New York, NY, USA}
+  }
+  </pre>
+  </div>
+  </li> 
+
+   <!-- Item: huang2020recurrent -->
+  <li ><p>
+  Huimin Huang, <b>Zaiqiao Meng *</b>, Shangsong Liang, <br>
+  &ldquo;Recurrent neural variational model for follower-based influence maximization.&rdquo;<br>
+  <i>Information Sciences</i>, 2020.
+
+  <br />
+  <a href="javascript:toggleBibtex('huang2020recurrent')">[BibTeX]</a>
+  <a href="../files/huang2020recurrent.pdf">[PDF]</a>
+
+  </p>
+  <div id="bib_huang2020recurrent" class="bibtex noshow">
+  <pre>
+   @article{huang2020recurrent,
+  title={Recurrent neural variational model for follower-based influence maximization},
+  author={Huang, Huimin and Meng, Zaiqiao and Liang, Shangsong},
+  journal={Information Sciences},
+  year={2020},
+  publisher={Elsevier}
+}
+  </pre>
+  </div>
+  </li> 
+
+  <!-- Item: huang2020community -->
+  <li ><p>
+  Huimin Huang, Hong Shen, <b>Zaiqiao Meng</b>, <br>
+  &ldquo;Community-based influence maximization in attributed networks.&rdquo;<br>
+  <i>Applied Intelligence</i>, 2020.
+
+  <br />
+  <a href="javascript:toggleBibtex('huang2020community')">[BibTeX]</a>
+  <a href="../files/huang2020community.pdf">[PDF]</a>
+
+  </p>
+  <div id="bib_huang2020community" class="bibtex noshow">
+  <pre>
+ @article{huang2020community,
+  title={Community-based influence maximization in attributed networks},
+  author={Huang, Huimin and Shen, Hong and Meng, Zaiqiao},
+  journal={Applied Intelligence},
+  volume={50},
+  number={2},
+  pages={354--364},
+  year={2020},
+  publisher={Springer}
+}
+  </pre>
+  </div>
+  </li> 
+
+
+  <!-- Item: meng2019fast -->
+  <li ><p>
+  <b>Zaiqiao Meng</b>, Hong Shen <br>
+  &ldquo;Fast top-k similarity search in large dynamic attributed networks.&rdquo;<br>
+  <i>Information Processing & Management (IPM)</i>, 2019.
+
+  <br />
+  <a href="javascript:toggleBibtex('meng2019fast')">[BibTeX]</a>
+  <a href="../files/meng2019fast.pdf">[PDF]</a>
+
+  </p>
+  <div id="bib_meng2019fast" class="bibtex noshow">
+  <pre>
+  @article{meng2019fast,
+  title={Fast top-k similarity search in large dynamic attributed networks},
+  author={Meng, Zaiqiao and Shen, Hong},
+  journal={Information Processing \& Management},
+  volume={56},
+  number={6},
+  pages={102074},
+  year={2019},
+  publisher={Elsevier}
+}
+  </pre>
+  </div>
+  </li> 
+
+   <!-- huang2019community -->
+  <li ><p>
+ Huimin Huang, Hong Shen, <b>Zaiqiao Meng</b>, Huajian Chang, Huaiwen He, <br>
+  &ldquo;Community-based influence maximization for viral marketing.&rdquo;<br>
+  <i>Applied Intelligence</i>, 2019.
+
+  <br />
+  <a href="javascript:toggleBibtex('huang2019community')">[BibTeX]</a>
+  <a href="../files/huang2019community.pdf">[PDF]</a>
+
+  </p>
+  <div id="bib_huang2019community" class="bibtex noshow">
+  <pre>
+ @article{huang2019community,
+  title={Community-based influence maximization for viral marketing},
+  author={Huang, Huimin and Shen, Hong and Meng, Zaiqiao and Chang, Huajian and He, Huaiwen},
+  journal={Applied Intelligence},
+  volume={49},
+  number={6},
+  pages={2137--2150},
+  year={2019},
+  publisher={Springer}
+}
+  </pre>
+  </div>
+  </li> 
+
+   <!-- huang2019item -->
+  <li ><p>
+ Huimin Huang, Hong Shen, <b>Zaiqiao Meng</b>, <br>
+  &ldquo;Item diversified recommendation based on influence diffusion.&rdquo;<br>
+  <i>Information Processing \& Management (IPM)</i>, 2019.
+
+  <br />
+  <a href="javascript:toggleBibtex('huang2019item')">[BibTeX]</a>
+  <a href="../files/huang2019item.pdf">[PDF]</a>
+
+  </p>
+  <div id="bib_huang2019item" class="bibtex noshow">
+  <pre>
+  @article{huang2019item,
+  title={Item diversified recommendation based on influence diffusion},
+  author={Huang, Huimin and Shen, Hong and Meng, Zaiqiao},
+  journal={Information Processing \& Management},
+  volume={56},
+  number={3},
+  pages={939--954},
+  year={2019},
+  publisher={Elsevier}
+}
+  </pre>
+  </div>
+  </li> 
+
+  <!-- Item: meng2018scalable -->
+  <li ><p>
+  <b>Zaiqiao Meng</b>, Hong Shen, <br>
+  &ldquo;Scalable aspects learning for intent-aware diversified search on social networks.&rdquo;<br>
+  <i>IEEE Access</i>, 2018.
+
+  <br />
+  <a href="javascript:toggleBibtex('meng2018scalable')">[BibTeX]</a>
+  <a href="../files/meng2018scalable.pdf">[PDF]</a>
+
+  </p>
+  <div id="bib_meng2018scalable" class="bibtex noshow">
+  <pre>
+  @article{meng2018scalable,
+  title={Scalable aspects learning for intent-aware diversified search on social networks},
+  author={Meng, Zaiqiao and Shen, Hong},
+  journal={IEEE Access},
+  volume={6},
+  pages={37124--37137},
+  year={2018},
+  publisher={IEEE}
+}
+  </pre>
+  </div>
+  </li> 
+
+
+  <!-- Item: meng2018search -->
+  <li ><p>
+  <b>Zaiqiao Meng</b>, Hong Shen, Huimin Huang, Wei Liu, Jing Wang, Arun Kumar Sangaiah, <br>
+  &ldquo;Search result diversification on attributed networks via nonnegative matrix factorization.&rdquo;<br>
+  <i>Information Processing & Management (IPM)</i>, 2018.
+
+  <br />
+  <a href="javascript:toggleBibtex('meng2018search')">[BibTeX]</a>
+  <a href="../files/meng2018search.pdf">[PDF]</a>
+
+  </p>
+  <div id="bib_meng2018search" class="bibtex noshow">
+  <pre>
+  @article{meng2018search,
+  title={Search result diversification on attributed networks via nonnegative matrix factorization},
+  author={Meng, Zaiqiao and Shen, Hong and Huang, Huimin and Liu, Wei and Wang, Jing and Sangaiah, Arun Kumar},
+  journal={Information Processing \& Management},
+  volume={54},
+  number={6},
+  pages={1277--1291},
+  year={2018},
+  publisher={Elsevier}
+}
+  </pre>
+  </div>
+  </li> 
+
+   <!-- Item: meng2018dissimilarity -->
+  <li ><p>
+  <b>Zaiqiao Meng</b>, Hong Shen, <br>
+  &ldquo;Dissimilarity-constrained node attribute coverage diversification for novelty-enhanced top-k search in large attributed networks.&rdquo;<br>
+  <i>Knowledge-Based Systems (KBS)</i>, 2018.
+
+  <br />
+  <a href="javascript:toggleBibtex('meng2018dissimilarity')">[BibTeX]</a>
+  <a href="../files/meng2018dissimilarity.pdf">[PDF]</a>
+
+  </p>
+  <div id="bib_meng2018dissimilarity" class="bibtex noshow">
+  <pre>
+  @article{meng2018dissimilarity,
+  title={Dissimilarity-constrained node attribute coverage diversification for novelty-enhanced top-k search in large attributed networks},
+  author={Meng, Zaiqiao and Shen, Hong},
+  journal={Knowledge-Based Systems},
+  volume={150},
+  pages={85--94},
+  year={2018},
+  publisher={Elsevier}
+}
+  </pre>
+  </div>
+  </li> 
+  <!----------------End journal papers-------------------------------------------------------------------->
+
+    </ul>
+    * Corresponding author. 
+    </div><!-- /.article-wrap -->
+    {% if site.disqus_shortname and page.comments %}
+      <section id="disqus_thread"></section><!-- /#disqus_thread -->
+    {% endif %}
+  </article>
+</div><!-- /#index -->
+<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div><!-- /.footer-wrap -->
+
+{% include _scripts.html %}          
+
+</body>
+</html>
