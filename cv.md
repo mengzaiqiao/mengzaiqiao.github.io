@@ -15,17 +15,15 @@ You can also download my [CV](../files/ZaiqiaoMeng_CV_latest.pdf) (2020-7-1).
 - **Postdoctoral Researcher, University of Glasgow**, Glasgow, UK	2019.3 - 2020.7
 - **Visiting Ph.D, King Abdullah University of Science and Technology**, Thuwal, Saudi Arabia	2018.3 - 2018.8
 
+-------
 ## Education
 
 - **Sun Yat-sen University**, Guangzhou, China	2014 - 2018
   Ph.D. student in Computer Science and Technology
-
 - **Guangdong University of Technology**, Guangzhou, China	2011 - 2014
   M.E. in Computer Science and Technology
-
 - **Jiangxi University of Science and Technology**, Ganzhou, China	2008 - 2010
   B.E. in Software Engineering
-
 - **Jiangxi University of Science and Technology**, Nanchang, China	2005 - 2008
   Coll. in Software Technology
 
@@ -45,20 +43,11 @@ You can also download my [CV](../files/ZaiqiaoMeng_CV_latest.pdf) (2020-7-1).
 ### Journal Invited Reviewer
 
 - **IEEE Transactions on Knowledge and Data Engineering (TKDE)**
-
 - **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**
-
 - **Journal of Computer and System Sciences**
-
 - **ACM Computing Surveys**
-
 - **Transactions on Fuzzy Systems**
-
 - **IEEE Access**
-
 - **Information Science**
-
 - **International Journal of Machine Learning and Cybernetics**
-
 - **Concurrency and Computation: Practice and Experience**
-
