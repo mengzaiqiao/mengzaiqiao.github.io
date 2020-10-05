@@ -18,19 +18,15 @@ You can also download my [CV](../files/ZaiqiaoMeng_CV_latest.pdf) (2020-7-1).
 ## Education
 
 - **Sun Yat-sen University**, Guangzhou, China	2014 - 2018
-
   Ph.D. student in Computer Science and Technology
 
 - **Guangdong University of Technology**, Guangzhou, China	2011 - 2014
-
-  M.S. in Computer Science and Technology
+  M.E. in Computer Science and Technology
 
 - **Jiangxi University of Science and Technology**, Ganzhou, China	2008 - 2010
-
-  B.S. in Software Engineering
+  B.E. in Software Engineering
 
 - **Jiangxi University of Science and Technology**, Nanchang, China	2005 - 2008
-
   Coll. in Software Technology
 
 -------
@@ -50,11 +46,11 @@ You can also download my [CV](../files/ZaiqiaoMeng_CV_latest.pdf) (2020-7-1).
 
 - **IEEE Transactions on Knowledge and Data Engineering (TKDE)**
 
--  **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**
+- **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**
 
 - **Journal of Computer and System Sciences**
 
-- **ACM Computing Surveys **
+- **ACM Computing Surveys**
 
 - **Transactions on Fuzzy Systems**
 
