@@ -49,11 +49,20 @@ You can also download my [CV](../files/ZaiqiaoMeng_CV_latest.pdf) (2020-7-1).
 ### Journal Invited Reviewer
 
 - **IEEE Transactions on Knowledge and Data Engineering (TKDE)**
+
+-  **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**
+
 - **Journal of Computer and System Sciences**
-- **ACM Computing Surveys**
+
+- **ACM Computing Surveys **
+
 - **Transactions on Fuzzy Systems**
+
 - **IEEE Access**
+
 - **Information Science**
+
 - **International Journal of Machine Learning and Cybernetics**
+
 - **Concurrency and Computation: Practice and Experience**
 
