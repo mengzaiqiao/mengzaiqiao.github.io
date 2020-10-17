@@ -9,9 +9,12 @@ tags: [Jekyll, theme, responsive, blog, template]
 
 I am currently a Postdoctoral Researcher (Research Associate) at the [Language Technology Laboratory (LTL)](http://ltl.mml.cam.ac.uk/) of  the **University of Cambridge**, working with Professor [Nigel Collier](https://sites.google.com/site/nhcollier/). Before that, I was a Postdoctoral Researcher (Research Assistant ) at the [Terrier](http://terrierteam.dcs.gla.ac.uk/People.html) team of the University of Glasgow (UoG), working with Professor [Iadh Ounis](http://www.dcs.gla.ac.uk/~ounis/), Dr. [Richard McCreadie](http://dcs.gla.ac.uk/~richardm/Home/) and Dr. [Craig Macdonald](http://www.dcs.gla.ac.uk/~craigm/) . I also have been a visiting PhD student at the [MINE lab](https://mine.kaust.edu.sa/Pages/Home.aspx) of KAUST, working with Prof. [Xiangliang Zhang](https://mine.kaust.edu.sa/Pages/ZhangX.aspx).<br><br>
 
-I obtained my Ph.D in computer science from Sun Yat-sen University (SYSU) in December 2018, working with Professor [Hong Shen](http://www.cs.adelaide.edu.au/~hong). I received my M. E. from Guangdong University of Technology in 2011 and B.E from Jiangxi University of Science and Technology 2010 respectively. <br><br>
+I obtained my Ph.D in computer science from Sun Yat-sen University (SYSU) in December 2018, working with Professor [Hong Shen](http://www.cs.adelaide.edu.au/~hong). <br><br>
 
 # News!
+
+* **2020-10-16:**
+  One paper accepted by WSDM 2021.
 
 * **2020-9-25:**
   Release [Beta-RecSys](https://github.com/beta-team/beta-recsys) v0.2.1.
