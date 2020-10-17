@@ -14,7 +14,7 @@ I obtained my Ph.D in computer science from Sun Yat-sen University (SYSU) in Dec
 # News!
 
 * **2020-10-16:**
-  One paper accepted by WSDM 2021.
+  One paper was accepted by [WSDM 2021](https://www.wsdm-conference.org/2021/).
 
 * **2020-9-25:**
   Release [Beta-RecSys](https://github.com/beta-team/beta-recsys) v0.2.1.
@@ -38,7 +38,7 @@ I obtained my Ph.D in computer science from Sun Yat-sen University (SYSU) in Dec
   One paper entitled "Jointly Learning Representations of Nodes and Attributes for Attributed Networks" has been accepted by [TOIS](https://dl.acm.org/journal/tois).
 
 * **2019-9-3:**
-  One paper was accepted by [*NeurIPS* 2019](https://neurips.cc/Conferences/2019/)  about **Semi-supervisedly Co-embedding Attributed Networks**.
+  One paper entitled "Semi-supervisedly Co-embedding Attributed Networks" was accepted by [*NeurIPS* 2019](https://neurips.cc/Conferences/2019/) .
 
 * **2019-8-8:**
   Three papers were accepted by [*CIKM* 2019](http://www.cikm2019.net/) about **Dynamic recommendation** **User Profile in Community Question Answering**, and **Personalized Product Search**. 
@@ -47,7 +47,7 @@ I obtained my Ph.D in computer science from Sun Yat-sen University (SYSU) in Dec
   Our paper entitled “Fast top-k similarity search in large dynamic attributed networks” has been accepted by **Information Processing & Management**
 
 * **2018-10-22:**
-  Our paper entitled “Co-embedding Attributed Networks” has been accepted by **WSDM 2019** (acceptance rate 16%).
+  Our paper entitled “Co-embedding Attributed Networks” was accepted by **WSDM 2019** (acceptance rate 16%).
 
 # Research Interests
 
