@@ -33,6 +33,7 @@ You can also download my [CV](../files/ZaiqiaoMeng_CV_latest.pdf) (2020-7-1).
 
 ### Program Committee Member
 
+- **SIGKDD** 2021
 - **ICLR** 2021
 - **TheWebConf** 2018, 2021
 - **NeurIPS** 2020
@@ -42,6 +43,7 @@ You can also download my [CV](../files/ZaiqiaoMeng_CV_latest.pdf) (2020-7-1).
 
 ### Journal Invited Reviewer
 
+- **The ACM *Transactions on Information Systems* (*TOIS*)**
 - **IEEE Transactions on Knowledge and Data Engineering (TKDE)**
 - **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**
 - **Journal of Computer and System Sciences**

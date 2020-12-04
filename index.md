@@ -11,7 +11,18 @@ I am currently a Postdoctoral Researcher (Research Associate) at the [Language T
 
 I obtained my Ph.D in computer science from Sun Yat-sen University (SYSU) in December 2018, working with Professor [Hong Shen](http://www.cs.adelaide.edu.au/~hong). <br><br>
 
+I initialised the **Beta-Recsys** project, an open source project for Building, Evaluating and Tuning Automated Recommender Systems.
+
+<p align="left">
+  <a href="https://beta-recsys.readthedocs.io/">
+     <img src="https://beta-recsys.readthedocs.io/en/latest/_static/Logo.svg" alt="Accord Project Logo" width="400"></a>
+</p>
+[![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/beta-team/beta-recsys)[![GitHub stars](https://img.shields.io/github/stars/Naereen/StrapDown.js.svg?style=social&label=Star&maxAge=2592000)](https://github.com/beta-team/beta-recsys)
+
 # News!
+
+* **2020-12-2:**
+  One paper was accepted by [AAAI 2021](https://www.wsdm-conference.org/2021/).
 
 * **2020-10-16:**
   One paper was accepted by [WSDM 2021](https://www.wsdm-conference.org/2021/).
