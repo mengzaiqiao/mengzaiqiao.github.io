@@ -7,7 +7,7 @@ modified: 2-10-2020
 comments: false
 ---
 
-You can also download my [CV](../files/ZaiqiaoMeng_CV_latest.pdf) (2020-7-1).
+You can also download my [CV](../files/ZaiqiaoMeng_CV_latest.pdf) (2020-12-7).
 
 ## Work & Research experience
 
@@ -43,7 +43,7 @@ You can also download my [CV](../files/ZaiqiaoMeng_CV_latest.pdf) (2020-7-1).
 
 ### Journal Invited Reviewer
 
-- **The ACM *Transactions on Information Systems* (*TOIS*)**
+- **The ACM Transactions on Information Systems (TOIS)**
 - **IEEE Transactions on Knowledge and Data Engineering (TKDE)**
 - **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**
 - **Journal of Computer and System Sciences**
@@ -53,3 +53,4 @@ You can also download my [CV](../files/ZaiqiaoMeng_CV_latest.pdf) (2020-7-1).
 - **Information Science**
 - **International Journal of Machine Learning and Cybernetics**
 - **Concurrency and Computation: Practice and Experience**
+
