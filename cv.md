@@ -1,56 +1,84 @@
 ---
 layout: home2
-permalink: /cv/
-title: CV
-tags: [cv]
-modified: 2-10-2020
+permalink: /pa/
+title: Professional Activities
+tags: [Professional Activities]
+modified: 1-1-2021
 comments: false
 ---
 
-You can also download my [CV](../files/ZaiqiaoMeng_CV_latest.pdf) (2020-12-7).
-
-## Work & Research experience
-
-- **Postdoctoral Researcher, University of Cambridge**, Cambridge, UK 2020.7 - Present
-- **Postdoctoral Researcher, University of Glasgow**, Glasgow, UK	2019.3 - 2020.7
-- **Visiting Ph.D, King Abdullah University of Science and Technology**, Thuwal, Saudi Arabia	2018.3 - 2018.8
-
--------
-## Education
-
-- **Sun Yat-sen University**, Guangzhou, China	2014 - 2018
-  Ph.D. student in Computer Science and Technology
-- **Guangdong University of Technology**, Guangzhou, China	2011 - 2014
-  M.E. in Computer Science and Technology
-- **Jiangxi University of Science and Technology**, Ganzhou, China	2008 - 2010
-  B.E. in Software Engineering
-- **Jiangxi University of Science and Technology**, Nanchang, China	2005 - 2008
-  Coll. in Software Technology
-
--------
-
 ## Professional Activities
+----
+### 2021
+#### Conference
+- Program Committee Member,  ICML 2021
+- Program Committee Member,  SIGKDD 2021
+- Program Committee Member,  ACL 2021
 
-### Program Committee Member
+#### Journal
 
-- **SIGKDD** 2021
-- **ICLR** 2021
-- **TheWebConf** 2018, 2021
-- **NeurIPS** 2020
-- **IJCAI** 2020
-- **ECIR** 2020, 2021
-- **AAAI** 2020, 2021
+- 
 
-### Journal Invited Reviewer
+----
+### 2020
+#### Conference
+- Program Committee Member,  RecSys 2020
+- Program Committee Member,  NeurIPS 2020
+- Program Committee Member,  IJCAI 2020
+- Program Committee Member,  The Web Conference 2021
+- Program Committee Member,  ICLR 2021
+- Program Committee Member,  ECIR 2021
+- Program Committee Member,  AAAI 2021
 
-- **The ACM Transactions on Information Systems (TOIS)**
-- **IEEE Transactions on Knowledge and Data Engineering (TKDE)**
-- **IEEE Transactions on Neural Networks and Learning Systems (TNNLS)**
-- **Journal of Computer and System Sciences**
-- **ACM Computing Surveys**
-- **Transactions on Fuzzy Systems**
-- **IEEE Access**
-- **Information Science**
-- **International Journal of Machine Learning and Cybernetics**
-- **Concurrency and Computation: Practice and Experience**
+#### Journal
+- Invited Reviewer, ACM Transactions on Information Systems
+- Invited Reviewer, IEEE Transactions on Knowledge and Data Engineering
+- Invited Reviewer, IEEE Transactions on Neural Networks and Learning Systems
+- Invited Reviewer, IEEE Transactions on Cybernetics
+- Invited Reviewer, ACM Computing Surveys
+
+----
+### 2019
+#### Conference
+- Program Committee Member,  ECIR 2020
+- Program Committee Member,  AAAI 2020
+
+#### Journal
+- Invited Reviewer,  Information Sciences
+- Invited Reviewer,  IEEE Access
+- Invited Journal Reviewer,  IEEE Transactions on Fuzzy Systems
+
+
+----
+### 2018
+#### Conference
+- External Reviewer, CIKM 2018
+- External Reviewer, WWW 2018
+- External Reviewer, SIGIR 2018
+- External Reviewer, EMNLP 2018
+- External Reviewer, IJCAI 2018
+- External Reviewer, WSDM 2019
+
+#### Journal
+- Invited  Reviewer, International Journal of Machine Learning and Cybernetics
+- Invited  Reviewer, Concurrency and Computation: Practice and Experience
+
+----
+### 2017
+
+#### Conference
+
+- External Reviewer, CIKM 2017
+- External Reviewer, SIGIR 2017
+- External Reviewer, WSDM 2017
+
+#### Journal
+- External Reviewer, ACM Transactions on the Web
+
+
+----
+### 2016
+#### Conference
+
+- Reviewer & Venue Organiser, PDCAT 2016
 
