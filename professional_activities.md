@@ -11,6 +11,8 @@ comments: false
 ### 2021
 #### Conference
 - Program Committee Member,  ICML 2021
+- Program Committee Member,  RecSys 2021
+- Program Committee Member,  SIGIR 2021
 - Program Committee Member,  SIGKDD 2021
 - Program Committee Member,  ACL 2021
 
