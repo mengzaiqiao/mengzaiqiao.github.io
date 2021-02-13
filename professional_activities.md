@@ -18,7 +18,7 @@ comments: false
 
 #### Journal
 
-- 
+- Invited Reviewer, IEEE Transactions on Neural Networks and Learning Systems
 
 ----
 ### 2020
