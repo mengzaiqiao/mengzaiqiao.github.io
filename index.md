@@ -21,6 +21,9 @@ I initialised the **Beta-Recsys** project, an open source project for Building, 
 
 # News!
 
+* **2021-03-12:**
+  One paper was accepted by [NAACL 2021](https://2021.naacl.org/), in the paper we designed SapBERT, a self-alignment pretraining scheme to enhance BERT’s abilities in biomedical NLP. 
+
 * **2020-12-2:**
   One paper was accepted by [AAAI 2021](https://www.wsdm-conference.org/2021/).
 

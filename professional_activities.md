@@ -14,11 +14,11 @@ comments: false
 - Program Committee Member,  RecSys 2021
 - Program Committee Member,  SIGIR 2021
 - Program Committee Member,  SIGKDD 2021
-- Program Committee Member,  ACL 2021
 
 #### Journal
 
 - Invited Reviewer, IEEE Transactions on Neural Networks and Learning Systems
+- Invited Reviewer, ACM Transactions on Information Systems
 
 ----
 ### 2020
