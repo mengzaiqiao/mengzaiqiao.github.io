@@ -21,6 +21,9 @@ I initialised the **Beta-Recsys** project, an open source project for Building, 
 
 # News!
 
+* **2021-05-17:**
+  One paper entitled "Gaussian Process with Graph Convolutional Kernel for Relational Learning" was accepted by [SIGKDD 2021](https://www.kdd.org/kdd2021/), in the paper we propose a novel Graph Convolutional Kernel, which enables to incorporate relational structures to feature-based kernels to capture the statistical structure of data.
+
 * **2021-03-12:**
   One paper was accepted by [NAACL 2021](https://2021.naacl.org/), in the paper we designed SapBERT, a self-alignment pretraining scheme to enhance BERT’s abilities in biomedical NLP. 
 
