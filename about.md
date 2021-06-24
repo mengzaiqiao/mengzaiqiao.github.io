@@ -7,7 +7,7 @@ modified: 2-10-2020
 comments: false
 ---
 
-You can also download my [CV](../files/ZaiqiaoMeng_CV_latest.pdf) (2020-12-7).
+You can also download my [CV](../files/ZaiqiaoMeng_CV_latest.pdf) (2021-06-24).
 
 ## Work & Research experience
 
@@ -18,11 +18,9 @@ You can also download my [CV](../files/ZaiqiaoMeng_CV_latest.pdf) (2020-12-7).
 -------
 ## Education
 
-- **Sun Yat-sen University**, Guangzhou, China	2014 - 2018
+- **Sun Yat-sen University**, Guangzhou, China	Dec. 2018
   Ph.D. student in Computer Science and Technology
-- **Guangdong University of Technology**, Guangzhou, China	2011 - 2014
+- **Guangdong University of Technology**, Guangzhou, China	July 2014
   M.E. in Computer Science and Technology
-- **Jiangxi University of Science and Technology**, Ganzhou, China	2008 - 2010
+- **Jiangxi University of Science and Technology**, Ganzhou, China	July 2010
   B.E. in Software Engineering
-- **Jiangxi University of Science and Technology**, Nanchang, China	2005 - 2008
-  Coll. in Software Technology
