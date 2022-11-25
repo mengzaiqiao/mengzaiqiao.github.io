@@ -7,7 +7,7 @@ widget: accomplishments
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 160
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
 title: 'Teaching'
@@ -24,26 +24,23 @@ date_format: Jan 2006
 item:
   - date_end: '2022-12-01'
     date_start: '2022-09-01'
-    organization: COMPSCI5089
-    organization_url: https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI5089
+    organization: Glasgow
+    # description: 'COMPSCI5089'
+    organization_url: https://www.gla.ac.uk/
     url: https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI5089
-    title: Introduction to Data Science and Systems (M)
+    title: Introduction to Data Science and Systems (M) - COMPSCI5089
   - date_end: '2022-08-01'
     date_start: '2022-01-01'
-    description: ''
-    organization: COMPSCI5091
-    organization_url: https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI5091
+    organization: Glasgow
     url: https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI5091
-    title: RECOMMENDER SYSTEMS (M)
-    url: ''
+    organization_url: https://www.gla.ac.uk/
+    title: RECOMMENDER SYSTEMS (M) - COMPSCI5091
   - date_end: '2022-08-01'
     date_start: '2022-01-01'
-    description: ''
-    organization: COMPSCI4075
-    organization_url: https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4075
+    organization: Glasgow
+    organization_url: https://www.gla.ac.uk/
     url: https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI4075
-    title: RECOMMENDER SYSTEMS (H)
-    url: ''
+    title: RECOMMENDER SYSTEMS (H) - COMPSCI4075
 
 design:
   columns: '2'

@@ -1,0 +1,104 @@
+---
+# An instance of the Blank widget with a Gallery page element.
+# Documentation: https://wowchemy.com/docs/getting-started/page-builder/
+widget: markdown
+active: true
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 20
+
+title: News
+subtitle:
+
+design:
+  columns: '1'
+---
+
+* **2022-10-25:** 
+  I will be attending [EMNLP 2022](https://2022.emnlp.org/) (**Abu Dhabi**, **UAE** 🇦🇪) in person.
+  
+* **2022-10-06:** 
+  One paper was accepted by [EMNLP 2022](https://2022.emnlp.org/) on **Parameter-Efficient Tuning**.
+
+* **2022-10-04:** 
+  Our paper entitled **Graph Neural Pre-training for Recommendation with Side Information** was accepted at [ACM TOIS](https://dl.acm.org/journal/tois).
+
+* **2022-09-19:** 
+  Our paper entitled **Enhancing Conversational Recommendation Systems with Representation Fusion** was accepted at [ACM TWEB](https://dl.acm.org/journal/tweb).
+
+* **2022-09-02:** 
+  Given a short talk [University of Glasgow Computational Biology Conference](https://cbc.dcs.gla.ac.uk/schedule.html) on topic of **Biomedical knowledge probing and infusing with pretrained language models**.
+
+* **2022-07-12:** 
+  One paper entitled **Dynamic Co-embedding Model for Temporal Attributed Networks** was accepted at [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
+  
+* **2022-07-08:** 
+  Given a tutorial at [AILC](https://www.ai-lc.it/en/lectures-2022/) on topic of **Knowledge Probing, Infusing and Reasoning in Natural Language Processing**.
+
+* **2022-07-07:** 
+  Given a talk at [Università di Napoli Federico II](http://www.unina.it/) on topic of **BioMedical Knowledge Probing and Infusing in Natural Language Processing**.
+
+* **2022-04-25:** 
+  Two papers were accepted by [TheWebConf 2022](https://www2022.thewebconf.org/), on the tasks of **Product Search** and **Recommender Systems**.
+
+* **2022-02-26:** 
+  One paper was accepted by [ACL 2022](https://www.2022.aclweb.org/) on **Probing BioMedial Knowledge for Language Models**.
+
+* **2021-12-03:** 
+  I will be starting as a **Lecturer (Assistant Professor)** at the [School of Computing Science, University of Glasgow](https://www.gla.ac.uk/schools/computing/) in early 2022. If you would like to do research or do your PhD with me, please feel free to drop me an email with your CV.
+  
+* **2021-12-01**: 
+  One paper was accepted by [AAAI 2022](https://aaai.org/Conferences/AAAI-22/) on the topic of **Multi-Relational Graph Representation Learning**.
+  
+* **2021-09-28:** 
+  Two papers were accepted by [NeurIPS 2021](https://nips.cc/Conferences/2021), on the tasks of **Continual Meta learning** and **Gaussian Process based Graph Learning**.
+  
+* **2021-08-27:**
+  Two papers were accepted by [EMNLP 2021](https://2021.emnlp.org/) on topics of knowledge utilisation and table-to-text generation. 
+  
+* **2021-05-17:**
+  One paper was accepted by [SIGKDD 2021](https://www.kdd.org/kdd2021/) , in the paper we propose a novel Graph Convolutional Kernel, which enables to incorporate relational structures to feature-based kernels to capture the statistical structure of data.
+
+* **2021-03-12:**
+  One paper was accepted by [NAACL 2021](https://2021.naacl.org/), in the paper we designed SapBERT, a self-alignment pretraining scheme to enhance BERT’s abilities in biomedical NLP. 
+
+<!-- * **2020-12-2:**
+  One paper was accepted by [AAAI 2021](https://www.wsdm-conference.org/2021/).
+
+* **2020-10-16:**
+  One paper was accepted by [WSDM 2021](https://www.wsdm-conference.org/2021/). -->
+
+<!-- * **2020-9-25:**
+  Release [Beta-RecSys](https://github.com/beta-team/beta-recsys) v0.2.1.
+
+* **2020-8-14:** One paper entitled "Exploring Data Splitting Strategies for the Evaluation of Recommendation Models" has been accepted for publication in the 2020 Recsys LBR proceedings. 
+
+* **2020-7-17:**
+  Start my new career as a Postdoctoral Researcher at the [Language Technology Laboratory (LTL)](http://ltl.mml.cam.ac.uk/) of the **University of Cambridge**.
+
+* **2020-7-15:**
+  Our demo paper entitled "BETA-Rec: Build, Evaluate and Tune Automated Recommender Systems" has been accepted for presentation at RecSys 2020.
+
+* **2020-7-15:**
+  Release [Beta-RecSys](https://github.com/beta-team/beta-recsys) v0.1.0.
+
+* **2020-3-09:**
+
+  Initiate the [Beta-RecSys](https://github.com/beta-team/beta-recsys) project,  which is an open source project for Building, Evaluating and Tuning Automated Recommender Systems.
+
+* **2019-12-31:**
+  One paper entitled "Jointly Learning Representations of Nodes and Attributes for Attributed Networks" has been accepted by [TOIS](https://dl.acm.org/journal/tois).
+
+* **2019-9-3:**
+  One paper entitled "Semi-supervisedly Co-embedding Attributed Networks" was accepted by [*NeurIPS* 2019](https://neurips.cc/Conferences/2019/) .
+
+* **2019-8-8:**
+  Three papers were accepted by [*CIKM* 2019](http://www.cikm2019.net/) about **Dynamic recommendation** **User Profile in Community Question Answering**, and **Personalized Product Search**. 
+
+* **2019-7-11:**
+  Our paper entitled “Fast top-k similarity search in large dynamic attributed networks” has been accepted by **Information Processing & Management**
+
+* **2018-10-22:**
+  Our paper entitled “Co-embedding Attributed Networks” was accepted by **WSDM 2019** (acceptance rate 16%). -->

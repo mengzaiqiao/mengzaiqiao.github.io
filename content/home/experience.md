@@ -5,6 +5,7 @@ widget: experience
 
 # This file represents a page section.
 headless: true
+active: false
 
 # Order that this section appears on the page.
 weight: 40
@@ -22,28 +23,47 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Lecturer
+    company: University of Glasgow
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: glasgow
+    location: Glasgow
+    date_start: '2022-01-10'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        - Lead the BioKR2 research group.
+        - Teaching.
+        - Supervision.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Postdoctoral Researcher
+    company: University of Cambridge
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: cambridge
+    location: Cambridge
+    date_start: '2020-07-15'
+    date_end: '2022-01-10'
+    description: |2-
+        Focused on research on Nature Language Process in biomedical domain, and key developer and maintainer of the [BioCaster](http://www.biocaster.org/) project.
+
+  - title: Postdoctoral Researcher
+    company: University of Glasgow
+    company_url: ''
+    company_logo: glasgow
+    location: Glasgow
+    date_start: '2019-03-14'
+    date_end: '2020-07-15'
+    description: |2-
+        Conducted research on Recommender Systems, and lead the [Beta-RecSys](https://beta-recsys.readthedocs.io/) project.
+
+  - title: Visiting Ph.D.
+    company: King Abdullah University of Science and Technology 
+    company_url: ''
+    company_logo: kaust
+    location: Jeddah
+    date_start: '2018-03-14'
+    date_end: '2018-08-15'
+    description: |2-
+        Conducted research on graph Neural Networks.
 
 design:
   columns: '2'

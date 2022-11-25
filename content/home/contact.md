@@ -6,7 +6,7 @@ widget: contact
 headless: true
 
 # Order that this section appears on the page.
-weight: 130
+weight: 170
 
 title: Contact
 subtitle:
@@ -20,9 +20,10 @@ content:
   # phone: 888 888 88 88
   address:
     street: 322b Sir Alwyn Williams Building
-    city: Glasgow
-    country: United States
-    country_code: US
+    city: Glasgow, UK
+    country: United Kingdom
+    country_code: UK
+    postcode: G128QQ
   coordinates:
     latitude: '55.87'
     longitude: '-4.29'
