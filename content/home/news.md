@@ -46,8 +46,8 @@ design:
 * **2022-02-26:** 
   One paper was accepted by [ACL 2022](https://www.2022.aclweb.org/) on **Probing BioMedial Knowledge for Language Models**.
 
-* **2021-12-03:** 
-  I will be starting as a **Lecturer (Assistant Professor)** at the [School of Computing Science, University of Glasgow](https://www.gla.ac.uk/schools/computing/) in early 2022. If you would like to do research or do your PhD with me, please feel free to drop me an email with your CV.
+<!-- * **2021-12-03:** 
+  I will be starting as a **Lecturer (Assistant Professor)** at the [School of Computing Science, University of Glasgow](https://www.gla.ac.uk/schools/computing/) in early 2022. If you would like to do research or do your PhD with me, please feel free to drop me an email with your CV. -->
   
 * **2021-12-01**: 
   One paper was accepted by [AAAI 2022](https://aaai.org/Conferences/AAAI-22/) on the topic of **Multi-Relational Graph Representation Learning**.
