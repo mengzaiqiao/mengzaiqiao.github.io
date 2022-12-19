@@ -44,7 +44,7 @@ abstract: 'Knowledge graph embedding (KGE) is a increasingly popular technique t
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

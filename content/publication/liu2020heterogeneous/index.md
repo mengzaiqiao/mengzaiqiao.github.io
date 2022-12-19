@@ -42,7 +42,7 @@ abstract: The users' historical interactions usually contain their interests and
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

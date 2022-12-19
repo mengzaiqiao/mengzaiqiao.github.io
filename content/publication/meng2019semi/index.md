@@ -43,7 +43,7 @@ abstract: Deep generative models (DGMs) have achieved remarkable advances. Semi-
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
