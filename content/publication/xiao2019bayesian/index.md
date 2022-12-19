@@ -1,5 +1,5 @@
 ---
-title: 'Proceedings of the AAAI Conference on Artificial Intelligence'
+title: 'Bayesian deep collaborative matrix factorization'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -43,7 +43,7 @@ abstract: In this paper, we propose a Bayesian Deep Collaborative Matrix Factori
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

@@ -1,39 +1,41 @@
 ---
-title: 'Item diversified recommendation based on influence diffusion'
+title: 'Constrained co-embedding model for user profiling in question answering communities'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Huimin Huang
-  - Hong Shen
+  - Yupeng Luo
+  - Shangsong Liang
   - Zaiqiao Meng
+
 
 
 # Author notes (optional)
 author_notes:
-  - 'Corresponding author'
+  - ''
   - 'Corresponding author'
   - ''
   - ''
 
-date: '2019-05-22T00:00:00Z'
+date: '2019-11-03T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-05-22T00:00:00Z'
+publishDate: '2019-11-03T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Information Processing & Management
-publication_short: Information Processing & Management
+publication: Proceedings of the 28th ACM International Conference on Information and Knowledge Management
+publication_short: CIKM2019
 
-abstract: Recently, the high popularity of social networks accelerates the development of item recommendation. Integrating the influence diffusion of social networks in recommendation systems is a challenging task since topic distribution over users and items is latent and user topic interest may change over time. In this paper, we propose a dynamic generative model for item recommendation which captures the potential influence logs based on the community-level topic influence diffusion to infer the latent topic distribution over users and items. Our model enables tracking the time-varying distributions of topic interest and topic popularity over communities in social networks. A collapsed Gibbs sampling algorithm is proposed to train the model, and an improved diversification algorithm is proposed to obtain item diversified recommendation list. Extensive experiments are conducted to evaluate the effectiveness and efficiency of our method. The results validate our approach and show the superiority of our method compared with state-of-the-art diversified recommendation methods.
+abstract: 'In this paper, we study the problem of user profiling in question answering communities. We address the problem by proposing a constrained co-embedding model (CCEM). CCEM jointly infers the embeddings of both users and words in question answering communities such that the similarities between users and words can be semantically measured. Our CCEM works with constraints which enforce the inferred embeddings of users and words subject to this criteria: given a question in the community, embeddings of users whose answers receive more votes are closer to the embeddings of the words occurring in these answers, compared to the embeddings of those whose answers receive less votes. Experiments on a Chinese dataset, Zhihu dataset, demonstrate that our proposed co-embedding algorithm outperforms state-of-the-art methods in the task of user profiling.'
+
 
 
 # Summary. An optional shortened abstract.
@@ -49,7 +51,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://doi.org/10.1016/j.ipm.2019.01.006'
+url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3357384.3358056'
 # url_code: ''
 url_dataset: ''
 url_poster: ''

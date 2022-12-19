@@ -1,39 +1,46 @@
 ---
-title: 'Item diversified recommendation based on influence diffusion'
+title: 'Can Pretrained Language Models (Yet) Reason Deductively?'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Huimin Huang
-  - Hong Shen
+  - Zhangdie Yuan
+  - Songbo Hu
+  - Ivan Vulić
+  - Anna Korhonen
   - Zaiqiao Meng
+
 
 
 # Author notes (optional)
 author_notes:
-  - 'Corresponding author'
-  - 'Corresponding author'
+  - 'Contributed equally.'
+  - 'Contributed equally.'
   - ''
   - ''
+  - 'Corresponding author'
 
-date: '2019-05-22T00:00:00Z'
+
+date: '2022-10-12T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-05-22T00:00:00Z'
+publishDate: '2022-10-12T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Information Processing & Management
-publication_short: Information Processing & Management
+publication: arxiv
+publication_short: arxiv
 
-abstract: Recently, the high popularity of social networks accelerates the development of item recommendation. Integrating the influence diffusion of social networks in recommendation systems is a challenging task since topic distribution over users and items is latent and user topic interest may change over time. In this paper, we propose a dynamic generative model for item recommendation which captures the potential influence logs based on the community-level topic influence diffusion to infer the latent topic distribution over users and items. Our model enables tracking the time-varying distributions of topic interest and topic popularity over communities in social networks. A collapsed Gibbs sampling algorithm is proposed to train the model, and an improved diversification algorithm is proposed to obtain item diversified recommendation list. Extensive experiments are conducted to evaluate the effectiveness and efficiency of our method. The results validate our approach and show the superiority of our method compared with state-of-the-art diversified recommendation methods.
+
+abstract: Acquiring factual knowledge with Pretrained Language Models (PLMs) has attracted increasing attention, showing promising performance in many knowledge-intensive tasks. Their good performance has led the community to believe that the models do possess a modicum of reasoning competence rather than merely memorising the knowledge. In this paper, we conduct a comprehensive evaluation of the learnable deductive (also known as explicit) reasoning capability of PLMs. Through a series of controlled experiments, we posit two main findings. (i) PLMs inadequately generalise learned logic rules and perform inconsistently against simple adversarial surface form edits. (ii) While the deductive reasoning fine-tuning of PLMs does improve their performance on reasoning over unseen knowledge facts, it results in catastrophically forgetting the previously learnt knowledge. Our main results suggest that PLMs cannot yet perform reliable deductive reasoning, demonstrating the importance of controlled examinations and probing of PLMs' reasoning abilities; we reach beyond (misleading) task performance, revealing that PLMs are still far from human-level reasoning capabilities, even for simple deductive tasks.
+
 
 
 # Summary. An optional shortened abstract.
@@ -49,7 +56,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://doi.org/10.1016/j.ipm.2019.01.006'
+url_pdf: 'https://arxiv.org/pdf/2210.06442'
 # url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -1,39 +1,44 @@
 ---
-title: 'Item diversified recommendation based on influence diffusion'
+title: 'Rewire-then-Probe: A Contrastive Recipe for Probing Biomedical Knowledge of Pre-trained Language Models'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Huimin Huang
-  - Hong Shen
   - Zaiqiao Meng
+  - Fangyu Liu
+  - Ehsan Shareghi
+  - Yixuan Su
+  - Charlotte Collins
+  - Nigel Collier
+
 
 
 # Author notes (optional)
 author_notes:
-  - 'Corresponding author'
-  - 'Corresponding author'
+  - 'Contributed equally'
+  - 'Contributed equally'
   - ''
   - ''
 
-date: '2019-05-22T00:00:00Z'
+date: '2021-12-06T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-05-22T00:00:00Z'
+publishDate: '2021-12-06T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Information Processing & Management
-publication_short: Information Processing & Management
+publication: 'Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)'
+publication_short: ACL2022
 
-abstract: Recently, the high popularity of social networks accelerates the development of item recommendation. Integrating the influence diffusion of social networks in recommendation systems is a challenging task since topic distribution over users and items is latent and user topic interest may change over time. In this paper, we propose a dynamic generative model for item recommendation which captures the potential influence logs based on the community-level topic influence diffusion to infer the latent topic distribution over users and items. Our model enables tracking the time-varying distributions of topic interest and topic popularity over communities in social networks. A collapsed Gibbs sampling algorithm is proposed to train the model, and an improved diversification algorithm is proposed to obtain item diversified recommendation list. Extensive experiments are conducted to evaluate the effectiveness and efficiency of our method. The results validate our approach and show the superiority of our method compared with state-of-the-art diversified recommendation methods.
+
+abstract: Knowledge probing is crucial for understanding the knowledge transfer mechanism behind the pre-trained language models (PLMs). Despite the growing progress of probing knowledge for PLMs in the general domain, specialised areas such as biomedical domain are vastly under-explored. To catalyse the research in this direction, we release a well-curated biomedical knowledge probing benchmark, MedLAMA, which is constructed based on the Unified Medical Language System (UMLS) Metathesaurus. We test a wide spectrum of state-of-the-art PLMs and probing approaches on our benchmark, reaching at most 3% of acc@10. While highlighting various sources of domain-specific challenges that amount to this underwhelming performance, we illustrate that the underlying PLMs have a higher potential for probing tasks. To achieve this, we propose Contrastive-Probe, a novel self-supervised contrastive probing approach, that adjusts the underlying PLMs without using any probing data. While Contrastive-Probe pushes the acc@10 to 28%, the performance gap still remains notable. Our human expert evaluation suggests that the probing performance of our Contrastive-Probe is still under-estimated as UMLS still does not include the full spectrum of factual knowledge. We hope MedLAMA and Contrastive-Probe facilitate further developments of more suited probing techniques for this domain.
 
 
 # Summary. An optional shortened abstract.
@@ -42,15 +47,15 @@ abstract: Recently, the high popularity of social networks accelerates the devel
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://doi.org/10.1016/j.ipm.2019.01.006'
-# url_code: ''
+url_pdf: 'https://arxiv.org/pdf/2110.08173'
+url_code: 'https://github.com/cambridgeltl/medlama'
 url_dataset: ''
 url_poster: ''
 url_project: ''

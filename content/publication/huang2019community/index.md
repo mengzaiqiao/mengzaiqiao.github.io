@@ -43,7 +43,7 @@ abstract: Derived from the idea of word-to-mouth advertising and with applying i
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

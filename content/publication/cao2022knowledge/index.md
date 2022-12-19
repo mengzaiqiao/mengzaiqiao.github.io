@@ -1,39 +1,41 @@
 ---
-title: 'Item diversified recommendation based on influence diffusion'
+title: 'Knowledge Graph Embedding: A Survey from the Perspective of Representation Spaces'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Huimin Huang
-  - Hong Shen
+  - Jiahang Cao
+  - Jinyuan Fang
   - Zaiqiao Meng
+  - Shangsong Liang
 
 
 # Author notes (optional)
 author_notes:
+  - 'Contributed equally'
+  - 'Contributed equally'
   - 'Corresponding author'
   - 'Corresponding author'
-  - ''
-  - ''
 
-date: '2019-05-22T00:00:00Z'
+date: '2022-11-07T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-05-22T00:00:00Z'
+publishDate: '2022-11-07T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: Information Processing & Management
-publication_short: Information Processing & Management
+publication: arxiv
+publication_short: arxiv
 
-abstract: Recently, the high popularity of social networks accelerates the development of item recommendation. Integrating the influence diffusion of social networks in recommendation systems is a challenging task since topic distribution over users and items is latent and user topic interest may change over time. In this paper, we propose a dynamic generative model for item recommendation which captures the potential influence logs based on the community-level topic influence diffusion to infer the latent topic distribution over users and items. Our model enables tracking the time-varying distributions of topic interest and topic popularity over communities in social networks. A collapsed Gibbs sampling algorithm is proposed to train the model, and an improved diversification algorithm is proposed to obtain item diversified recommendation list. Extensive experiments are conducted to evaluate the effectiveness and efficiency of our method. The results validate our approach and show the superiority of our method compared with state-of-the-art diversified recommendation methods.
+
+abstract: 'Knowledge graph embedding (KGE) is a increasingly popular technique that aims to represent entities and relations of knowledge graphs into low-dimensional semantic spaces for a wide spectrum of applications such as link prediction, knowledge reasoning and knowledge completion. In this paper, we provide a systematic review of existing KGE techniques based on representation spaces. Particularly, we build a fine-grained classification to categorise the models based on three mathematical perspectives of the representation spaces: (1) Algebraic perspective, (2) Geometric perspective, and (3) Analytical perspective. We introduce the rigorous definitions of fundamental mathematical spaces before diving into KGE models and their mathematical properties. We further discuss different KGE methods over the three categories, as well as summarise how spatial advantages work over different embedding needs. By collating the experimental results from downstream tasks, we also explore the advantages of mathematical space in different scenarios and the reasons behind them. We further state some promising research directions from a representation space perspective, with which we hope to inspire researchers to design their KGE models as well as their related applications with more consideration of their mathematical space properties.'
 
 
 # Summary. An optional shortened abstract.
@@ -42,14 +44,14 @@ abstract: Recently, the high popularity of social networks accelerates the devel
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://doi.org/10.1016/j.ipm.2019.01.006'
+url_pdf: 'https://arxiv.org/pdf/2211.03536'
 # url_code: ''
 url_dataset: ''
 url_poster: ''

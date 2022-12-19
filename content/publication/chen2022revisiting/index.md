@@ -1,39 +1,41 @@
 ---
-title: 'Item diversified recommendation based on influence diffusion'
+title: 'Revisiting Parameter-Efficient Tuning: Are We Really There Yet?'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Huimin Huang
-  - Hong Shen
+  - Guanzheng Chen
+  - Fangyu Liu
   - Zaiqiao Meng
+  - Shangsong Liang
 
 
 # Author notes (optional)
 author_notes:
-  - 'Corresponding author'
-  - 'Corresponding author'
   - ''
   - ''
+  - ''
+  - 'Corresponding author'
 
-date: '2019-05-22T00:00:00Z'
+date: '2022-02-16T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-05-22T00:00:00Z'
+publishDate: '2022-02-16T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Information Processing & Management
-publication_short: Information Processing & Management
+publication: The 2022 Conference on Empirical Methods in Natural Language Processing
+publication_short: EMNLP2022
 
-abstract: Recently, the high popularity of social networks accelerates the development of item recommendation. Integrating the influence diffusion of social networks in recommendation systems is a challenging task since topic distribution over users and items is latent and user topic interest may change over time. In this paper, we propose a dynamic generative model for item recommendation which captures the potential influence logs based on the community-level topic influence diffusion to infer the latent topic distribution over users and items. Our model enables tracking the time-varying distributions of topic interest and topic popularity over communities in social networks. A collapsed Gibbs sampling algorithm is proposed to train the model, and an improved diversification algorithm is proposed to obtain item diversified recommendation list. Extensive experiments are conducted to evaluate the effectiveness and efficiency of our method. The results validate our approach and show the superiority of our method compared with state-of-the-art diversified recommendation methods.
+
+abstract: Parameter-efficient tuning (PETuning) methods have been deemed by many as the new paradigm for using pretrained language models (PLMs). By tuning just a fraction amount of parameters comparing to full model finetuning, PETuning methods claim to have achieved performance on par with or even better than finetuning. In this work, we take a step back and re-examine these PETuning methods by conducting the first comprehensive investigation into the training and evaluation of PETuning methods. We found the problematic validation and testing practice in current studies, when accompanied by the instability nature of PETuning methods, has led to unreliable conclusions. When being compared under a truly fair evaluation protocol, PETuning cannot yield consistently competitive performance while finetuning remains to be the best-performing method in medium- and high-resource settings. We delve deeper into the cause of the instability and observed that model size does not explain the phenomenon but training iteration positively correlates with the stability.
 
 
 # Summary. An optional shortened abstract.
@@ -42,15 +44,15 @@ abstract: Recently, the high popularity of social networks accelerates the devel
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://doi.org/10.1016/j.ipm.2019.01.006'
-# url_code: ''
+url_pdf: 'https://arxiv.org/pdf/2202.07962'
+url_code: 'https://github.com/guanzhchen/PETuning'
 url_dataset: ''
 url_poster: ''
 url_project: ''

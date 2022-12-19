@@ -46,7 +46,7 @@ abstract: Previous embedding methods for attributed networks aim at learning low
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

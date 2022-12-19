@@ -42,7 +42,7 @@ abstract: 'The problem of influence maximization is to select a small set of see
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

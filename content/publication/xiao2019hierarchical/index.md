@@ -42,7 +42,7 @@ abstract: In this paper, we study the problem of recommending personalized items
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

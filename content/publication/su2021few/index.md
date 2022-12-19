@@ -43,7 +43,7 @@ abstract: "Neural table-to-text generation models have achieved remarkable progr
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

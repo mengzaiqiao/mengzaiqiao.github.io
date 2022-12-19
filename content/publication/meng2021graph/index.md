@@ -1,28 +1,28 @@
 ---
-title: 'Graph neural pre-training for enhancing recommendations using side informatio'
+title: 'Graph neural pre-training for enhancing recommendations using side information'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Zaiqiao Meng
   - Siwei Liu
+  - Zaiqiao Meng
   - Craig Macdonald
   - Iadh Ounis
 
 
 # Author notes (optional)
 author_notes:
-  - ''
-  - ''
+  - 'These authors contributed equally to this work.'
+  - 'These authors contributed equally to this work.'
   - ''
   - ''
 
-date: '2021-07-28T00:00:00Z'
+date: '2022-07-28T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2021-07-28T00:00:00Z'
+publishDate: '2022-07-28T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

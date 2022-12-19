@@ -1,27 +1,36 @@
 ---
-title: 'Item diversified recommendation based on influence diffusion'
+title: 'BioCaster in 2021: Automatic Disease Outbreaks Detection from Global News Media'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Huimin Huang
-  - Hong Shen
   - Zaiqiao Meng
+  - Anya Okhmatovskaia
+  - Maxime Polleri
+  - Yannan Shen
+  - Guido Powell
+  - Zihao Fu
+  - Iris Ganser
+  - Meiru Zhang
+  - Nicholas B King
+  - David Buckeridge
+  - Nigel Collier
+
 
 
 # Author notes (optional)
 author_notes:
-  - 'Corresponding author'
-  - 'Corresponding author'
+  - ''
+  - ''
   - ''
   - ''
 
-date: '2019-05-22T00:00:00Z'
+date: '2022-09-15T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-05-22T00:00:00Z'
+publishDate: '2022-09-15T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,10 +39,11 @@ publishDate: '2019-05-22T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Information Processing & Management
-publication_short: Information Processing & Management
+publication: Bioinformatics
+publication_short: Bioinformatics
 
-abstract: Recently, the high popularity of social networks accelerates the development of item recommendation. Integrating the influence diffusion of social networks in recommendation systems is a challenging task since topic distribution over users and items is latent and user topic interest may change over time. In this paper, we propose a dynamic generative model for item recommendation which captures the potential influence logs based on the community-level topic influence diffusion to infer the latent topic distribution over users and items. Our model enables tracking the time-varying distributions of topic interest and topic popularity over communities in social networks. A collapsed Gibbs sampling algorithm is proposed to train the model, and an improved diversification algorithm is proposed to obtain item diversified recommendation list. Extensive experiments are conducted to evaluate the effectiveness and efficiency of our method. The results validate our approach and show the superiority of our method compared with state-of-the-art diversified recommendation methods.
+
+abstract: BioCaster was launched in 2008 to provide an ontology-based text mining system for early disease detection from open news sources. Following a 6-year break, we have re-launched the system in 2021. Our goal is to systematically upgrade the methodology using state-of-the-art neural network language models, whilst retaining the original benefits that the system provided in terms of logical reasoning and automated early detection of infectious disease outbreaks. Here, we present recent extensions such as neural machine translation in 10 languages, neural classification of disease outbreak reports and a new cloud-based visualization dashboard. Furthermore, we discuss our vision for further improvements, including combining risk assessment with event semantics and assessing the risk of outbreaks with multi-granularity. We hope that these efforts will benefit the global public health community.
 
 
 # Summary. An optional shortened abstract.
@@ -42,21 +52,21 @@ abstract: Recently, the high popularity of social networks accelerates the devel
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://doi.org/10.1016/j.ipm.2019.01.006'
-# url_code: ''
+url_pdf: 'https://academic.oup.com/bioinformatics/article/38/18/4446/6651060'
+url_code: 'https://github.com/cambridgeltl/biocaster_2021'
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'http://biocaster.org'
 # url_slides: ''
 # url_source: ''
-# url_video: ''
+url_video: 'https://www.youtube.com/watch?v=k0mo5MOoffU'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

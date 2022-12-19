@@ -1,27 +1,27 @@
 ---
-title: 'Item diversified recommendation based on influence diffusion'
+title: 'Scalable aspects learning for intent-aware diversified search on social networks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Huimin Huang
-  - Hong Shen
   - Zaiqiao Meng
+  - Hong Shen
+
 
 
 # Author notes (optional)
 author_notes:
-  - 'Corresponding author'
+  - ''
   - 'Corresponding author'
   - ''
   - ''
 
-date: '2019-05-22T00:00:00Z'
+date: '2018-06-27T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-05-22T00:00:00Z'
+publishDate: '2018-06-27T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -30,10 +30,12 @@ publishDate: '2019-05-22T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: Information Processing & Management
-publication_short: Information Processing & Management
+publication: IEEE Access
+publication_short: IEEE Access
 
-abstract: Recently, the high popularity of social networks accelerates the development of item recommendation. Integrating the influence diffusion of social networks in recommendation systems is a challenging task since topic distribution over users and items is latent and user topic interest may change over time. In this paper, we propose a dynamic generative model for item recommendation which captures the potential influence logs based on the community-level topic influence diffusion to infer the latent topic distribution over users and items. Our model enables tracking the time-varying distributions of topic interest and topic popularity over communities in social networks. A collapsed Gibbs sampling algorithm is proposed to train the model, and an improved diversification algorithm is proposed to obtain item diversified recommendation list. Extensive experiments are conducted to evaluate the effectiveness and efficiency of our method. The results validate our approach and show the superiority of our method compared with state-of-the-art diversified recommendation methods.
+
+abstract: Search result diversification on networks aims at selecting a set of representative nodes in response to a given query node so that the result is able to meet users' ambiguous query intents. Previous work mainly tackles this problem based on global diversity metrics, such as the expansion ratio and the expanded relevance, according to which the potential diversity needs of different query are interpreted as an unchanged criterion. While with various side information in real-world social networks, the intents of users often have more than one interpretation underlying the same query. In this paper, we therefore adopt an intent-aware perspective on this problem, based on network representation learning. With the hypothesis that a search result being aware of multiple intents of query is more likely to satisfy the information needs of users, we propose an intent-aware method that first encodes the possible query aspects and nodes as vectors, and then diversifies the search result based on these vectors. In particular, we present aspect2vec, a scalable and flexible network representation learning model, which maps nodes into low-dimensional vector spaces while preserving the network structure, the node attribute, and the query-oriented proximity. An attribute augmented sampling approach is proposed to sample corpus for the three contexts to train the model. Finally, we perform a comprehensive evaluation on our method with various baselines. The results show that our proposed method outperforms the state-of-the-art diversification algorithms.
+
 
 
 # Summary. An optional shortened abstract.
@@ -49,7 +51,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://doi.org/10.1016/j.ipm.2019.01.006'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/8398207'
 # url_code: ''
 url_dataset: ''
 url_poster: ''

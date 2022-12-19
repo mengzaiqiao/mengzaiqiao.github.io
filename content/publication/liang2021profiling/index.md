@@ -41,7 +41,7 @@ abstract: 'In this article, we study the task of user profiling in question answ
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

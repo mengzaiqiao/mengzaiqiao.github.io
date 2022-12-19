@@ -1,39 +1,42 @@
 ---
-title: 'Item diversified recommendation based on influence diffusion'
+title: 'Variational Bayesian representation learning for grocery recommendation'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Huimin Huang
-  - Hong Shen
   - Zaiqiao Meng
+  - Richard McCreadie
+  - Craig Macdonald
+  - Iadh Ounis
+
 
 
 # Author notes (optional)
 author_notes:
-  - 'Corresponding author'
-  - 'Corresponding author'
+  - ''
+  - ''
   - ''
   - ''
 
-date: '2019-05-22T00:00:00Z'
+date: '2021-12-06T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-05-22T00:00:00Z'
+publishDate: '2021-12-06T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: Information Processing & Management
-publication_short: Information Processing & Management
+publication: Information Retrieval Journal
+publication_short: Information Retrieval Journal
 
-abstract: Recently, the high popularity of social networks accelerates the development of item recommendation. Integrating the influence diffusion of social networks in recommendation systems is a challenging task since topic distribution over users and items is latent and user topic interest may change over time. In this paper, we propose a dynamic generative model for item recommendation which captures the potential influence logs based on the community-level topic influence diffusion to infer the latent topic distribution over users and items. Our model enables tracking the time-varying distributions of topic interest and topic popularity over communities in social networks. A collapsed Gibbs sampling algorithm is proposed to train the model, and an improved diversification algorithm is proposed to obtain item diversified recommendation list. Extensive experiments are conducted to evaluate the effectiveness and efficiency of our method. The results validate our approach and show the superiority of our method compared with state-of-the-art diversified recommendation methods.
+
+abstract: Representation learning has been widely applied in real-world recommendation systems to capture the features of both users and items. Existing grocery recommendation methods only represent each user and item by single deterministic points in a low-dimensional continuous space, which limit the expressive ability of their embeddings, resulting in recommendation performance bottlenecks. In addition, existing representation learning methods for grocery recommendation only consider the items (products) as independent entities, neglecting their other valuable side information, such as the textual descriptions and the categorical data of items. In this paper, we propose the Variational Bayesian Context-Aware Representation (VBCAR) model for grocery recommendation. VBCAR is a novel variational Bayesian model that learns distributional representations of users and items by leveraging basket context information from historical interactions. Our VBCAR model is also extendable to leverage side information by encoding contextual features into representations based on the inference encoder. We conduct extensive experiments on three real-world grocery datasets to assess the effectiveness of our model as well as the impact of different construction strategies for item side information. Our results show that our VBCAR model outperforms the current state-of-the-art grocery recommendation models while integrating item side information (especially the categorical features with the textual information of items) results in further significant performance gains. Furthermore, we demonstrate through analysis that our model is able to effectively encode similarities between product types, which we argue is the primary reason for the observed effectiveness gains.
 
 
 # Summary. An optional shortened abstract.
@@ -49,8 +52,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://doi.org/10.1016/j.ipm.2019.01.006'
-# url_code: ''
+url_pdf: 'https://link.springer.com/article/10.1007/s10791-021-09397-1'
+url_code: 'https://github.com/beta-team/beta-recsys'
 url_dataset: ''
 url_poster: ''
 url_project: ''

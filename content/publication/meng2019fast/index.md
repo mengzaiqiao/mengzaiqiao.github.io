@@ -1,27 +1,28 @@
 ---
-title: 'Item diversified recommendation based on influence diffusion'
+title: 'Fast top-k similarity search in large dynamic attributed networks'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Huimin Huang
-  - Hong Shen
   - Zaiqiao Meng
+  - Hong Shen
+
+
 
 
 # Author notes (optional)
 author_notes:
-  - 'Corresponding author'
+  - ''
   - 'Corresponding author'
   - ''
   - ''
 
-date: '2019-05-22T00:00:00Z'
+date: '2019-11-22T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2019-05-22T00:00:00Z'
+publishDate: '2019-11-22T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -33,8 +34,7 @@ publication_types: ['2']
 publication: Information Processing & Management
 publication_short: Information Processing & Management
 
-abstract: Recently, the high popularity of social networks accelerates the development of item recommendation. Integrating the influence diffusion of social networks in recommendation systems is a challenging task since topic distribution over users and items is latent and user topic interest may change over time. In this paper, we propose a dynamic generative model for item recommendation which captures the potential influence logs based on the community-level topic influence diffusion to infer the latent topic distribution over users and items. Our model enables tracking the time-varying distributions of topic interest and topic popularity over communities in social networks. A collapsed Gibbs sampling algorithm is proposed to train the model, and an improved diversification algorithm is proposed to obtain item diversified recommendation list. Extensive experiments are conducted to evaluate the effectiveness and efficiency of our method. The results validate our approach and show the superiority of our method compared with state-of-the-art diversified recommendation methods.
-
+abstract: 'In this paper, we study the problem of retrieving top-k nodes that are similar to a given query node in large dynamic attributed networks. To tackle this problem, we propose a fast Attribute augmented Single-source Path similarity algorithm (ASP). Our ASP constructs an attribute augmented network that integrates both node structure and attribute similarities through similarity scores computed by an efficient single-source path sampling scheme. It also contains simple and effective updating schemes to maintain similarity scores for dynamic edge insertions and deletions. We provide an upper bound of the sampling size of ASP for obtaining an ϵ-approximation estimation of similarity scores with probability at least . We theoretically prove that the sampling size and computational complexity of ASP are significantly lower than that of deploying the currently known most effective method Panther. Implementation results from extensive experiments in both synthetic networks and real-world social networks show that our ASP achieves better convergence performance, runs faster than the baselines, and effectively captures both structure and attribute similarities of the nodes. Specifically, we show that our algorithm can return top-k similar nodes for any query node in the real-world network at least 44x faster than the state-of-the-art methods, and update similarity scores in about 1 second for a batch of network modifications in a network of size 1,000,000.'
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -49,7 +49,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://doi.org/10.1016/j.ipm.2019.01.006'
+url_pdf: 'https://doi.org/10.1016/j.ipm.2019.102074'
 # url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -45,7 +45,7 @@ abstract: Search result diversification is an effective way to tackle query ambi
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

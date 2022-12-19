@@ -44,7 +44,7 @@ abstract: In this paper, we study the problem of personalized product search und
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
