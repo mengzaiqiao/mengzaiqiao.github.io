@@ -36,3 +36,7 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
+
+{{% callout note %}}
+The full publication list can be found in [publications](./publication/).
+{{% /callout %}}
