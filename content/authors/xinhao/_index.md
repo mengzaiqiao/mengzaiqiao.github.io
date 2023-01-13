@@ -1,32 +1,32 @@
 ---
 # Display name
-title: Giacomo Frisoni
+title: Xinhao Yi
 
 # Full name (for SEO)
-first_name: Giacomo
-last_name: Frisoni
+first_name: Xinhao
+last_name: Yi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: PhD student
+role: MSc student
 
 user_groups:
-  - Visiting Researcher
+  - Grad/L4/L5 Students
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Bologna
-    url: https://www.unibo.it/en
+  - name: University of Glasgow
+    url: hhttps://www.gla.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # Interests to show in About widget
 interests:
-  - Natural Language Understanding
-  - Neuro-Symbolic Learning
+  - Information Extraction
+  - Computational Social Science
 
 # Education to show in About widget
 # education:
@@ -40,24 +40,24 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  # - icon: envelope
-  #   icon_pack: fas
-  #   link: 'mailto:giacomo.frisoni@unibo.it'
+#   - icon: envelope
+#     icon_pack: fas
+#     link: 'mailto:zaiqiao.meng@glasgow.ac.uk'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/mengzaiqiao
   #   label: Follow me on Twitter
   #   display:
   #     header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=BEZlFiAAAAAJ&hl=en
+  #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #  icon_pack: fas
+  #  link: https://scholar.google.com/citations?user=39a2s0EAAAAJ&hl=en
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/mengzaiqiao
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/giacomo-frisoni-3b97a8129/
+  # - icon: linkedin
+  #   icon_pack: fab
+  #   link: https://www.linkedin.com/in/meng/
   # - icon: orcid
   #   icon_pack: fab
   #   link: https://orcid.org/0000-0001-5374-0318

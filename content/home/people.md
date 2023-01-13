@@ -12,8 +12,8 @@ content:
   user_groups:
     - Team Lead
     - PhD Students
+    - Visiting Researcher
     - Grad/L4/L5 Students
-    - Visiting Students
 design:
   # Show user's social networking links? (true/false)
   show_social: true
