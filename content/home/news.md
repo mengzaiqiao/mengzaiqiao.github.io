@@ -16,6 +16,9 @@ design:
   columns: '1'
 ---
 
+* **2023-01-21:** 
+  One paper was accepted by [EACL 2023](https://2023.eacl.org/) on **Deductive Reasoning Analysis of Pretrained models.** The preprint of it can be found in [this link](https://arxiv.org/pdf/2210.06442.pdf).
+  
 * **2022-10-25:** 
   I will be attending [EMNLP 2022](https://2022.emnlp.org/) (**Abu Dhabi**, **UAE** 🇦🇪) in person.
   
@@ -48,7 +51,7 @@ design:
 
 <!-- * **2021-12-03:** 
   I will be starting as a **Lecturer (Assistant Professor)** at the [School of Computing Science, University of Glasgow](https://www.gla.ac.uk/schools/computing/) in early 2022. If you would like to do research or do your PhD with me, please feel free to drop me an email with your CV. -->
-  
+
 * **2021-12-01**: 
   One paper was accepted by [AAAI 2022](https://aaai.org/Conferences/AAAI-22/) on the topic of **Multi-Relational Graph Representation Learning**.
   
