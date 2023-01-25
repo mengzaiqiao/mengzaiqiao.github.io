@@ -18,7 +18,7 @@ design:
 
 * **2023-01-24:** 
   
-  Invited to serve as one of the ACs for the track "**Interpretability and Analysis of Models for NLP**" of [ACL 2023](https://2023.aclweb.org/).
+  Invited to serve as one of the ACs of track "**Interpretability and Analysis of Models for NLP**" for [ACL 2023](https://2023.aclweb.org/).
   
 * **2023-01-21:** 
   One paper was accepted by [EACL 2023](https://2023.eacl.org/) on **Deductive Reasoning Analysis of Pretrained models.** The preprint of it can be found in [this link](https://arxiv.org/pdf/2210.06442.pdf).

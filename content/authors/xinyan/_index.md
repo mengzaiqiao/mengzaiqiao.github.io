@@ -10,7 +10,7 @@ last_name: Ye
 superuser: false
 
 # Role/position/tagline
-role: MEng
+role: MEng Student
 
 user_groups:
   - Grad/L4/L5 Students
