@@ -17,7 +17,6 @@ design:
 ---
 
 * **2023-01-24:** 
-  
   Invited to serve as one of the ACs of track "**Interpretability and Analysis of Models for NLP**" for [ACL 2023](https://2023.aclweb.org/).
   
 * **2023-01-21:** 
@@ -50,10 +49,10 @@ design:
 * **2022-04-25:** 
   Two papers were accepted by [TheWebConf 2022](https://www2022.thewebconf.org/), on the tasks of **Product Search** and **Recommender Systems**.
 
-* **2022-02-26:** 
+<!--* **2022-02-26:** 
   One paper was accepted by [ACL 2022](https://www.2022.aclweb.org/) on **Probing BioMedial Knowledge for Language Models**.
 
-<!-- * **2021-12-03:** 
+ * **2021-12-03:** 
   I will be starting as a **Lecturer (Assistant Professor)** at the [School of Computing Science, University of Glasgow](https://www.gla.ac.uk/schools/computing/) in early 2022. If you would like to do research or do your PhD with me, please feel free to drop me an email with your CV. -->
 
 * **2021-12-01**: 
