@@ -16,9 +16,7 @@ design:
   columns: '1'
 ---
 
-* **2023-02-10:** 
-  
-  I gave a guest lecture on "Word Sense and WordNet" for the ["LI18 - Computational Linguistics"](https://www.mmll.cam.ac.uk/li18) course offered by Professor Nigel Collier at the University of Cambridge. 
+* **2023-02-10:** I gave a guest lecture on "Word Sense and WordNet" for the ["LI18 - Computational Linguistics"](https://www.mmll.cam.ac.uk/li18) course offered by Professor Nigel Collier at the University of Cambridge. 
   
 * **2023-01-24:** 
   I am an **Area Chair** for the "**Interpretability and Analysis of Models for NLP**" track of [ACL 2023](https://2023.aclweb.org/).
@@ -52,27 +50,23 @@ design:
 
 * **2022-04-25:** 
   Two papers were accepted by [TheWebConf 2022](https://www2022.thewebconf.org/), on the tasks of **Product Search** and **Recommender Systems**.
+  
+* **2022-02-26:** 
+    One paper was accepted by [ACL 2022](https://www.2022.aclweb.org/) on **Probing BioMedial Knowledge for Language Models**.
 
-<!--* **2022-02-26:** 
-  One paper was accepted by [ACL 2022](https://www.2022.aclweb.org/) on **Probing BioMedial Knowledge for Language Models**.
-
- * **2021-12-03:** 
-    I will be starting as a **Lecturer (Assistant Professor)** at the [School of Computing Science, University of Glasgow](https://www.gla.ac.uk/schools/computing/) in early 2022. If you would like to do research or do your PhD with me, please feel free to drop me an email with your CV. -->
+<!--***2021-12-03:** 
+I will be starting as a **Lecturer (Assistant Professor)** at the [School of Computing Science, University of Glasgow](https://www.gla.ac.uk/schools/computing/) in early 2022. If you would like to do research or do your PhD with me, please feel free to drop me an email with your CV. 
 
 * **2021-12-01**: 
   One paper was accepted by [AAAI 2022](https://aaai.org/Conferences/AAAI-22/) on the topic of **Multi-Relational Graph Representation Learning**.
-  
 * **2021-09-28:** 
   Two papers were accepted by [NeurIPS 2021](https://nips.cc/Conferences/2021), on the tasks of **Continual Meta learning** and **Gaussian Process based Graph Learning**.
-  
 * **2021-08-27:**
   Two papers were accepted by [EMNLP 2021](https://2021.emnlp.org/) on topics of knowledge utilisation and table-to-text generation. 
-  
 * **2021-05-17:**
   One paper was accepted by [SIGKDD 2021](https://www.kdd.org/kdd2021/) , in the paper we propose a novel Graph Convolutional Kernel, which enables to incorporate relational structures to feature-based kernels to capture the statistical structure of data.
-
 * **2021-03-12:**
-  One paper was accepted by [NAACL 2021](https://2021.naacl.org/), in the paper we designed SapBERT, a self-alignment pretraining scheme to enhance BERT’s abilities in biomedical NLP. 
+  One paper was accepted by [NAACL 2021](https://2021.naacl.org/), in the paper we designed SapBERT, a self-alignment pretraining scheme to enhance BERT’s abilities in biomedical NLP. -->
 
 <!-- * **2020-12-2:**
   One paper was accepted by [AAAI 2021](https://www.wsdm-conference.org/2021/).
