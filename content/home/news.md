@@ -16,7 +16,7 @@ design:
   columns: '1'
 ---
 
-* **2023-02-10:** I gave a guest lecture on "Word Sense and WordNet" for the ["LI18 - Computational Linguistics"](https://www.mmll.cam.ac.uk/li18) course offered by Professor Nigel Collier at the University of Cambridge. 
+* **2023-02-10:** I gave a guest lecture on "Words Sense and WordNet" for the ["LI18 - Computational Linguistics"](https://www.mmll.cam.ac.uk/li18) course offered by Professor Nigel Collier at the University of Cambridge. 
   
 * **2023-01-24:** 
   I am an **Area Chair** for the "**Interpretability and Analysis of Models for NLP**" track of [ACL 2023](https://2023.aclweb.org/).
