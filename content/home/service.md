@@ -18,7 +18,7 @@ design:
 
 #### **Conference Area Chair/Senior Program Committee:**
 
-- Annual Meeting of the Association for Computational Linguistics (**ACL**), 2023
+- The Annual Meeting of the Association for Computational Linguistics (**ACL**), 2023
 
 #### **Conference Program Committee/Reviewer:** 
 
