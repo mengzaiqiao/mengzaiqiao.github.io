@@ -31,6 +31,7 @@ interests:
   - Knowledge Graph
   - Geometric Deep Learning
   - Recommender Systems
+  - AI for Science
 
 # Education to show in About widget
 education:
