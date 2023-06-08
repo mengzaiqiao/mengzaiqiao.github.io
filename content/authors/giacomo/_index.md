@@ -10,10 +10,10 @@ last_name: Frisoni
 superuser: false
 
 # Role/position/tagline
-role: PhD student
+role: Visiting PhD (2022.9 - 2022.12)
 
 user_groups:
-  - Visiting Researcher
+  - Past Lab Members
 
 # Organizations/Affiliations to show in About widget
 organizations:

@@ -10,10 +10,10 @@ last_name: Zhang
 superuser: false
 
 # Role/position/tagline
-role: PhD student
+role: PhD student (2021.10 - )
 
 user_groups:
-  - PhD Students
+  - Current Members
 
 # Organizations/Affiliations to show in About widget
 organizations:

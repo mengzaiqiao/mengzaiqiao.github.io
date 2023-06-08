@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Adam Fairlie
+title: Varsha Joshy
 
 # Full name (for SEO)
-first_name: Adam
-last_name: Fairlie
+first_name: Varsha
+last_name: Joshy
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: BSc/MSc student (2022.09 - )
+role: BSc/MSc student (2022.6 - 2022.9) Now Senior Software Engineer at JPMC
 
 user_groups:
-  - Current Members
+  - Past Lab Members
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -55,9 +55,9 @@ social:
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/mengzaiqiao
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/in/meng/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/varshajoshy/
   # - icon: orcid
   #   icon_pack: fab
   #   link: https://orcid.org/0000-0001-5374-0318
@@ -75,11 +75,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-I am currently a **Lecturer (Assistant Professor)** of the [University of Glasgow](www.gla.ac.uk), based within the world-leading [Information Retrieval group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/) and [IDA section](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/) of [School of Computing Science](https://www.gla.ac.uk/schools/computing). I am also an **affiliated lecturer** at the [Language Technology Lab (LTL)](https://ltl.mmll.cam.ac.uk/) of University of Cambridge.
-Prior to that, I was a Postdoctoral Researcher (Research Associate) at the [Language Technology Lab (LTL)](https://ltl.mmll.cam.ac.uk/) of the University of Cambridge; and a Postdoctoral Researcher (Research Assistant) at the [Information Retrieval group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/) of the University of Glasgow. I also have been a visiting PhD student at the [MINE lab](https://cemse.kaust.edu.sa/mine) of [KAUST](https://www.kaust.edu.sa/en).
-
-I am current leading a small research team consisting of PhDs, masters and undergrad students working on Biomedical Knowledge Extraction, Representation & Reasoning Learning. Students who are interested in working with me, or want to do your PhD with me, please read this [post](/post/working-with-me/) for some information.
 
 <!-- I obtained my Ph.D in computer science from Sun Yat-sen University (SYSU) in December 2018. -->
 

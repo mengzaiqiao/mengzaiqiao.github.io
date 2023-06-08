@@ -10,10 +10,10 @@ last_name: Fang
 superuser: false
 
 # Role/position/tagline
-role: PhD student
+role: PhD student (2022.11 - )
 
 user_groups:
-  - PhD Students
+  - Current Members
 
 # Organizations/Affiliations to show in About widget
 organizations:

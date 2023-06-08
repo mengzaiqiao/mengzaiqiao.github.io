@@ -10,10 +10,10 @@ last_name: Traynor
 superuser: false
 
 # Role/position/tagline
-role: L5 student
+role: BSc/MSc student (2022.10 - )
 
 user_groups:
-  - Grad/L4/L5 Students
+  - Current Members
 
 # Organizations/Affiliations to show in About widget
 organizations:

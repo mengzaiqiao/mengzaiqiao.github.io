@@ -10,10 +10,10 @@ last_name: Yi
 superuser: false
 
 # Role/position/tagline
-role: MSc student
+role: PhD student (2023.10 - )
 
 user_groups:
-  - Grad/L4/L5 Students
+  - Current Members
 
 # Organizations/Affiliations to show in About widget
 organizations:

@@ -10,10 +10,10 @@ last_name: Meng
 superuser: false
 
 # Role/position/tagline
-role: L4 student
+role: BSc/MSc student (2022.7 - )
 
 user_groups:
-  - Grad/L4/L5 Students
+  - Current Members
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -21,7 +21,7 @@ organizations:
     url: hhttps://www.gla.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio:  2023-
 
 # Interests to show in About widget
 interests:

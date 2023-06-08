@@ -1,19 +1,19 @@
 ---
 # Display name
-title: Adam Fairlie
+title: Anmol Kumar
 
 # Full name (for SEO)
-first_name: Adam
-last_name: Fairlie
+first_name: Anmol
+last_name: Kumar
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: BSc/MSc student (2022.09 - )
+role: BSc/MSc student (2022.6 - 2022.9) Now Engineer@Extend Robotics
 
 user_groups:
-  - Current Members
+  - Past Lab Members
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -55,9 +55,9 @@ social:
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/mengzaiqiao
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/in/meng/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/anmol-kr-azvenus/
   # - icon: orcid
   #   icon_pack: fab
   #   link: https://orcid.org/0000-0001-5374-0318
