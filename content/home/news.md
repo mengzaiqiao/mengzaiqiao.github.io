@@ -16,7 +16,15 @@ design:
   columns: '1'
 ---
 
-* **2023-02-10:** I gave a guest lecture on "Words Sense and WordNet" for the ["LI18 - Computational Linguistics"](https://www.mmll.cam.ac.uk/li18) course offered by Professor Nigel Collier at the University of Cambridge. 
+* **2023-06-08:** I gave an invited talk on "**Probing and Infusing Biomedical Knowledge for Pre-trained Language Models**" in ["NLP for Social Good (NSG) Symposium 2023"](https://nlp4social.github.io/nlp4socialgood/index.html) hosted by Dr [Procheta Sen ](https://procheta.github.io/sprocheta/) at the University of Liverpool. 
+  
+* **2023-05-22:** One paper was accepted by [Matching ACL 2023](https://megagon.ai/matching-2023/) on **Generative Event Extraction**.
+  
+* **2023-05-02:** One paper was accepted by [ACL 2023](https://2023.aclweb.org/) on **Few-shot NER**.
+  
+* **2023-03-02:** One paper was accepted by [*Transactions on the Web* (TWEB)](https://dl.acm.org/journal/tweb) on **Conversational Recommendation Systems**.
+  
+* **2023-02-10:** I gave a guest lecture on "Words Sense and WordNet" for the ["LI18 - Computational Linguistics"](https://www.mmll.cam.ac.uk/li18) course offered by Professor Nigel Collier at the University of Cambridge.
   
 * **2023-01-24:** 
   I am an **Area Chair** for the "**Interpretability and Analysis of Models for NLP**" track of [ACL 2023](https://2023.aclweb.org/).
