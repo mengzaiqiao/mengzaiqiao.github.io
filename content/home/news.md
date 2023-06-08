@@ -16,7 +16,7 @@ design:
   columns: '1'
 ---
 
-* **2023-06-08:** I gave an invited talk on "**Probing and Infusing Biomedical Knowledge for Pre-trained Language Models**" in ["NLP for Social Good (NSG) Symposium 2023"](https://nlp4social.github.io/nlp4socialgood/index.html) hosted by Dr [Procheta Sen ](https://procheta.github.io/sprocheta/) at the University of Liverpool. 
+* **2023-06-09:** I gave an invited talk on "**Probing and Infusing Biomedical Knowledge for Pre-trained Language Models**" in ["NLP for Social Good (NSG) Symposium 2023"](https://nlp4social.github.io/nlp4socialgood/index.html) hosted by Dr [Procheta Sen ](https://procheta.github.io/sprocheta/) at the University of Liverpool. 
   
 * **2023-05-22:** One paper was accepted by [Matching ACL 2023](https://megagon.ai/matching-2023/) on **Generative Event Extraction**.
   
