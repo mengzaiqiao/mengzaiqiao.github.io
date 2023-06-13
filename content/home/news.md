@@ -50,7 +50,7 @@ design:
 * **2022-07-12:** 
   One paper entitled **Dynamic Co-embedding Model for Temporal Attributed Networks** was accepted at [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
   
-  <!--
+<!--
   
 * **2022-07-08:** 
   Given a tutorial at [AILC](https://www.ai-lc.it/en/lectures-2022/) on topic of **Knowledge Probing, Infusing and Reasoning in Natural Language Processing**.
