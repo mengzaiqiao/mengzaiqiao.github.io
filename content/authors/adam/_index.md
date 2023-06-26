@@ -10,10 +10,10 @@ last_name: Fairlie
 superuser: false
 
 # Role/position/tagline
-role: BSc/MSc student (2022.09 - )
+role: BSc/MSc student (2022.09 - 2023.01)
 
 user_groups:
-  - Current Members
+  - Past Lab Members
 
 # Organizations/Affiliations to show in About widget
 organizations:
