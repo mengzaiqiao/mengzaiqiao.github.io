@@ -16,6 +16,9 @@ design:
   columns: '1'
 ---
 
+* **2023-06-26:** 
+  Invited to serve as one of the Area Chairs for the track "**Interpretability, Interactivity and Analysis of Models for NLP**" of [EMNLP 2023](https://2023.emnlp.org/).
+
 * **2023-06-09:** I gave an invited talk on "**Probing and Infusing Biomedical Knowledge for Pre-trained Language Models**" in ["NLP for Social Good (NSG) Symposium 2023"](https://nlp4social.github.io/nlp4socialgood/index.html) hosted by Dr [Procheta Sen ](https://procheta.github.io/sprocheta/) at the University of Liverpool. 
 
 * **2023-05-22:** One paper was accepted by [Matching ACL 2023](https://megagon.ai/matching-2023/) on **Generative Event Extraction**.
@@ -50,8 +53,9 @@ design:
 * **2022-07-12:** 
   One paper entitled **Dynamic Co-embedding Model for Temporal Attributed Networks** was accepted at [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
   
+
 <!--
-  
+
 * **2022-07-08:** 
   Given a tutorial at [AILC](https://www.ai-lc.it/en/lectures-2022/) on topic of **Knowledge Probing, Infusing and Reasoning in Natural Language Processing**.
 

@@ -19,6 +19,7 @@ design:
 #### **Conference Area Chair/Senior Program Committee:**
 
 - The Annual Meeting of the Association for Computational Linguistics (**ACL**), 2023
+- The Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2023
 
 #### **Conference Program Committee/Reviewer:** 
 
@@ -48,6 +49,7 @@ design:
 - ACM Transactions on Information Systems
 - ACM Transactions on the Web
 - ACM Computing Surveys
+- ACM Transactions on Recommender Systems
 - IEEE Transactions on Knowledge and Data Engineering
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Cybernetics
