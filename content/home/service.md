@@ -24,7 +24,7 @@ design:
 #### **Conference Program Committee/Reviewer:** 
 
 - International Conference on Machine Learning (**ICML**),  2021, 2022, 2023
-- The Conference on Neural Information Processing Systems (**NeurIPS**), 2020, 2021, 2022
+- The Conference on Neural Information Processing Systems (**NeurIPS**), 2020, 2021, 2022, 2023
 - The International Conference on Learning Representations (**ICLR**), 2021, 2022, 2023
 - The Annual Meeting of the Association for Computational Linguistics (**ACL**), 2022, 2023
 - [ACL Rolling Review](https://aclrollingreview.org/), 2021, 2022, 2023
