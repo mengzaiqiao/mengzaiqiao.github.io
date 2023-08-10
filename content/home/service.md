@@ -36,7 +36,7 @@ design:
 - The European Conference on Information Retrieval (**ECIR**), 2020, 2021, 2022, 2023
 - The ACM Web Conference (**WWW**), 2018, 2021, 2022, 2023
 - The ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**), 2021, 2022
-- The AAAI Conference on Artificial Intelligence (**AAAI**), 2020, 2021, 2022, 2023
+- The AAAI Conference on Artificial Intelligence (**AAAI**), 2020, 2021, 2022, 2023, 2024
 - The ACM Recommender Systems Conference (**RecSys**), 2020, 2021, 2022
 - International Joint Conference on Artificial Intelligence (**IJCAI**), 2018, 2020, 2022
 - The SIAM International Conference on Data Mining (**SDM**), 2022

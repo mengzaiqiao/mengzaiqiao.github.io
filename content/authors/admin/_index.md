@@ -26,7 +26,7 @@ bio: My research focuses on the intersection of machine learning, knowledge grap
 # Interests to show in About widget
 interests:
   - Machine Learning
-  - Nature Language Processing
+  - Natural Language Processing
   - Information Retrieval
   - Knowledge Graph
   - Geometric Deep Learning
