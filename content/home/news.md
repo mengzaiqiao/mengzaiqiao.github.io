@@ -16,43 +16,36 @@ design:
   columns: '1'
 ---
 
-* **2023-06-26:** 
-  Invited to serve as one of the Area Chairs for the track "**Interpretability, Interactivity and Analysis of Models for NLP**" of [EMNLP 2023](https://2023.emnlp.org/).
+* **2023-10-9:**  Two papers were accepted by [EMNLP 2023](https://2023.emnlp.org/) on **Unsupervised Biomedical NER** and **Multimodal Generative Language Model**.
 
+- **2023-09-26: ** Our survey paper on **Knowledge Graph Embedding** was accepted by **ACM Computing Surveys**.
+- **2023-08-14: ** Our survey paper on **Multimodal Language Modelling** was accepted by **[ACM Transactions on Multimedia Computing, Communications, and Applications](https://eprints.gla.ac.uk/view/journal_volume/ACM_Transactions_on_Multimedia_Computing,_Communications,_and_Applications.html)**.
+
+- **2023-08-05: **One paper was accepted by [CIKM 2023](https://uobevents.eventsair.com/cikm2023/) on **Knowledge-enhance Passage Ranking**.
+
+* **2023-06-26:** Invited to serve as one of the Area Chairs for the track "**Interpretability, Interactivity and Analysis of Models for NLP**" of [EMNLP 2023](https://2023.emnlp.org/).
 * **2023-06-09:** I gave an invited talk on "**Probing and Infusing Biomedical Knowledge for Pre-trained Language Models**" in ["NLP for Social Good (NSG) Symposium 2023"](https://nlp4social.github.io/nlp4socialgood/index.html) hosted by Dr [Procheta Sen ](https://procheta.github.io/sprocheta/) at the University of Liverpool. 
-
 * **2023-05-22:** One paper was accepted by [Matching ACL 2023](https://megagon.ai/matching-2023/) on **Generative Event Extraction**.
-
 * **2023-05-02:** One paper was accepted by [ACL 2023](https://2023.aclweb.org/) on **Few-shot NER**.
-
 * **2023-03-02:** One paper was accepted by [*Transactions on the Web* (TWEB)](https://dl.acm.org/journal/tweb) on **Conversational Recommendation Systems**.
-
 * **2023-02-10:** I gave a guest lecture on "Words Sense and WordNet" for the ["LI18 - Computational Linguistics"](https://www.mmll.cam.ac.uk/li18) course offered by Professor Nigel Collier at the University of Cambridge.
-
 * **2023-01-24:** 
   I am an **Area Chair** for the "**Interpretability and Analysis of Models for NLP**" track of [ACL 2023](https://2023.aclweb.org/).
-  
 * **2023-01-21:** 
   One paper was accepted by [EACL 2023](https://2023.eacl.org/) on **Deductive Reasoning Analysis of Pretrained models.** The preprint of it can be found in [this link](https://arxiv.org/pdf/2210.06442.pdf).
-  
 * **2022-10-25:** 
   I will be attending [EMNLP 2022](https://2022.emnlp.org/) (**Abu Dhabi**, **UAE** 🇦🇪) in person.
-  
 * **2022-10-06:** 
   One paper was accepted by [EMNLP 2022](https://2022.emnlp.org/) on **Parameter-Efficient Tuning**.
-
 * **2022-10-04:** 
   Our paper entitled **Graph Neural Pre-training for Recommendation with Side Information** was accepted at [ACM TOIS](https://dl.acm.org/journal/tois).
-
 * **2022-09-19:** 
   Our paper entitled **Enhancing Conversational Recommendation Systems with Representation Fusion** was accepted at [ACM TWEB](https://dl.acm.org/journal/tweb).
-
 * **2022-09-02:** 
   Given a short talk [University of Glasgow Computational Biology Conference](https://cbc.dcs.gla.ac.uk/schedule.html) on topic of **Biomedical knowledge probing and infusing with pretrained language models**.
-
 * **2022-07-12:** 
   One paper entitled **Dynamic Co-embedding Model for Temporal Attributed Networks** was accepted at [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
-  
+
 
 <!--
 

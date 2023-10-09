@@ -25,7 +25,7 @@ design:
 
 - International Conference on Machine Learning (**ICML**),  2021, 2022, 2023
 - The Conference on Neural Information Processing Systems (**NeurIPS**), 2020, 2021, 2022, 2023
-- The International Conference on Learning Representations (**ICLR**), 2021, 2022, 2023
+- The International Conference on Learning Representations (**ICLR**), 2021, 2022, 2023, 2024
 - The Annual Meeting of the Association for Computational Linguistics (**ACL**), 2022, 2023
 - [ACL Rolling Review](https://aclrollingreview.org/), 2021, 2022, 2023
 - The Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2018, 2021, 2022
@@ -49,6 +49,7 @@ design:
 - ACM Transactions on Information Systems
 - ACM Transactions on the Web
 - ACM Computing Surveys
+- Information Retrieval Journal
 - ACM Transactions on Recommender Systems
 - IEEE Transactions on Knowledge and Data Engineering
 - IEEE Transactions on Neural Networks and Learning Systems
