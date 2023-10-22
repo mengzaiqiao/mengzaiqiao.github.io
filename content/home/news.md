@@ -19,7 +19,7 @@ design:
 * **2023-10-9:**  Two papers were accepted by [EMNLP 2023](https://2023.emnlp.org/) on **Unsupervised Biomedical NER** and **Multimodal Generative Language Model**.
 
 - **2023-09-26: ** Our survey paper on **Knowledge Graph Embedding** was accepted by **ACM Computing Surveys**.
-- **2023-08-14: ** Our survey paper on **Multimodal Language Modelling** was accepted by **[ACM Transactions on Multimedia Computing, Communications, and Applications](https://eprints.gla.ac.uk/view/journal_volume/ACM_Transactions_on_Multimedia_Computing,_Communications,_and_Applications.html)**.
+- **2023-08-14: ** Our survey paper on **Multimodal Language Modelling** was accepted by ACM Transactions on Multimedia Computing, Communications, and Applications
 
 - **2023-08-05: **One paper was accepted by [CIKM 2023](https://uobevents.eventsair.com/cikm2023/) on **Knowledge-enhance Passage Ranking**.
 
