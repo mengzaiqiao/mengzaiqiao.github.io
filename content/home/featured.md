@@ -38,5 +38,5 @@ design:
 ---
 
 {{% callout note %}}
-The full publication list can be found in [publications](./publication/).
+The full publication list can be found in [publications](./publication/) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=5jJKFVcAAAAJ&view_op=list_works&sortby=pubdate).
 {{% /callout %}}

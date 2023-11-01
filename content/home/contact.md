@@ -19,7 +19,7 @@ content:
   email: zaiqiao.meng@glasgow.ac.uk
   # phone: 888 888 88 88
   address:
-    street: 322b Sir Alwyn Williams Building
+    street: 220b Sir Alwyn Williams Building
     city: Glasgow, UK
     country: United Kingdom
     country_code: UK

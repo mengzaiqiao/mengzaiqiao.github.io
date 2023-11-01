@@ -22,31 +22,19 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-  - date_end: '2023-08-01'
-    date_start: '2022-09-01'
-    organization: Glasgow
-    url: https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI5091
-    organization_url: https://www.gla.ac.uk/
-    title: RECOMMENDER SYSTEMS (H/M) - COMPSCI4075/COMPSCI5091
-  - date_end: '2023-08-01'
-    date_start: '2022-09-01'
-    organization: Cambridge
-    organization_url: https://www.cam.ac.uk/
-    url: https://www.mmll.cam.ac.uk/li18
-    title: LI18 - Computational Linguistics (Guest Lecturer)
-  - date_end: '2023-08-01'
+  - date_end: '2023-12-01'
     date_start: '2022-09-01'
     organization: Glasgow
     organization_url: https://www.gla.ac.uk/
     url: https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI5089
     title: Introduction to Data Science and Systems (M) - COMPSCI5089
-  - date_end: '2022-08-01'
+  - date_end: '2024-08-01'
     date_start: '2021-09-01'
     organization: Glasgow
     url: https://www.gla.ac.uk/coursecatalogue/course/?code=COMPSCI5091
     organization_url: https://www.gla.ac.uk/
     title: RECOMMENDER SYSTEMS (H/M) - COMPSCI4075/COMPSCI5091
-  - date_end: '2022-08-01'
+  - date_end: '2023-08-01'
     date_start: '2021-09-01'
     organization: Cambridge
     organization_url: https://www.cam.ac.uk/

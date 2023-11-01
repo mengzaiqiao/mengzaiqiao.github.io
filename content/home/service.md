@@ -16,6 +16,11 @@ design:
   columns: '2'
 ---
 
+#### **Conference/Workshop Organisers:**
+- [The European Conference on Information Retrieval (**ECIR**) 2024](https://www.ecir2024.org/), Local Organisation Chair
+- [The First Workshop on Knowledge-Enhanced Information Retrieval workshop (KEIR @ ECIR 2024)](https://keirworkshop.github.io/), Workshop Organiser
+
+
 #### **Conference Area Chair/Senior Program Committee:**
 
 - The Annual Meeting of the Association for Computational Linguistics (**ACL**), 2023
@@ -33,8 +38,8 @@ design:
 - The ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2018, 2021, 2022, 2023
 - The Conference on Information and Knowledge Management (**CIKM**), 2017, 2018
 - The ACM Conference on Web Search and Data Mining (**WSDM**), 2018, 2019
-- The European Conference on Information Retrieval (**ECIR**), 2020, 2021, 2022, 2023
-- The ACM Web Conference (**WWW**), 2018, 2021, 2022, 2023
+- The European Conference on Information Retrieval (**ECIR**), 2020, 2021, 2022, 2023， 2024
+- The ACM Web Conference (**WWW**), 2018, 2021, 2022, 2023， 2024
 - The ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**SIGKDD**), 2021, 2022
 - The AAAI Conference on Artificial Intelligence (**AAAI**), 2020, 2021, 2022, 2023, 2024
 - The ACM Recommender Systems Conference (**RecSys**), 2020, 2021, 2022
@@ -59,5 +64,3 @@ design:
 - IEEE Access
 - International Journal of Machine Learning and Cybernetics
 - Concurrency and Computation: Practice and Experience
-
-  

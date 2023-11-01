@@ -10,10 +10,10 @@ last_name: Traynor
 superuser: false
 
 # Role/position/tagline
-role: BSc/MSc student (2022.10 - )
+role: BSc/MSc student (2022.10 - 2023.9) Now Research & Development Graduate at Canon Medical Research Europe
 
 user_groups:
-  - Current Members
+  - Past Lab Members
 
 # Organizations/Affiliations to show in About widget
 organizations:
