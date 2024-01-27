@@ -1,24 +1,24 @@
 ---
 # Display name
-title: Meiru Zhang
+title: Francesco Dalla Serra
 
 # Full name (for SEO)
-first_name: Meiru
-last_name: Zhang
+first_name: Francesco Dalla
+last_name: Serra
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: PhD student (2021.10 - )
+role: PhD student (2023.10 - )
 
 user_groups:
   - Current Members
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Cambridge
-    url: https://www.cam.ac.uk/
+  - name: University of Glasgow
+    url: https://www.glasgow.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 

@@ -1,0 +1,178 @@
+
+@inproceedings{fang_kgpr_2023,
+  address    = {Birmingham United Kingdom},
+  author     = {Fang, Jinyuan and Meng, Zaiqiao and Macdonald, Craig},
+  booktitle  = {Proceedings of the 32nd {ACM} {International} {Conference} on {Information} and {Knowledge} {Management}},
+  doi        = {10.1145/3583780.3615252},
+  file       = {Available Version (via Google Scholar):files/13339/Fang et al. - 2023 - KGPR Knowledge Graph Enhanced Passage Ranking.pdf:application/pdf},
+  isbn       = {9798400701245},
+  language   = {en},
+  month      = oct,
+  pages      = {3880--3885},
+  publisher  = {ACM},
+  shorttitle = {{KGPR}},
+  title      = {{KGPR}: {Knowledge} {Graph} {Enhanced} {Passage} {Ranking}},
+  url        = {https://dl.acm.org/doi/10.1145/3583780.3615252},
+  urldate    = {2023-11-01},
+  year       = {2023}
+}
+
+@inproceedings{fang_manner_2023,
+  author     = {Fang, Jinyuan and Wang, Xiaobin and Meng, Zaiqiao and Xie, Pengjun and Huang, Fei and Jiang, Yong},
+  booktitle  = {Proceedings of the 61st {Annual} {Meeting} of the {Association} for {Computational} {Linguistics} ({Volume} 1: {Long} {Papers})},
+  file       = {Available Version (via Google Scholar):files/13340/Fang et al. - 2023 - MANNER A Variational Memory-Augmented Model for C.pdf:application/pdf},
+  pages      = {4261--4276},
+  shorttitle = {{MANNER}},
+  title      = {{MANNER}: {A} {Variational} {Memory}-{Augmented} {Model} for {Cross} {Domain} {Few}-{Shot} {Named} {Entity} {Recognition}},
+  url        = {https://aclanthology.org/2023.acl-long.234/},
+  urldate    = {2023-11-01},
+  year       = {2023}
+}
+
+@misc{cao_genkie_2023,
+  abstract   = {Key information extraction (KIE) from scanned documents has gained increasing attention because of its applications in various domains. Although promising results have been achieved by some recent KIE approaches, they are usually built based on discriminative models, which lack the ability to handle optical character recognition (OCR) errors and require laborious token-level labelling. In this paper, we propose a novel generative end-to-end model, named GenKIE, to address the KIE task. GenKIE is a sequence-to-sequence multimodal generative model that utilizes multimodal encoders to embed visual, layout and textual features and a decoder to generate the desired output. Well-designed prompts are leveraged to incorporate the label semantics as the weakly supervised signals and entice the generation of the key information. One notable advantage of the generative model is that it enables automatic correction of OCR errors. Besides, token-level granular annotation is not required. Extensive experiments on multiple public real-world datasets show that GenKIE effectively generalizes over different types of documents and achieves state-of-the-art results. Our experiments also validate the model's robustness against OCR errors, making GenKIE highly applicable in real-world scenarios.},
+  annote     = {Comment: Accepted by EMNLP 2023, Findings paper},
+  author     = {Cao, Panfeng and Wang, Ye and Zhang, Qiang and Meng, Zaiqiao},
+  file       = {arXiv Fulltext PDF:files/13341/Cao et al. - 2023 - GenKIE Robust Generative Multimodal Document Key .pdf:application/pdf},
+  month      = oct,
+  note       = {arXiv:2310.16131 [cs]},
+  publisher  = {arXiv},
+  shorttitle = {{GenKIE}},
+  title      = {{GenKIE}: {Robust} {Generative} {Multimodal} {Document} {Key} {Information} {Extraction}},
+  url        = {http://arxiv.org/abs/2310.16131},
+  urldate    = {2023-11-01},
+  year       = {2023}
+}
+
+@misc{long_when_2023,
+  abstract  = {State-of-the-art image models predominantly follow a two-stage strategy: pre-training on large datasets and fine-tuning with cross-entropy loss. Many studies have shown that using cross-entropy can result in sub-optimal generalisation and stability. While the supervised contrastive loss addresses some limitations of cross-entropy loss by focusing on intra-class similarities and inter-class differences, it neglects the importance of hard negative mining. We propose that models will benefit from performance improvement by weighting negative samples based on their dissimilarity to positive counterparts. In this paper, we introduce a new supervised contrastive learning objective, SCHaNe, which incorporates hard negative sampling during the fine-tuning phase. Without requiring specialized architectures, additional data, or extra computational resources, experimental results indicate that SCHaNe outperforms the strong baseline BEiT-3 in Top-1 accuracy across various benchmarks, with significant gains of up to \$3.32{\textbackslash}\%\$ in few-shot learning settings and \$3.41{\textbackslash}\%\$ in full dataset fine-tuning. Importantly, our proposed objective sets a new state-of-the-art for base models on ImageNet-1k, achieving an 86.14{\textbackslash}\% accuracy. Furthermore, we demonstrate that the proposed objective yields better embeddings and explains the improved effectiveness observed in our experiments.},
+  author    = {Long, Zijun and Killick, George and McCreadie, Richard and Camarasa, Gerardo Aragon and Meng, Zaiqiao},
+  file      = {arXiv Fulltext PDF:files/13342/Long et al. - 2023 - When hard negative sampling meets supervised contr.pdf:application/pdf},
+  month     = aug,
+  note      = {arXiv:2308.14893 [cs]},
+  publisher = {arXiv},
+  title     = {When hard negative sampling meets supervised contrastive learning},
+  url       = {http://arxiv.org/abs/2308.14893},
+  urldate   = {2023-11-01},
+  year      = {2023}
+}
+
+@misc{huang_sparkles_2023,
+  abstract   = {Large language models exhibit enhanced zero-shot performance on various tasks when fine-tuned with instruction-following data. Multimodal instruction-following models extend these capabilities by integrating both text and images. However, existing models such as MiniGPT-4 face challenges in maintaining dialogue coherence in scenarios involving multiple images. A primary reason is the lack of a specialized dataset for this critical application. To bridge these gaps, we present SparklesChat, a multimodal instruction-following model for open-ended dialogues across multiple images. To support the training, we introduce SparklesDialogue, the first machine-generated dialogue dataset tailored for word-level interleaved multi-image and text interactions. Furthermore, we construct SparklesEval, a GPT-assisted benchmark for quantitatively assessing a model's conversational competence across multiple images and dialogue turns. Our experiments validate the effectiveness of SparklesChat in understanding and reasoning across multiple images and dialogue turns. Specifically, SparklesChat outperformed MiniGPT-4 on established vision-and-language benchmarks, including the BISON binary image selection task and the NLVR2 visual reasoning task. Moreover, SparklesChat scored 8.56 out of 10 on SparklesEval, substantially exceeding MiniGPT-4's score of 3.91 and nearing GPT-4's score of 9.26. Qualitative evaluations further demonstrate SparklesChat's generality in handling real-world applications. All resources are available at https://github.com/HYPJUDY/Sparkles.},
+  annote     = {Comment: Reduced main content to 9 pages; typos corrected},
+  author     = {Huang, Yupan and Meng, Zaiqiao and Liu, Fangyu and Su, Yixuan and Collier, Nigel and Lu, Yutong},
+  file       = {arXiv Fulltext PDF:files/13347/Huang et al. - 2023 - Sparkles Unlocking Chats Across Multiple Images f.pdf:application/pdf},
+  month      = oct,
+  note       = {arXiv:2308.16463 [cs]},
+  publisher  = {arXiv},
+  shorttitle = {Sparkles},
+  title      = {Sparkles: {Unlocking} {Chats} {Across} {Multiple} {Images} for {Multimodal} {Instruction}-{Following} {Models}},
+  url        = {http://arxiv.org/abs/2308.16463},
+  urldate    = {2023-11-01},
+  year       = {2023}
+}
+
+@misc{chen_clex_2023,
+  abstract   = {Transformer-based Large Language Models (LLMs) are pioneering advances in many natural language processing tasks, however, their exceptional capabilities are restricted within the preset context window of Transformer. Position Embedding (PE) scaling methods, while effective in extending the context window to a specific length, demonstrate either notable limitations in their extrapolation abilities or sacrificing partial performance within the context window. Length extrapolation methods, although theoretically capable of extending the context window beyond the training sequence length, often underperform in practical long-context applications. To address these challenges, we propose Continuous Length EXtrapolation (CLEX) for LLMs. We generalise the PE scaling approaches to model the continuous dynamics by ordinary differential equations over the length scaling factor, thereby overcoming the constraints of current PE scaling methods designed for specific lengths. Moreover, by extending the dynamics to desired context lengths beyond the training sequence length, CLEX facilitates the length extrapolation with impressive performance in practical tasks. We demonstrate that CLEX can be seamlessly incorporated into LLMs equipped with Rotary Position Embedding, such as LLaMA and GPT-NeoX, with negligible impact on training and inference latency. Experimental results reveal that CLEX can effectively extend the context window to over 4x or almost 8x training length, with no deterioration in performance. Furthermore, when evaluated on the practical LongBench benchmark, our model trained on a 4k length exhibits competitive performance against state-of-the-art open-source models trained on context lengths up to 32k.},
+  author     = {Chen, Guanzheng and Li, Xin and Meng, Zaiqiao and Liang, Shangsong and Bing, Lidong},
+  file       = {arXiv Fulltext PDF:files/13348/Chen et al. - 2023 - CLEX Continuous Length Extrapolation for Large La.pdf:application/pdf},
+  month      = oct,
+  note       = {arXiv:2310.16450 [cs]},
+  publisher  = {arXiv},
+  shorttitle = {{CLEX}},
+  title      = {{CLEX}: {Continuous} {Length} {Extrapolation} for {Large} {Language} {Models}},
+  url        = {http://arxiv.org/abs/2310.16450},
+  urldate    = {2023-11-01},
+  year       = {2023}
+}
+
+@article{wu_dynamic_2023,
+  abstract = {In this article, we study the problem of dynamic personalized product search. Due to the data-sparsity problem in the real world, existing methods suffer from the challenge of data inefficiency. We address the challenge by proposing a Dynamic Bayesian Contrastive Predictive Coding model (DBCPC), which aims to capture the rich structured information behind search records to improve data efficiency. Our proposed DBCPC utilizes contrastive predictive learning to jointly learn dynamic embeddings with structure information of entities (i.e., users, products, and words). Specifically, our DBCPC employs structured prediction to tackle the intractability caused by non-linear output space and utilizes the time embedding technique to avoid designing different encoders each time in the Dynamic Bayesian models. In this way, our model jointly learns the underlying embeddings of entities (i.e., users, products, and words) via prediction tasks, which enables the embeddings to focus more on their general attributes and capture the general information during the preference evolution with time. For inferring the dynamic embeddings, we propose an inference algorithm combining the variational objective and the contrastive objectives. Experiments were conducted on an Amazon dataset and the experimental results show that our proposed DBCPC can learn the higher-quality embeddings and outperforms the state-of-the-art non-dynamic and dynamic models for product search.},
+  author   = {Wu, Bin and Meng, Zaiqiao and Liang, Shangsong},
+  doi      = {10.1145/3609225},
+  file     = {Available Version (via Google Scholar):files/13349/Wu et al. - 2023 - Dynamic Bayesian Contrastive Predictive Coding Mod.pdf:application/pdf},
+  issn     = {1559-1131, 1559-114X},
+  journal  = {ACM Transactions on the Web},
+  language = {en},
+  month    = nov,
+  number   = {4},
+  pages    = {1--31},
+  title    = {Dynamic {Bayesian} {Contrastive} {Predictive} {Coding} {Model} for {Personalized} {Product} {Search}},
+  url      = {https://dl.acm.org/doi/10.1145/3609225},
+  urldate  = {2023-11-01},
+  volume   = {17},
+  year     = {2023}
+}
+
+@article{wang_enhancing_2023,
+  abstract = {Conversational Recommendation Systems (CRSs) aim to improve recommendation performance by utilizing information from a conversation session. A CRS first constructs questions and then asks users for their feedback in each conversation session to refine better recommendation lists to users. The key design of CRS is to construct proper questions and obtain users’ feedback in response to these questions so as to effectively capture user preferences. Many CRS works have been proposed; however, they suffer from defects when constructing questions for users to answer: (1) employing a dialogue policy agent for constructing questions is one of the most common choices in CRS, but it needs to be trained with a huge corpus, and (2) it is not appropriate that constructing questions from a single policy (e.g., a CRS only selects attributes that the user has interacted with) for all users with different preferences. To address these defects, we propose a novel CRS model, namely a Representation Fusion–based Conversational Recommendation model, where the whole conversation session is divided into two subsessions (i.e., Local Question Search subsession and Global Question Search subsession) and two different question search methods are proposed to construct questions in the corresponding subsessions without employing policy agents. In particular, in the Local Question Search subsession we adopt a novel graph mining method to find questions, where the paths in the graph between users and attributes can eliminate irrelevant attributes; in the Global Question Search subsession we propose to initialize user preference on items with the user and all item historical rating records and construct questions based on user’s preference. Then, we update the embeddings independently over the two subsessions according to user’s feedback and fuse the final embeddings from the two subsessions for the recommendation. Experiments on three real-world recommendation datasets demonstrate that our proposed method outperforms five state-of-the-art baselines.},
+  author   = {Wang, Yingxu and Chen, Xiaoru and Fang, Jinyuan and Meng, Zaiqiao and Liang, Shangsong},
+  doi      = {10.1145/3577034},
+  file     = {Accepted Version:files/13351/Wang et al. - 2023 - Enhancing Conversational Recommendation Systems wi.pdf:application/pdf},
+  issn     = {1559-1131, 1559-114X},
+  journal  = {ACM Transactions on the Web},
+  language = {en},
+  month    = feb,
+  number   = {1},
+  pages    = {1--34},
+  title    = {Enhancing {Conversational} {Recommendation} {Systems} with {Representation} {Fusion}},
+  url      = {https://dl.acm.org/doi/10.1145/3577034},
+  urldate  = {2023-11-01},
+  volume   = {17},
+  year     = {2023}
+}
+
+@misc{fu_biomedical_2023,
+  abstract  = {Biomedical named entity recognition is one of the core tasks in biomedical natural language processing (BioNLP). To tackle this task, numerous supervised/distantly supervised approaches have been proposed. Despite their remarkable success, these approaches inescapably demand laborious human effort. To alleviate the need of human effort, dictionary-based approaches have been proposed to extract named entities simply based on a given dictionary. However, one downside of existing dictionary-based approaches is that they are challenged to identify concept synonyms that are not listed in the given dictionary, which we refer as the synonym generalization problem. In this study, we propose a novel Synonym Generalization (SynGen) framework that recognizes the biomedical concepts contained in the input text using span-based predictions. In particular, SynGen introduces two regularization terms, namely, (1) a synonym distance regularizer; and (2) a noise perturbation regularizer, to minimize the synonym generalization error. To demonstrate the effectiveness of our approach, we provide a theoretical analysis of the bound of synonym generalization error. We extensively evaluate our approach on a wide range of benchmarks and the results verify that SynGen outperforms previous dictionary-based models by notable margins. Lastly, we provide a detailed analysis to further reveal the merits and inner-workings of our approach.},
+  author    = {Fu, Zihao and Su, Yixuan and Meng, Zaiqiao and Collier, Nigel},
+  file      = {arXiv Fulltext PDF:files/13350/Fu et al. - 2023 - Biomedical Named Entity Recognition via Dictionary.pdf:application/pdf},
+  month     = oct,
+  note      = {arXiv:2305.13066 [cs]},
+  publisher = {arXiv},
+  title     = {Biomedical {Named} {Entity} {Recognition} via {Dictionary}-based {Synonym} {Generalization}},
+  url       = {http://arxiv.org/abs/2305.13066},
+  urldate   = {2023-11-01},
+  year      = {2023}
+}
+
+@misc{fu_band_2023,
+  abstract   = {Infectious disease outbreaks continue to pose a significant threat to human health and well-being. To improve disease surveillance and understanding of disease spread, several surveillance systems have been developed to monitor daily news alerts and social media. However, existing systems lack thorough epidemiological analysis in relation to corresponding alerts or news, largely due to the scarcity of well-annotated reports data. To address this gap, we introduce the Biomedical Alert News Dataset (BAND), which includes 1,508 samples from existing reported news articles, open emails, and alerts, as well as 30 epidemiology-related questions. These questions necessitate the model's expert reasoning abilities, thereby offering valuable insights into the outbreak of the disease. The BAND dataset brings new challenges to the NLP world, requiring better disguise capability of the content and the ability to infer important information. We provide several benchmark tasks, including Named Entity Recognition (NER), Question Answering (QA), and Event Extraction (EE), to show how existing models are capable of handling these tasks in the epidemiology domain. To the best of our knowledge, the BAND corpus is the largest corpus of well-annotated biomedical outbreak alert news with elaborately designed questions, making it a valuable resource for epidemiologists and NLP researchers alike.},
+  author     = {Fu, Zihao and Zhang, Meiru and Meng, Zaiqiao and Shen, Yannan and Buckeridge, David and Collier, Nigel},
+  file       = {arXiv Fulltext PDF:files/13352/Fu et al. - 2023 - BAND Biomedical Alert News Dataset.pdf:application/pdf},
+  month      = oct,
+  note       = {arXiv:2305.14480 [cs]},
+  publisher  = {arXiv},
+  shorttitle = {{BAND}},
+  title      = {{BAND}: {Biomedical} {Alert} {News} {Dataset}},
+  url        = {http://arxiv.org/abs/2305.14480},
+  urldate    = {2023-11-01},
+  year       = {2023}
+}
+
+@misc{long_lacvit_2023,
+  abstract   = {Vision Transformers have been incredibly effective when tackling computer vision tasks due to their ability to model long feature dependencies. By using large-scale training data and various self-supervised signals (e.g., masked random patches), vision transformers provide state-of-the-art performance on several benchmarking datasets, such as ImageNet-1k and CIFAR-10. However, these vision transformers pretrained over general large-scale image corpora could only produce an anisotropic representation space, limiting their generalizability and transferability to the target downstream tasks. In this paper, we propose a simple and effective Label-aware Contrastive Training framework LaCViT, which improves the isotropy of the pretrained representation space for vision transformers, thereby enabling more effective transfer learning amongst a wide range of image classification tasks. Through experimentation over five standard image classification datasets, we demonstrate that LaCViT-trained models outperform the original pretrained baselines by around 9\% absolute Accuracy@1, and consistent improvements can be observed when applying LaCViT to our three evaluated vision transformers.},
+  author     = {Long, Zijun and Meng, Zaiqiao and Camarasa, Gerardo Aragon and McCreadie, Richard},
+  file       = {arXiv Fulltext PDF:files/13353/Long et al. - 2023 - LaCViT A Label-aware Contrastive Training Framewo.pdf:application/pdf},
+  month      = sep,
+  note       = {arXiv:2303.18013 [cs]},
+  publisher  = {arXiv},
+  shorttitle = {{LaCViT}},
+  title      = {{LaCViT}: {A} {Label}-aware {Contrastive} {Training} {Framework} for {Vision} {Transformers}},
+  url        = {http://arxiv.org/abs/2303.18013},
+  urldate    = {2023-11-01},
+  year       = {2023}
+}
+
+@misc{zhang_coffee_2023,
+  abstract   = {Event extraction is a complex information extraction task that involves extracting events from unstructured text. Prior classification-based methods require comprehensive entity annotations for joint training, while newer generation-based methods rely on heuristic templates containing oracle information such as event type, which is often unavailable in real-world scenarios. In this study, we consider a more realistic setting of this task, namely the Oracle-Free Event Extraction (OFEE) task, where only the input context is given without any oracle information, including event type, event ontology and trigger word. To solve this task, we propose a new framework, called COFFEE, which extracts the events solely based on the document context without referring to any oracle information. In particular, a contrastive selection model is introduced in COFFEE to rectify the generated triggers and handle multi-event instances. The proposed COFFEE outperforms state-of-the-art approaches under the oracle-free setting of the event extraction task, as evaluated on a public event extraction benchmark ACE05.},
+  author     = {Zhang, Meiru and Su, Yixuan and Meng, Zaiqiao and Fu, Zihao and Collier, Nigel},
+  file       = {arXiv Fulltext PDF:files/13354/Zhang et al. - 2023 - COFFEE A Contrastive Oracle-Free Framework for Ev.pdf:application/pdf},
+  month      = mar,
+  note       = {arXiv:2303.14452 [cs]},
+  publisher  = {arXiv},
+  shorttitle = {{COFFEE}},
+  title      = {{COFFEE}: {A} {Contrastive} {Oracle}-{Free} {Framework} for {Event} {Extraction}},
+  url        = {http://arxiv.org/abs/2303.14452},
+  urldate    = {2023-11-01},
+  year       = {2023}
+}

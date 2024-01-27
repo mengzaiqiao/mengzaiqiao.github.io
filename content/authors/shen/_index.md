@@ -1,32 +1,31 @@
 ---
 # Display name
-title: Meiru Zhang
+title: Shen Dong
 
 # Full name (for SEO)
-first_name: Meiru
-last_name: Zhang
+first_name: Shen
+last_name: Dong
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: PhD student (2021.10 - )
+role: PhD student (2024.01 - )
 
 user_groups:
   - Current Members
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Cambridge
-    url: https://www.cam.ac.uk/
+  - name: University of Glasgow
+    url: https://www.glasgow.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # Interests to show in About widget
 interests:
-  - Information Extraction
-  - Computational Social Science
+  - Graph to Text
 
 # Education to show in About widget
 # education:
@@ -50,8 +49,8 @@ social:
   #   display:
   #     header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.com/citations?user=39a2s0EAAAAJ&hl=en
+    # icon_pack: fas
+    # link: https://scholar.google.com/citations?user=39a2s0EAAAAJ&hl=en
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/mengzaiqiao
@@ -75,11 +74,6 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-I am currently a **Lecturer (Assistant Professor)** of the [University of Glasgow](www.gla.ac.uk), based within the world-leading [Information Retrieval group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/) and [IDA section](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/) of [School of Computing Science](https://www.gla.ac.uk/schools/computing). I am also an **affiliated lecturer** at the [Language Technology Lab (LTL)](https://ltl.mmll.cam.ac.uk/) of University of Cambridge.
-Prior to that, I was a Postdoctoral Researcher (Research Associate) at the [Language Technology Lab (LTL)](https://ltl.mmll.cam.ac.uk/) of the University of Cambridge; and a Postdoctoral Researcher (Research Assistant) at the [Information Retrieval group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/) of the University of Glasgow. I also have been a visiting PhD student at the [MINE lab](https://cemse.kaust.edu.sa/mine) of [KAUST](https://www.kaust.edu.sa/en).
-
-I am current leading a small research team consisting of PhDs, masters and undergrad students working on Biomedical Knowledge Extraction, Representation & Reasoning Learning. Students who are interested in working with me, or want to do your PhD with me, please read this [post](/post/working-with-me/) for some information.
 
 <!-- I obtained my Ph.D in computer science from Sun Yat-sen University (SYSU) in December 2018. -->
 

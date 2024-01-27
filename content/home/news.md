@@ -16,13 +16,14 @@ design:
   columns: '1'
 ---
 
-* **2023-10-9:**  Two papers were accepted by [EMNLP 2023](https://2023.emnlp.org/) on **Unsupervised Biomedical NER** and **Multimodal Generative Language Model**.
 
+* **2024-01-16:** our paper entitled "[CLEX: Continuous Length Extrapolation for Large Language Models](https://arxiv.org/abs/2310.16450)" was accepted by [ICLR 2024](https://iclr.cc/).
+* **2023-12-17:** our paper entitled "[BAND: Biomedical Alert News Dataset](https://arxiv.org/abs/2305.14480)" was accepted by [AAAI 2024](https://aaai.org/aaai-conference/).
+* **2023-12-10:** Invited to serve as one of the Area Chairs for  [NAACL 2024](https://2024.naacl.org/).
+* **2023-10-9:**  Two papers were accepted by [EMNLP 2023](https://2023.emnlp.org/) on **Unsupervised Biomedical NER** and **Multimodal Generative Language Model**.
 * **2023-09-26:** Our survey paper on **[Knowledge Graph Embedding](https://arxiv.org/abs/2211.03536)** was accepted by **ACM Computing Surveys**.
 * **2023-08-14:** Our survey paper on **[Multimodal Language Modelling](https://arxiv.org/abs/2302.00389)** was accepted by ACM Transactions on Multimedia Computing, Communications, and Applications
-
 * **2023-08-05:** One paper was accepted by [CIKM 2023](https://uobevents.eventsair.com/cikm2023/) on **Knowledge-enhance Passage Ranking**.
-
 * **2023-06-26:** Invited to serve as one of the Area Chairs for the track "**Interpretability, Interactivity and Analysis of Models for NLP**" of [EMNLP 2023](https://2023.emnlp.org/).
 * **2023-06-09:** I gave an invited talk on "**Probing and Infusing Biomedical Knowledge for Pre-trained Language Models**" in ["NLP for Social Good (NSG) Symposium 2023"](https://nlp4social.github.io/nlp4socialgood/index.html) hosted by Dr [Procheta Sen ](https://procheta.github.io/sprocheta/) at the University of Liverpool. 
 * **2023-05-22:** One paper was accepted by [Matching ACL 2023](https://megagon.ai/matching-2023/) on **Generative Event Extraction**.
@@ -39,6 +40,7 @@ design:
   One paper was accepted by [EMNLP 2022](https://2022.emnlp.org/) on **Parameter-Efficient Tuning**.
 * **2022-10-04:** 
   Our paper entitled **Graph Neural Pre-training for Recommendation with Side Information** was accepted at [ACM TOIS](https://dl.acm.org/journal/tois).
+<!--
 * **2022-09-19:** 
   Our paper entitled **Enhancing Conversational Recommendation Systems with Representation Fusion** was accepted at [ACM TWEB](https://dl.acm.org/journal/tweb).
 * **2022-09-02:** 
@@ -46,8 +48,6 @@ design:
 * **2022-07-12:** 
   One paper entitled **Dynamic Co-embedding Model for Temporal Attributed Networks** was accepted at [IEEE TNNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).
 
-
-<!--
 
 * **2022-07-08:** 
   Given a tutorial at [AILC](https://www.ai-lc.it/en/lectures-2022/) on topic of **Knowledge Probing, Infusing and Reasoning in Natural Language Processing**.

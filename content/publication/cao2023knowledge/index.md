@@ -18,11 +18,11 @@ author_notes:
   - 'Corresponding author'
   - 'Corresponding author'
 
-date: '2022-11-07T00:00:00Z'
+date: '2023-11-07T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022-11-07T00:00:00Z'
+publishDate: '2023-11-07T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -31,8 +31,8 @@ publishDate: '2022-11-07T00:00:00Z'
 publication_types: ['3']
 
 # Publication name and optional abbreviated publication name.
-publication: arxiv
-publication_short: arxiv
+publication: ACM Computing Surveys
+publication_short: ACM Computing Surveys
 
 
 abstract: 'Knowledge graph embedding (KGE) is a increasingly popular technique that aims to represent entities and relations of knowledge graphs into low-dimensional semantic spaces for a wide spectrum of applications such as link prediction, knowledge reasoning and knowledge completion. In this paper, we provide a systematic review of existing KGE techniques based on representation spaces. Particularly, we build a fine-grained classification to categorise the models based on three mathematical perspectives of the representation spaces: (1) Algebraic perspective, (2) Geometric perspective, and (3) Analytical perspective. We introduce the rigorous definitions of fundamental mathematical spaces before diving into KGE models and their mathematical properties. We further discuss different KGE methods over the three categories, as well as summarise how spatial advantages work over different embedding needs. By collating the experimental results from downstream tasks, we also explore the advantages of mathematical space in different scenarios and the reasons behind them. We further state some promising research directions from a representation space perspective, with which we hope to inspire researchers to design their KGE models as well as their related applications with more consideration of their mathematical space properties.'

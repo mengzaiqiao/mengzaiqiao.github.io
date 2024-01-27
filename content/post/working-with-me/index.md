@@ -12,9 +12,9 @@ My research focuses on the intersection of machine learning, knowledge graph, gr
 
 ## PhD
 
-<del>I will be taking 1-2 PhD students in 2024 to be working on biomedical knowledge graphs, GNN and NLP. </del>
+I will be taking 1-2 PhD students working on biomedical knowledge graphs, GNN, NLP and prompt engineering.
 
-**My current PhD position for 2024 is full.**
+<!-- **My current PhD position for 2024 is full.** -->
 
 Before applying, you will need to put together a research proposal. It is a process for me to assess whether you can understand a research area, write about thoughts and your research questions/objectives in this area in a sensible way. It is not a commitment to what you will work on during your PhD. Most often PhD topics crystallise over the first year.
 
@@ -26,7 +26,7 @@ I am also looking for highly-motivated BSc/MSc students (even you are not from t
 
 For system projects, you will be only focusing some topics that are related to the biomedical applications and healthcare technologies.
 
-For research projects, you can choose (or discuss with me to confirm) your project on areas of machine learning, knowledge graph, graph neural networks and natural language processing. However, you will need to have basic research skills, including machine learning, data science, python programing (such as Numpy, Matplotlib, PyTorch, Pandas, Scikit-Learn, etc.).
+For research projects, you can choose (or discuss with me to confirm) your project on areas of machine learning, knowledge graph, graph neural networks and natural language processing. However, you will need to have basic research skills, including machine learning, data science, python programming (such as Numpy, Matplotlib, PyTorch, Pandas, Scikit-Learn, etc.).
 
 
 ### If you find this page helpful, consider sharing it 🙌
