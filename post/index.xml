@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts | Zaiqiao Meng</title><link>https://mengzaiqiao.github.io/post/</link><atom:link href="https://mengzaiqiao.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>Posts</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Dec 2022 00:00:00 +0000</lastBuildDate><image><url>https://mengzaiqiao.github.io/media/icon_hu90c0c3bdc496405de24acfb5dd3deb77_64960_512x512_fill_lanczos_center_3.png</url><title>Posts</title><link>https://mengzaiqiao.github.io/post/</link></image><item><title>Working with me in Glasgow or Remotely</title><link>https://mengzaiqiao.github.io/post/working-with-me/</link><pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate><guid>https://mengzaiqiao.github.io/post/working-with-me/</guid><description>&lt;p>My research focuses on the intersection of machine learning, knowledge graph, graph neural networks and natural language processing, with a current emphasis on the biomedical applications and healthcare technologies. I’m always looking for students &amp;amp; researchers working with me on these topics.&lt;/p>
 &lt;h2 id="phd">PhD&lt;/h2>
-&lt;p>&lt;del>I will be taking 1-2 PhD students in 2024 to be working on biomedical knowledge graphs, GNN and NLP. &lt;/del>&lt;/p>
-&lt;p>&lt;strong>My current PhD position for 2024 is full.&lt;/strong>&lt;/p>
+&lt;p>I will be taking 1-2 PhD students working on biomedical knowledge graphs, GNN, NLP and prompt engineering.&lt;/p>
+&lt;!-- **My current PhD position for 2024 is full.** -->
 &lt;p>Before applying, you will need to put together a research proposal. It is a process for me to assess whether you can understand a research area, write about thoughts and your research questions/objectives in this area in a sensible way. It is not a commitment to what you will work on during your PhD. Most often PhD topics crystallise over the first year.&lt;/p>
 &lt;p>For the PhD application process, please read &lt;a href="https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/" target="_blank" rel="noopener">this&lt;/a> to understand the application process. Note that in the UK you will need always pay substantially &lt;a href="https://www.gla.ac.uk/postgraduate/research/computing/#tab=fees" target="_blank" rel="noopener">tuition fees&lt;/a> for international students versus UK students, but the cost of &lt;a href="https://www.gla.ac.uk/study/studentlife/costofliving/" target="_blank" rel="noopener">living in Glasgow&lt;/a> is 33% cheaper than in London. However, we have various &lt;a href="https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/phd-projects/" target="_blank" rel="noopener">Scholarship&lt;/a> available, including the &lt;a href="https://www.gla.ac.uk/colleges/scienceengineering/graduateschool/scholarships/collegeofscienceandengineeringscholarships/" target="_blank" rel="noopener">College Scholarship&lt;/a>, the &lt;a href="https://www.gla.ac.uk/colleges/scienceengineering/graduateschool/scholarships/chinascholarshipcouncil/" target="_blank" rel="noopener">China Scholarship Council (CSC)&lt;/a> and the &lt;a href="https://www.gla.ac.uk/schools/computing/postgraduateresearch/prospectivestudents/excellencebursaries/" target="_blank" rel="noopener">Excellence Bursary&lt;/a> (which covers part your fees). Please &lt;a href="mailto:zaiqiao.meng@glasgow.ac.uk">contact me&lt;/a> for some advices before applying.&lt;/p>
 &lt;h2 id="bscmsc-students">BSc/MSc students&lt;/h2>
 &lt;p>I am also looking for highly-motivated BSc/MSc students (even you are not from the University of Glasgow, and remotely) to work with me on various exciting area of machine learning, knowledge graph, graph neural networks and natural language processing. Your project can be either a system or research-oriented, but you should expect to spend at least 12 weeks to complete your project with at least 20 hours/week on this project.&lt;/p>
 &lt;p>For system projects, you will be only focusing some topics that are related to the biomedical applications and healthcare technologies.&lt;/p>
-&lt;p>For research projects, you can choose (or discuss with me to confirm) your project on areas of machine learning, knowledge graph, graph neural networks and natural language processing. However, you will need to have basic research skills, including machine learning, data science, python programing (such as Numpy, Matplotlib, PyTorch, Pandas, Scikit-Learn, etc.).&lt;/p>
+&lt;p>For research projects, you can choose (or discuss with me to confirm) your project on areas of machine learning, knowledge graph, graph neural networks and natural language processing. However, you will need to have basic research skills, including machine learning, data science, python programming (such as Numpy, Matplotlib, PyTorch, Pandas, Scikit-Learn, etc.).&lt;/p>
 &lt;h3 id="if-you-find-this-page-helpful-consider-sharing-it-">If you find this page helpful, consider sharing it 🙌&lt;/h3></description></item><item><title>Welcome to Wowchemy, the website builder for Hugo</title><link>https://mengzaiqiao.github.io/post/getting-started/</link><pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate><guid>https://mengzaiqiao.github.io/post/getting-started/</guid><description>&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">libr&lt;/span>
 &lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s1">&amp;#39;hello&amp;#39;&lt;/span>&lt;span class="p">)&lt;/span>
 &lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="overview">Overview&lt;/h2>
@@ -155,7 +155,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-127568394" class="chart">&lt;/div>
+&lt;div id="chart-912687543" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -164,7 +164,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-127568394', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-912687543', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
