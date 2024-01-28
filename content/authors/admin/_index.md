@@ -85,7 +85,7 @@ I currently hold the position of **Lecturer (Assistant Professor)** at the [Univ
 
 In my previous roles, I conducted research as a Postdoctoral Researcher at the [Language Technology Lab (LTL)](https://ltl.mmll.cam.ac.uk/) of the University of Cambridge and as a Postdoctoral Researcher at the [Information Retrieval group](https://www.gla.ac.uk/schools/computing/research/researchsections/ida-section/informationretrieval/) of the [University of Glasgow](https://www.gla.ac.uk/). I also have been a visiting PhD student at the [MINE lab](https://cemse.kaust.edu.sa/mine) of [KAUST](https://www.kaust.edu.sa/en).
 
-Currently, I am co-leading the [Glasgow AI4BioMed Lab](https://ai4biomed.org/), focusing on research topics in Natural Language Processing, with a specific emphasis on **LLMs**, as well as Knowledge Extraction, Representation & Reasoning Learning, particularly within BioMedical applications. If you are interested in collaborating or pursuing a PhD under my guidance, please refer to this [post](https://chat.openai.com/post/working-with-me/) for more details.
+Currently, I am co-leading the [Glasgow AI4BioMed Lab](https://ai4biomed.org/), focusing on research topics in Natural Language Processing, with a specific emphasis on **LLMs**, as well as Knowledge Extraction, Representation & Reasoning Learning, particularly within BioMedical applications. If you are interested in collaborating or pursuing a PhD with me, please refer to this [post](/post/working-with-me/) for more details.
 <!-- I obtained my Ph.D in computer science from Sun Yat-sen University (SYSU) in December 2018. -->
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
