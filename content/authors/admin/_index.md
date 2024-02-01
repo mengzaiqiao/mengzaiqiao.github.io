@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zaiqiao Meng
+title: Zaiqiao Meng (蒙在桥)
 
 # Full name (for SEO)
 first_name: Zaiqiao
@@ -18,8 +18,9 @@ role: Lecturer (Assistant Professor)
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Glasgow
-    url: https://www.glasgow.ac.uk/
-
+    url: https://www.gla.ac.uk/schools/computing/staff/zaiqiaomeng/
+  - name: University of Cambridge
+    url: https://ltl.mmll.cam.ac.uk/
 # Short bio (displayed in user profile at end of posts)
 bio: My research focuses on the intersection of machine learning, knowledge graph, and natural language processing, with a current emphasis on the biomedical applications.
 
