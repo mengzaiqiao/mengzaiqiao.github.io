@@ -15,10 +15,12 @@ subtitle:
 design:
   columns: '1'
 ---
-
-
-* **2024-01-16:** our paper entitled "[CLEX: Continuous Length Extrapolation for Large Language Models](https://arxiv.org/abs/2310.16450)" was accepted by [ICLR 2024](https://iclr.cc/).
-* **2023-12-17:** our paper entitled "[BAND: Biomedical Alert News Dataset](https://arxiv.org/abs/2305.14480)" was accepted by [AAAI 2024](https://aaai.org/aaai-conference/).
+* **2024-06-10:** Two papers have been accepted at [Briefings in Bioinformatics](https://academic.oup.com/bib), on **Automatic Biochemical Pathway Prediction** and **Gene-disease Association Prediction**.
+* **2024-05-16:** Two papers were accepted by [ACL 2024](https://2024.aclweb.org/) on **Retrieval-Augmented Generation with Knowledge Graph Generation** and **Medical Open-Domain Question Answering**.
+* **2024-03-28**: As the co-organization chair, we are organising the KEIR@ECIR 2024 workshop in Glasgow, UK.
+* **2024-03-24**: As the local organization chair, we are organising the ECIR 2024 conference in Glasgow, UK.
+* **2024-01-16:** Our paper entitled "[CLEX: Continuous Length Extrapolation for Large Language Models](https://arxiv.org/abs/2310.16450)" was accepted by [ICLR 2024](https://iclr.cc/).
+* **2023-12-17:** Our paper entitled "[BAND: Biomedical Alert News Dataset](https://arxiv.org/abs/2305.14480)" was accepted by [AAAI 2024](https://aaai.org/aaai-conference/).
 * **2023-12-10:** Invited to serve as one of the Area Chairs for  [NAACL 2024](https://2024.naacl.org/).
 * **2023-10-9:**  Two papers were accepted by [EMNLP 2023](https://2023.emnlp.org/) on **Unsupervised Biomedical NER** and **Multimodal Generative Language Model**.
 * **2023-09-26:** Our survey paper on **[Knowledge Graph Embedding](https://arxiv.org/abs/2211.03536)** was accepted by **ACM Computing Surveys**.
