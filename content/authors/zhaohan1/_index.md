@@ -10,10 +10,10 @@ last_name: Meng
 superuser: false
 
 # Role/position/tagline
-role: BSc/MSc student (2022.7 - )
+role: PhD student (2023.10 - )
 
 user_groups:
-  - Past Lab Members
+  - Current Members
 
 # Organizations/Affiliations to show in About widget
 organizations:
