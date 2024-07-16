@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Zhaohan Meng
+title: Tanatapanun (Mark) Pongkemmanun
 
 # Full name (for SEO)
-first_name: Zhaohan
-last_name: Meng
+first_name: Tanatapanun
+last_name: Pongkemmanun
 
 # Is this the primary user of the site?
 superuser: false
