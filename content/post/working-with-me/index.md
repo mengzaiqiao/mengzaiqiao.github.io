@@ -12,7 +12,7 @@ My research focuses on the intersection of machine learning, knowledge graph, gr
 
 ## PhD
 
-I will be taking 1-2 PhD students working on biomedical knowledge graphs, GNN, NLP and prompt engineering.
+I will be taking 1-2 PhD students working on biomedical knowledge graphs, LLMs, AI Agents and AI for Science.
 
 <!-- **My current PhD position for 2024 is full.** -->
 
