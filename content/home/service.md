@@ -27,15 +27,15 @@ design:
 - The Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2023
 
 #### **Conference Program Committee/Reviewer:** 
-
-- International Conference on Machine Learning (**ICML**),  2021, 2022, 2023
-- The Conference on Neural Information Processing Systems (**NeurIPS**), 2020, 2021, 2022, 2023
+- Conference On Language Modeling (COLM), 2024
+- International Conference on Machine Learning (**ICML**),  2021, 2022, 2023, 2024
+- The Conference on Neural Information Processing Systems (**NeurIPS**), 2020, 2021, 2022, 2023, 2024
 - The International Conference on Learning Representations (**ICLR**), 2021, 2022, 2023, 2024
-- The Annual Meeting of the Association for Computational Linguistics (**ACL**), 2022, 2023
-- [ACL Rolling Review](https://aclrollingreview.org/), 2021, 2022, 2023
+- The Annual Meeting of the Association for Computational Linguistics (**ACL**), 2022, 2023, 2024
+- [ACL Rolling Review](https://aclrollingreview.org/), 2021, 2022, 2023, 2024
 - The Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2018, 2021, 2022
 - The 17th Conference of the European Chapter of the Association for Computational Linguistics (**EACL**), 2023
-- The ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2018, 2021, 2022, 2023
+- The ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR**), 2018, 2021, 2022, 2023, 2024
 - The Conference on Information and Knowledge Management (**CIKM**), 2017, 2018
 - The ACM Conference on Web Search and Data Mining (**WSDM**), 2018, 2019
 - The European Conference on Information Retrieval (**ECIR**), 2020, 2021, 2022, 2023， 2024
@@ -56,10 +56,12 @@ design:
 - ACM Computing Surveys
 - Information Retrieval Journal
 - ACM Transactions on Recommender Systems
+- Computers in Biology and Medicine
 - IEEE Transactions on Knowledge and Data Engineering
 - IEEE Transactions on Neural Networks and Learning Systems
 - IEEE Transactions on Cybernetics
 - Information Sciences
+- World Wide Web
 - IEEE Transactions on Fuzzy Systems
 - IEEE Access
 - International Journal of Machine Learning and Cybernetics
