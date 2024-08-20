@@ -10,7 +10,7 @@ last_name: Meng
 superuser: false
 
 # Role/position/tagline
-role: BSc/MSc student (2022.7 - )
+role: BSc/MSc student (2022.7 - 2023.10) Now PhD at University of Glasgow
 
 user_groups:
   - Past Lab Members
