@@ -3,17 +3,17 @@
 title: Guanzhen Chen
 
 # Full name (for SEO)
-first_name: Xinhao
-last_name: Yi
+first_name: Guanzhen
+last_name: Chen
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: MSc student (2022.June - 2022.Sep)
+role: Research Intern (2022.June - 2022.Sep)
 
 user_groups:
-  - Past Members
+  - Past Lab Members
 
 # Organizations/Affiliations to show in About widget
 organizations:
