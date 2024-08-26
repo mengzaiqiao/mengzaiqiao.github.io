@@ -55,9 +55,10 @@ social:
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/mengzaiqiao
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/in/meng/
+  # 
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/william--traynor/?originalSubdomain=uk
   # - icon: orcid
   #   icon_pack: fab
   #   link: https://orcid.org/0000-0001-5374-0318
