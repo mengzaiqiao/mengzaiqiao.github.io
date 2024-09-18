@@ -88,7 +88,7 @@ Previously, I conducted research as a Postdoctoral Researcher at the [Language T
 
 My research topics includes, Natural Language Processing, Information Retrieval, **LLMs**, **AI Agents**, as well as Knowledge (Graphs) Extraction, Representation & Reasoning Learning, particularly within BioMedical applications (AI4Biomedicine).
 
-Currently, I am co-leading the [Glasgow AI4BioMed Lab](https://ai4biomed.org/), where we work on natural language processing, knowledge graphs, language models, and more to extract and infer biomedical knowledge. If you are interested in collaborating or pursuing a PhD with me, please refer to this [post](/post/working-with-me/) for more details.
+I co-lead the [Glasgow AI4BioMed Lab](https://ai4biomed.org/), where we work on natural language processing, knowledge graphs, language models, and more to extract and infer biomedical knowledge. If you are interested in collaborating or pursuing a PhD with us, please refer to this [post](/post/working-with-me/) and this [page](https://ai4biomed.org/work_with_us/) for more details.
 <!-- I obtained my Ph.D in computer science from Sun Yat-sen University (SYSU) in December 2018. -->
 
 <!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
