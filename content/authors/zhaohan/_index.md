@@ -13,7 +13,7 @@ superuser: false
 role: BSc/MSc student (2022.7 - 2023.10) Now PhD at University of Glasgow
 
 user_groups:
-  - Past Lab Members
+  - Alumni
 
 # Organizations/Affiliations to show in About widget
 organizations:

@@ -13,7 +13,7 @@ superuser: false
 role: BSc/MSc student (2022.6 - 2022.9) Now Senior Software Engineer at JPMC
 
 user_groups:
-  - Past Lab Members
+  - Alumni
 
 # Organizations/Affiliations to show in About widget
 organizations:

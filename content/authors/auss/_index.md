@@ -1,32 +1,31 @@
 ---
 # Display name
-title: Xinhao Yi
+title: Auss Abbood
 
 # Full name (for SEO)
-first_name: Xinhao
-last_name: Yi
+first_name: Auss
+last_name: Abbood
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: BSc/MSc student (2022.6 - 2023.10) Now PhD at University of Glasgow
+role: PhD student (2024.10 - )
 
 user_groups:
-  - Alumni
+  - Current Members
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Glasgow
-    url: hhttps://www.gla.ac.uk/
+  - name: University of Cambridge
+    url: https://www.cam.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 # Interests to show in About widget
 interests:
-  - Information Extraction
-  - Computational Social Science
+  - Large Language Models
 
 # Education to show in About widget
 # education:
@@ -40,24 +39,24 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-#   - icon: envelope
-#     icon_pack: fas
-#     link: 'mailto:zaiqiao.meng@glasgow.ac.uk'
+  # - icon: envelope
+  #   icon_pack: fas
+  #   link: 'mailto:zaiqiao.meng@glasgow.ac.uk'
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/mengzaiqiao
   #   label: Follow me on Twitter
   #   display:
   #     header: true
-  #- icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #  icon_pack: fas
-  #  link: https://scholar.google.com/citations?user=39a2s0EAAAAJ&hl=en
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.com/citations?user=LOWJnPsAAAAJ&hl=zh-CN
   # - icon: github
   #   icon_pack: fab
   #   link: https://github.com/mengzaiqiao
-  # - icon: linkedin
-  #   icon_pack: fab
-  #   link: https://www.linkedin.com/in/meng/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/auss-abbood/
   # - icon: orcid
   #   icon_pack: fab
   #   link: https://orcid.org/0000-0001-5374-0318
@@ -75,6 +74,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
 
 <!-- I obtained my Ph.D in computer science from Sun Yat-sen University (SYSU) in December 2018. -->
 

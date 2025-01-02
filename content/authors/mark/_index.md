@@ -13,7 +13,7 @@ superuser: false
 role: BSc/MSc student (2023.7 - )
 
 user_groups:
-  - Current Members
+  - Alumni
 
 # Organizations/Affiliations to show in About widget
 organizations:

@@ -13,7 +13,7 @@ superuser: false
 role: Research Intern (2022.June - 2022.Sep)
 
 user_groups:
-  - Past Lab Members
+  - Alumni
 
 # Organizations/Affiliations to show in About widget
 organizations:

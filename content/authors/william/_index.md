@@ -13,7 +13,7 @@ superuser: false
 role: BSc/MSc student (2022.10 - 2023.9) Now Research & Development Graduate at Canon Medical Research Europe
 
 user_groups:
-  - Past Lab Members
+  - Alumni
 
 # Organizations/Affiliations to show in About widget
 organizations:

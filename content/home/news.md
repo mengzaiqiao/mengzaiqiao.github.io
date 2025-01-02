@@ -15,6 +15,9 @@ subtitle:
 design:
   columns: '1'
 ---
+
+* **2024-11-26:** Delivered a tutorial on "[Integrating Knowledge Graphs and Large Language Models for Advancing Scientific Research](http://scimind.ai/tutorial/)" with [Qiang Zhang](https://person.zju.edu.cn/zhangqiang) and [Jiaoyan Chen](https://chenjiaoyan.github.io/) at [Learning on Graphs Conference 2024](https://logconference.org/). Recordings are avaiable at [here](https://www.youtube.com/watch?v=Af-_ELCHsxg).
+* **2024-09-20:**  Two papers were accepted by [EMNLP 2024](https://2024.emnlp.org/) on **RAG models with reasoning chains** and **position bias in large language models**.
 * **2024-06-10:** Two papers have been accepted at [Briefings in Bioinformatics](https://academic.oup.com/bib), on **Automatic Biochemical Pathway Prediction** and **Gene-disease Association Prediction**.
 * **2024-05-16:** Two papers were accepted by [ACL 2024](https://2024.aclweb.org/) on **Retrieval-Augmented Generation with Knowledge Graph Generation** and **Medical Open-Domain Question Answering**.
 * **2024-03-28**: As the co-organization chair, we are organising the KEIR@ECIR 2024 workshop in Glasgow, UK.

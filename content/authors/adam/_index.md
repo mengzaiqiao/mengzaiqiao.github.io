@@ -13,7 +13,7 @@ superuser: false
 role: BSc/MSc student (2022.09 - 2023.01)
 
 user_groups:
-  # - Past Lab Members
+  - Alumni
 
 # Organizations/Affiliations to show in About widget
 organizations:

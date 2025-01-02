@@ -13,7 +13,7 @@ superuser: false
 role: Visiting PhD (2022.9 - 2022.12)
 
 user_groups:
-  - Past Lab Members
+  - Alumni
 
 # Organizations/Affiliations to show in About widget
 organizations:
