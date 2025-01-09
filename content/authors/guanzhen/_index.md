@@ -10,14 +10,14 @@ last_name: Chen
 superuser: false
 
 # Role/position/tagline
-role: Research Intern (2022.June - 2022.Sep)
+role: Research Intern (2022.June - 2022.Sep) Now PhD at National University of Singapore
 
 user_groups:
   - Alumni
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Sun Yat-sen Univeristy
+  - name: Sun Yat-sen University
     url: https://www.sysu.edu.cn/sysuen/
 
 # Short bio (displayed in user profile at end of posts)
