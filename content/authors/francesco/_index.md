@@ -10,7 +10,7 @@ last_name: Serra
 superuser: false
 
 # Role/position/tagline
-role: PhD student (2023.10 - )
+role: PhD student (2023.10 - 2024.11)
 
 user_groups:
   - Alumni
