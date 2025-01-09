@@ -10,7 +10,7 @@ last_name: Frisoni
 superuser: false
 
 # Role/position/tagline
-role: Visiting PhD (2022.9 - 2022.12)
+role: Visiting PhD (2022.9 - 2022.12) Now Researcher at University of Bologna
 
 user_groups:
   - Alumni
