@@ -10,7 +10,7 @@ last_name: Pongkemmanun
 superuser: false
 
 # Role/position/tagline
-role: BSc/MSc student (2023.7 - )
+role: BSc student & RA (2023.7 - 2024.8) now MSc at University of Glasgow
 
 user_groups:
   - Alumni
