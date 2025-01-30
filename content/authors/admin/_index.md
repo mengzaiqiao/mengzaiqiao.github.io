@@ -40,6 +40,15 @@ education:
     - course: PhD in Computer Science
       institution: Sun Yat-sen University
       year: 2018
+    - course: M.Eng. in Computer Science
+      institution: Guangdong University of Technology
+      year: 2014
+    - course: B.Eng. in Software Engineering
+      institution: Jiangxi University of Science and Technology
+      year: 2010
+    - course: Diploma in Software Technology
+      institution:  Jiangxi University of Science and Technology (NanChang Campus)
+      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
