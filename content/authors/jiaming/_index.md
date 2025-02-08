@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Wei Sun
+title: Jiaming Yang
 
 # Full name (for SEO)
-first_name: Wei
-last_name: Sun
+first_name: Jiaming
+last_name: Yang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position/tagline
-role: PhD student (2024.10 - )
+role: PhD student (2024.4 - )
 
 user_groups:
   - Current Members
