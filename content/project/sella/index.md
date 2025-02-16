@@ -1,7 +1,6 @@
 ---
 title: Sella
-summary: This project aims to develop and model self-evolving collaborative
-LLM-based agents to enhance their performance in complex tasks.
+summary: This project aims to develop and model self-evolving collaborative LLM-based agents to enhance their performance in complex tasks.
 tags:
   - AI Agent
 date: '2024-07-29T00:00:00Z'
