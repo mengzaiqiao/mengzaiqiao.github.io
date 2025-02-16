@@ -27,10 +27,10 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: RecSys
-      tag: RecSys
-    - name: BioMedicine
-      tag: BioMedicine
+    - name: AI Agent
+      tag: AI Agent
+    - name: AI4BioMed
+      tag: AI4BioMed
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
