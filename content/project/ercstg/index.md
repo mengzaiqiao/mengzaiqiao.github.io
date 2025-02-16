@@ -32,8 +32,7 @@ url_video: ''
 
 ## GLA-SD - Towards General LLM-based Agents for Scientific Discovery.
 
-> This proposal was submitted to ERC for the Starting Grant.
-> However, we remain committed to bringing this project to life. Check out my  [Google Scholar](https://scholar.google.com/citations?user=5jJKFVcAAAAJ&hl=en) for my latest research related to this project.
+> This proposal was submitted to the European Research Council (ERC) for the Starting Grant. For more details on my latest research related to this project, please visit my [Google Scholar](https://scholar.google.com/citations?user=5jJKFVcAAAAJ&hl=en).
 
 Large Language Models (LLMs) have revolutionized numerous domains, with scientific discovery poised to experience a profound transformation. LLM-based agents, enhanced by capabilities such as planning, memory, reflection, and tool use, are designed to execute complex tasks autonomously. These agents are already demonstrating their potential by solving advanced problems in fields like mathematics, gaming, software development, biomedicine, and material science. With their ability to process vast amounts of data, generate hypotheses, and assist in decision-making, LLM-based agents are increasingly seen as essential collaborators in accelerating scientific research. The potential of these agents to contribute meaningfully to automated scientific discovery is vast, opening up possibilities for breakthroughs in how knowledge is generated and applied across disciplines.
 
