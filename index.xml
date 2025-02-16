@@ -11,8 +11,7 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;/ul>
 &lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>GLA-SD - Towards General LLM-based Agents for Scientific Discovery.</title><link>https://mengzaiqiao.github.io/project/ercstg/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate><guid>https://mengzaiqiao.github.io/project/ercstg/</guid><description>&lt;h2 id="gla-sd---towards-general-llm-based-agents-for-scientific-discovery">GLA-SD - Towards General LLM-based Agents for Scientific Discovery.&lt;/h2>
 &lt;blockquote>
-&lt;p>This proposal was submitted to ERC for the Starting Grant.
-However, we remain committed to bringing this project to life. Check out my &lt;a href="https://scholar.google.com/citations?user=5jJKFVcAAAAJ&amp;amp;hl=en" target="_blank" rel="noopener">Google Scholar&lt;/a> for my latest research related to this project.&lt;/p>
+&lt;p>This proposal was submitted to the European Research Council (ERC) for the Starting Grant. For more details on my latest research related to this project, please visit my &lt;a href="https://scholar.google.com/citations?user=5jJKFVcAAAAJ&amp;amp;hl=en" target="_blank" rel="noopener">Google Scholar&lt;/a>.&lt;/p>
 &lt;/blockquote>
 &lt;p>Large Language Models (LLMs) have revolutionized numerous domains, with scientific discovery poised to experience a profound transformation. LLM-based agents, enhanced by capabilities such as planning, memory, reflection, and tool use, are designed to execute complex tasks autonomously. These agents are already demonstrating their potential by solving advanced problems in fields like mathematics, gaming, software development, biomedicine, and material science. With their ability to process vast amounts of data, generate hypotheses, and assist in decision-making, LLM-based agents are increasingly seen as essential collaborators in accelerating scientific research. The potential of these agents to contribute meaningfully to automated scientific discovery is vast, opening up possibilities for breakthroughs in how knowledge is generated and applied across disciplines.&lt;/p>
 &lt;p>Despite the remarkable advancements in Artificial Intelligence (AI), the application of LLM-based agents for automated scientific discovery still faces significant technical and societal challenges, particularly in terms of &lt;strong>versatility&lt;/strong>, &lt;strong>interpretability&lt;/strong>, &lt;strong>collaborativity&lt;/strong>, and &lt;strong>trustworthiness&lt;/strong>. Major technology leaders such as OpenAI, Microsoft, Apple, ByteDance, and LangChain are investing heavily in AI agent frameworks, aiming to shape the future of AI agent research and application. However, existing agents tend to specialize in narrow fields—excelling in single domains such as material science, quantum physics, or biomedicine—without the &lt;strong>versatility&lt;/strong> for interdisciplinary tasks or the ability to stay up-to-date with rapidly evolving knowledge. Furthermore, &lt;strong>interpretability&lt;/strong> is paramount. Scientists need AI agents that can be trusted to generate precise, interpretable outputs while offering flexible, dynamic reasoning ability to fit a range of needs, from brainstorming and hypothesis generation to decision-making. For AI agents to truly automate scientific discovery, they must seamlessly integrate knowledge across domains and continuously update themselves to reflect the latest advancements and generate interpretable output.&lt;/p>
@@ -522,7 +521,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-341596287" class="chart">&lt;/div>
+&lt;div id="chart-213546789" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -531,7 +530,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-341596287', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-213546789', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
