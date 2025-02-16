@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI Agent | Zaiqiao Meng</title><link>https://mengzaiqiao.github.io/tag/ai-agent/</link><atom:link href="https://mengzaiqiao.github.io/tag/ai-agent/index.xml" rel="self" type="application/rss+xml"/><description>AI Agent</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 29 Jul 2024 00:00:00 +0000</lastBuildDate><image><url>https://mengzaiqiao.github.io/media/icon_hu90c0c3bdc496405de24acfb5dd3deb77_64960_512x512_fill_lanczos_center_3.png</url><title>AI Agent</title><link>https://mengzaiqiao.github.io/tag/ai-agent/</link></image><item><title>Sella</title><link>https://mengzaiqiao.github.io/project/sella/</link><pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate><guid>https://mengzaiqiao.github.io/project/sella/</guid><description>&lt;h2 id="sella-modeling-self-evolving-collaborative-llm-based-agents">Sella: Modeling Self-evolving Collaborative LLM-based Agents&lt;/h2>
+&lt;blockquote>
+&lt;p>This proposal was originally submitted to the 2024 Cooperative AI Foundation (CAIF) but was not selected for funding.
+However, we remain committed to bringing this project to life. Check out my &lt;a href="https://scholar.google.com/citations?user=5jJKFVcAAAAJ&amp;amp;hl=en" target="_blank" rel="noopener">Google Scholar&lt;/a> for my latest research related to this project.&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="vision">Vision&lt;/h3>
+&lt;h2 id="background">Background&lt;/h2>
+&lt;p>Recent advancements in artificial intelligence (AI) have been significantly driven by the development of large language models (LLMs) such as GPT-4 and their effectiveness in various tasks, including dialogue generation, machine translation, question answering, and other open-ended generation tasks. LLM-based agents are AI systems that leverage the powerful language understanding capabilities of LLMs to interact with the world, make decisions, and perform tasks autonomously.&lt;/p>
+&lt;p>Building generally capable LLM-based agents is an active area for both academia and industry, aiming to create artificial general intelligence (AGI) systems that can handle a wide range of tasks through reasoning, planning, and tool use. By assigning different roles to multiple LLMs, LLM-based agents can form a collaborative entity for solving complex tasks, such as software development and medical diagnosis/reasoning. Several proof-of-concept demos, such as AutoGPT, LangChain, ChatDev, and MetaGPT, are inspiring examples under this vision.&lt;/p>
+&lt;p>Currently, single-agent systems can perform tasks such as web browsing, online shopping, and household chores. However, as task complexity increases, the limitations of single agents become apparent, particularly in handling multifaceted environments. For instance, a software development task typically involves multiple stages, including requirements gathering, design, coding, testing, deployment, and maintenance.&lt;/p>
+&lt;p>To address this complexity, humans have developed Standardized Operating Procedures (SOPs) across various domains, widely used to solve complex tasks collaboratively. The intricacy of these processes highlights the need for more sophisticated collaborative AI agent systems to effectively navigate and contribute to such multifaceted projects.&lt;/p>
+&lt;p>Collaborative LLM-based agents, which involve multiple LLM-based agents working together to solve problems, present a promising frontier. This collaboration can take various forms, such as task delegation, information sharing, and mutual reinforcement. The collective intelligence of these agents has the potential to surpass the capabilities of individual agents, leading to more robust and versatile AI systems. Recent studies have demonstrated that multi-agent collaborations yield more effective solutions for tasks requiring collaboration and communication efforts, such as software engineering and medical reasoning. By automating complex tasks across various sectors, collaborative LLM-based agents enhance efficiency and effectiveness, providing adaptable and robust solutions to meet the growing demands of modern AI applications.&lt;/p>
+&lt;h3 id="research-problem-and-hypothesis">Research Problem and Hypothesis&lt;/h3>
+&lt;p>The fundamental knowledge gap addressed by this project is: &lt;strong>“How can we enable collaborative LLM-based agents to improve their effectiveness in solving complex tasks through self-evolution?”&lt;/strong> This central research question is broken down into two key hypotheses:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>H1&lt;/strong>: The effectiveness of collaborative LLM-based agents can be efficiently assessed by automating evaluators consisting solely of multiple LLM-based agents.&lt;/li>
+&lt;li>&lt;strong>H2&lt;/strong>: The effectiveness of collaborative LLM-based agents can be enhanced through self-evolution, facilitated by the mutations of individual agents and the optimized structuring of multiple agents.&lt;/li>
+&lt;/ul>
+&lt;h3 id="research-objectives">Research Objectives&lt;/h3>
+&lt;p>To address these limitations, this project aims to develop a package of methodologies for evaluating and modeling self-evolving collaborative LLM-based agents. The project has the following three objectives:&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>O1&lt;/strong>: Automating LLM agents evaluation with collaborative LLM agents.&lt;/li>
+&lt;li>&lt;strong>O2&lt;/strong>: Research and develop new methodologies that model the self-evolution of single agents and collaborative agents.&lt;/li>
+&lt;li>&lt;strong>O3&lt;/strong>: Developing a versatile simulation platform for the self-evolution of collaborative LLM agents.&lt;/li>
+&lt;/ul>
+&lt;h3 id="approach">Approach&lt;/h3>
+&lt;h4 id="work-packages-wps">Work Packages (WPs)&lt;/h4>
+&lt;p>To deliver upon the three project objectives, the project is broken into four work packages (WPs):&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>WP1&lt;/strong>: Automating LLM-based Agents Evaluation via Agentic Evaluator (Months 1-6)&lt;/li>
+&lt;li>&lt;strong>WP2&lt;/strong>: Research and Develop New Methodologies for Agent Self-evolution (Months 7-12)&lt;/li>
+&lt;li>&lt;strong>WP3&lt;/strong>: Developing a Versatile Simulation Platform for the Self-Evolution of Collaborative LLM-based Agents (Months 12-18)&lt;/li>
+&lt;li>&lt;strong>WP4&lt;/strong>: Public Engagement and Impact Maximization (Months 7-18)&lt;/li>
+&lt;/ul>
+&lt;h3 id="project-timeline-and-management">Project Timeline and Management&lt;/h3>
+&lt;p>The project’s work plan consists of four work packages distributed across an 18-month timeline:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Quarter&lt;/th>
+&lt;th>WP1&lt;/th>
+&lt;th>WP2&lt;/th>
+&lt;th>WP3&lt;/th>
+&lt;th>WP4&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Q1-Q2 (2025)&lt;/td>
+&lt;td>✅&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Q3-Q4 (2025)&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>✅&lt;/td>
+&lt;td>✅&lt;/td>
+&lt;td>✅&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Q1-Q2 (2026)&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>&lt;/td>
+&lt;td>✅&lt;/td>
+&lt;td>✅&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Recruitment for an 18-month PDRA will commence three months before the project begins. WP1 will extend over approximately 6 months, WP2 will span another six months, and WP3 will commence midway through WP2 and cover the remaining duration of the project. WP4, focusing on maximizing the project’s impact, will begin in the sixth month and continue with periodic activities throughout the project’s duration.&lt;/p>
+&lt;h3 id="significance-of-the-research">Significance of the Research&lt;/h3>
+&lt;p>This project aims to deliver 3-4 research papers to top-tier conferences such as NeurIPS, ICLR, EMNLP, and ACL. We will be making the codes, models, and platforms publicly available, ensuring accessibility for researchers and practitioners worldwide.&lt;/p>
+&lt;p>The &lt;strong>Sella&lt;/strong> project will have profound social significance, particularly in enhancing medical reasoning and advancing sustainable AI development. By leveraging self-evolving collaborative LLM-based agents, the project has the potential to revolutionize healthcare and improve various AI-driven processes.&lt;/p>
+&lt;h3 id="risks-and-mitigations">Risks and Mitigations&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>WP1 Risk&lt;/strong>: Metrics may not fully capture all aspects of LLM-based agents’ performance. &lt;strong>Mitigation&lt;/strong>: Iterative testing and feedback loops.&lt;/li>
+&lt;li>&lt;strong>WP2 Risk&lt;/strong>: Complexity in dynamically adjusting communication weights between agents. &lt;strong>Mitigation&lt;/strong>: Leverage expertise in dynamic graphs and graph semantics.&lt;/li>
+&lt;li>&lt;strong>WP3 Risk&lt;/strong>: Simulation platform may not cover all necessary scenarios. &lt;strong>Mitigation&lt;/strong>: Incremental development with early feedback integration.&lt;/li>
+&lt;li>&lt;strong>WP4 Risk&lt;/strong>: Insufficient research outcomes impacting deliverables. &lt;strong>Mitigation&lt;/strong>: Leverage PI’s experience in NLP and AI research.&lt;/li>
+&lt;/ul>
+&lt;h3 id="pathways-to-impact">Pathways to Impact&lt;/h3>
+&lt;ul>
+&lt;li>Target publications in top AI venues (NeurIPS, ICML, ICLR, ACL, EMNLP, NAACL).&lt;/li>
+&lt;li>Open-source all research outcomes, including models, data, and simulation platforms.&lt;/li>
+&lt;li>Collaborate with academia and industry (e.g., LangChain, ChatDev, MetaGPT).&lt;/li>
+&lt;li>Organize workshops and conferences to disseminate findings.&lt;/li>
+&lt;/ul>
+&lt;h3 id="limitations">Limitations&lt;/h3>
+&lt;ul>
+&lt;li>&lt;strong>Dependency on black-box LLMs&lt;/strong>: Mitigation via robust evaluation protocols and diverse datasets.&lt;/li>
+&lt;li>&lt;strong>Multi-agent safety concerns&lt;/strong>: Addressed through comprehensive safety frameworks and real-time monitoring.&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h3 id="references">References&lt;/h3>
+&lt;p>[1] Achiam, J., Adler, S., et al., “GPT-4 Technical Report,” arXiv:2303.08774, 2023.&lt;/p>
+&lt;p>[2] Chang, Y., Wang, X., et al., “A Survey on Evaluation of Large Language Models,” ACM Transactions on Intelligent Systems and Technology, 2024.&lt;/p>
+&lt;p>[3] Wang, L., Ma, C., et al., “A Survey on Large Language Model Based Autonomous Agents,” Frontiers of Computer Science, 2024.&lt;/p>
+&lt;p>(And more references as per the original document&amp;hellip;)&lt;/p>
+&lt;hr>
+&lt;p>This Markdown document was converted by ChatGPT from the original proposal document.&lt;/p></description></item></channel></rss>
