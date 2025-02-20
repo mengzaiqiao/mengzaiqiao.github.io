@@ -1,5 +1,5 @@
 ---
-title: Sella
+title: Sella - Modeling Self-evolving Collaborative LLM-based Agents
 summary: This project envisions a future where AI systems are more capable, versatile, and continually improving, driving progress across various fields. Building on this, our project, named Sella, aims to develop new techniques and methodologies for modelling Self-evolving collaborative LLM-based Agents.
 tags:
   - AI Agent
@@ -32,7 +32,7 @@ url_video: ''
 
 ## Sella: Modeling Self-evolving Collaborative LLM-based Agents
 
-> This proposal was originally submitted to the 2024 Cooperative AI Foundation (CAIF) but was not selected for funding.
+> This proposal was originally submitted to the 2024 Cooperative AI Foundation (CAIF) and UKRI FLF, but was not selected for funding.
 > However, we remain committed to bringing this project to life. Check out my  [Google Scholar](https://scholar.google.com/citations?user=5jJKFVcAAAAJ&hl=en) for my latest research related to this project.
 
 ### Vision
