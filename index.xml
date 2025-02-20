@@ -66,9 +66,9 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;/ul>
 &lt;p>&lt;strong>Outcomes&lt;/strong>: AI agents that consistently comply with regulatory standards; real-time auditing and monitoring systems for continuous compliance assessment; guidelines and best practices for responsible AI use in high-stakes domains.&lt;/p>
 &lt;hr>
-&lt;p>This Markdown document was converted by ChatGPT from the original proposal document.&lt;/p></description></item><item><title>Sella</title><link>https://mengzaiqiao.github.io/project/sella/</link><pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate><guid>https://mengzaiqiao.github.io/project/sella/</guid><description>&lt;h2 id="sella-modeling-self-evolving-collaborative-llm-based-agents">Sella: Modeling Self-evolving Collaborative LLM-based Agents&lt;/h2>
+&lt;p>This Markdown document was converted by ChatGPT from the original proposal document.&lt;/p></description></item><item><title>Sella - Modeling Self-evolving Collaborative LLM-based Agents</title><link>https://mengzaiqiao.github.io/project/sella/</link><pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate><guid>https://mengzaiqiao.github.io/project/sella/</guid><description>&lt;h2 id="sella-modeling-self-evolving-collaborative-llm-based-agents">Sella: Modeling Self-evolving Collaborative LLM-based Agents&lt;/h2>
 &lt;blockquote>
-&lt;p>This proposal was originally submitted to the 2024 Cooperative AI Foundation (CAIF) but was not selected for funding.
+&lt;p>This proposal was originally submitted to the 2024 Cooperative AI Foundation (CAIF) and UKRI FLF, but was not selected for funding.
 However, we remain committed to bringing this project to life. Check out my &lt;a href="https://scholar.google.com/citations?user=5jJKFVcAAAAJ&amp;amp;hl=en" target="_blank" rel="noopener">Google Scholar&lt;/a> for my latest research related to this project.&lt;/p>
 &lt;/blockquote>
 &lt;h3 id="vision">Vision&lt;/h3>
@@ -521,7 +521,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-213546789" class="chart">&lt;/div>
+&lt;div id="chart-571962834" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -530,7 +530,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-213546789', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-571962834', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
