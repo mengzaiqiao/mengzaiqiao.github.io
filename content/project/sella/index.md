@@ -32,8 +32,6 @@ url_video: ''
 
 ## Sella: Modeling Self-evolving Collaborative LLM-based Agents
 
-> This proposal was originally submitted to the 2024 Cooperative AI Foundation (CAIF) and UKRI FLF, but was not selected for funding.
-> However, we remain committed to bringing this project to life. Check out my  [Google Scholar](https://scholar.google.com/citations?user=5jJKFVcAAAAJ&hl=en) for my latest research related to this project.
 
 ### Vision
 
@@ -75,57 +73,8 @@ To deliver upon the three project objectives, the project is broken into four wo
 - **WP3**: Developing a Versatile Simulation Platform for the Self-Evolution of Collaborative LLM-based Agents (Months 12-18)
 - **WP4**: Public Engagement and Impact Maximization (Months 7-18)
 
-### Project Timeline and Management
+----
+> This research proposal was originally developed for the The Cooperative AI Foundation (CAIF) scheme. While not selected for funding, the research agenda remains active and ongoing. Here are some of the latest publications and developments related to this research direction.
+> - Zeng, R., Fang, J., Liu, S. and Meng, Z., 2024. On the Structural Memory of LLM Agents. arXiv preprint arXiv:2412.15266.
 
-The project’s work plan consists of four work packages distributed across an 18-month timeline:
-
-| Quarter  | WP1 | WP2 | WP3 | WP4 |
-|----------|-----|-----|-----|-----|
-| Q1-Q2 (2025) | ✅ |   |   |   |
-| Q3-Q4 (2025) |   | ✅ | ✅ | ✅ |
-| Q1-Q2 (2026) |   |   | ✅ | ✅ |
-
-Recruitment for an 18-month PDRA will commence three months before the project begins. WP1 will extend over approximately 6 months, WP2 will span another six months, and WP3 will commence midway through WP2 and cover the remaining duration of the project. WP4, focusing on maximizing the project’s impact, will begin in the sixth month and continue with periodic activities throughout the project’s duration.
-
-### Significance of the Research
-
-This project aims to deliver 3-4 research papers to top-tier conferences such as NeurIPS, ICLR, EMNLP, and ACL. We will be making the codes, models, and platforms publicly available, ensuring accessibility for researchers and practitioners worldwide.
-
-The **Sella** project will have profound social significance, particularly in enhancing medical reasoning and advancing sustainable AI development. By leveraging self-evolving collaborative LLM-based agents, the project has the potential to revolutionize healthcare and improve various AI-driven processes.
-
-### Risks and Mitigations
-
-- **WP1 Risk**: Metrics may not fully capture all aspects of LLM-based agents’ performance. **Mitigation**: Iterative testing and feedback loops.
-- **WP2 Risk**: Complexity in dynamically adjusting communication weights between agents. **Mitigation**: Leverage expertise in dynamic graphs and graph semantics.
-- **WP3 Risk**: Simulation platform may not cover all necessary scenarios. **Mitigation**: Incremental development with early feedback integration.
-- **WP4 Risk**: Insufficient research outcomes impacting deliverables. **Mitigation**: Leverage PI’s experience in NLP and AI research.
-
-### Pathways to Impact
-
-- Target publications in top AI venues (NeurIPS, ICML, ICLR, ACL, EMNLP, NAACL).
-- Open-source all research outcomes, including models, data, and simulation platforms.
-- Collaborate with academia and industry (e.g., LangChain, ChatDev, MetaGPT).
-- Organize workshops and conferences to disseminate findings.
-
-### Limitations
-
-- **Dependency on black-box LLMs**: Mitigation via robust evaluation protocols and diverse datasets.
-- **Multi-agent safety concerns**: Addressed through comprehensive safety frameworks and real-time monitoring.
-
----
-
-### References
-
-[1] Achiam, J., Adler, S., et al., “GPT-4 Technical Report,” arXiv:2303.08774, 2023.
-
-[2] Chang, Y., Wang, X., et al., “A Survey on Evaluation of Large Language Models,” ACM Transactions on Intelligent Systems and Technology, 2024.
-
-[3] Wang, L., Ma, C., et al., “A Survey on Large Language Model Based Autonomous Agents,” Frontiers of Computer Science, 2024.
-
-(And more references as per the original document...)
-
----
-
-This Markdown document was converted by ChatGPT from the original proposal document.
-
-
+For the latest publications and developments related to this research direction, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=5jJKFVcAAAAJ&hl=en).

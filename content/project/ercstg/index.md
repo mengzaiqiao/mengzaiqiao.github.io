@@ -32,8 +32,6 @@ url_video: ''
 
 ## GLA-SD - Towards General LLM-based Agents for Scientific Discovery.
 
-> This proposal was submitted to the European Research Council (ERC) for the Starting Grant. For more details on my latest research related to this project, please visit my [Google Scholar](https://scholar.google.com/citations?user=5jJKFVcAAAAJ&hl=en).
-
 Large Language Models (LLMs) have revolutionized numerous domains, with scientific discovery poised to experience a profound transformation. LLM-based agents, enhanced by capabilities such as planning, memory, reflection, and tool use, are designed to execute complex tasks autonomously. These agents are already demonstrating their potential by solving advanced problems in fields like mathematics, gaming, software development, biomedicine, and material science. With their ability to process vast amounts of data, generate hypotheses, and assist in decision-making, LLM-based agents are increasingly seen as essential collaborators in accelerating scientific research. The potential of these agents to contribute meaningfully to automated scientific discovery is vast, opening up possibilities for breakthroughs in how knowledge is generated and applied across disciplines.
 
 Despite the remarkable advancements in Artificial Intelligence (AI), the application of LLM-based agents for automated scientific discovery still faces significant technical and societal challenges, particularly in terms of **versatility**, **interpretability**, **collaborativity**, and **trustworthiness**. Major technology leaders such as OpenAI, Microsoft, Apple, ByteDance, and LangChain are investing heavily in AI agent frameworks, aiming to shape the future of AI agent research and application. However, existing agents tend to specialize in narrow fields—excelling in single domains such as material science, quantum physics, or biomedicine—without the **versatility** for interdisciplinary tasks or the ability to stay up-to-date with rapidly evolving knowledge. Furthermore, **interpretability** is paramount. Scientists need AI agents that can be trusted to generate precise, interpretable outputs while offering flexible, dynamic reasoning ability to fit a range of needs, from brainstorming and hypothesis generation to decision-making. For AI agents to truly automate scientific discovery, they must seamlessly integrate knowledge across domains and continuously update themselves to reflect the latest advancements and generate interpretable output.
@@ -87,16 +85,7 @@ Currently, effective human-AI collaboration is still a grand challenge. While ag
 ### WP4: Ensuring Compliance, Reliability, and Ethical Integrity [PDRA2] (O4)
 **Goal**: Develop AI agents that adhere to the highest standards of regulatory, ethical, and legal frameworks governing scientific research, fostering trust through demonstrable reliability, transparency, and responsible decision-making across diverse scientific applications.
 
-**Methodology**:
-- **Develop Compliance and Regulatory Frameworks**: Design advanced frameworks that go beyond current regulations such as the EU AI Act, including real-time auditing and monitoring systems.
-- **Integrate Real-Time Compliance Mechanisms**: Embed real-time compliance mechanisms into the LLM agents, utilizing continuous monitoring systems to assess alignment with ethical and legal standards.
-- **Engage in Cross-Domain, Multi-Disciplinary Collaborations**: Collaborate with legal, ethical, and scientific experts to ensure AI agents operate responsibly across domains.
-- **Evaluate Trust and Compliance in High-Stakes Domains**: Conduct evaluations in high-stakes areas like drug discovery and healthcare, using human-in-the-loop systems to validate the accuracy, ethical adherence, and regulatory compliance of AI outputs.
-
-**Outcomes**: AI agents that consistently comply with regulatory standards; real-time auditing and monitoring systems for continuous compliance assessment; guidelines and best practices for responsible AI use in high-stakes domains.
-
----
-
-This Markdown document was converted by ChatGPT from the original proposal document.
-
-
+----
+> This research proposal was originally developed for the The Cooperative AI Foundation (CAIF) scheme. While not selected for funding, the research agenda remains active and ongoing. Here are some of the latest publications and developments related to this research direction.
+> - Zeng, R., Fang, J., Liu, S. and Meng, Z., 2024. On the Structural Memory of LLM Agents. arXiv preprint arXiv:2412.15266.
+For the latest publications and developments related to this research direction, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=5jJKFVcAAAAJ&hl=en).
