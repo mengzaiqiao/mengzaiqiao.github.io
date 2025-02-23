@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI Agent | Zaiqiao Meng</title><link>https://mengzaiqiao.github.io/tag/ai-agent/</link><atom:link href="https://mengzaiqiao.github.io/tag/ai-agent/index.xml" rel="self" type="application/rss+xml"/><description>AI Agent</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Sep 2024 00:00:00 +0000</lastBuildDate><image><url>https://mengzaiqiao.github.io/media/icon_hu90c0c3bdc496405de24acfb5dd3deb77_64960_512x512_fill_lanczos_center_3.png</url><title>AI Agent</title><link>https://mengzaiqiao.github.io/tag/ai-agent/</link></image><item><title>GLA-SD - Towards General LLM-based Agents for Scientific Discovery.</title><link>https://mengzaiqiao.github.io/project/ercstg/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate><guid>https://mengzaiqiao.github.io/project/ercstg/</guid><description>&lt;h2 id="gla-sd---towards-general-llm-based-agents-for-scientific-discovery">GLA-SD - Towards General LLM-based Agents for Scientific Discovery.&lt;/h2>
-&lt;blockquote>
-&lt;p>This proposal was submitted to the European Research Council (ERC) for the Starting Grant. For more details on my latest research related to this project, please visit my &lt;a href="https://scholar.google.com/citations?user=5jJKFVcAAAAJ&amp;amp;hl=en" target="_blank" rel="noopener">Google Scholar&lt;/a>.&lt;/p>
-&lt;/blockquote>
 &lt;p>Large Language Models (LLMs) have revolutionized numerous domains, with scientific discovery poised to experience a profound transformation. LLM-based agents, enhanced by capabilities such as planning, memory, reflection, and tool use, are designed to execute complex tasks autonomously. These agents are already demonstrating their potential by solving advanced problems in fields like mathematics, gaming, software development, biomedicine, and material science. With their ability to process vast amounts of data, generate hypotheses, and assist in decision-making, LLM-based agents are increasingly seen as essential collaborators in accelerating scientific research. The potential of these agents to contribute meaningfully to automated scientific discovery is vast, opening up possibilities for breakthroughs in how knowledge is generated and applied across disciplines.&lt;/p>
 &lt;p>Despite the remarkable advancements in Artificial Intelligence (AI), the application of LLM-based agents for automated scientific discovery still faces significant technical and societal challenges, particularly in terms of &lt;strong>versatility&lt;/strong>, &lt;strong>interpretability&lt;/strong>, &lt;strong>collaborativity&lt;/strong>, and &lt;strong>trustworthiness&lt;/strong>. Major technology leaders such as OpenAI, Microsoft, Apple, ByteDance, and LangChain are investing heavily in AI agent frameworks, aiming to shape the future of AI agent research and application. However, existing agents tend to specialize in narrow fields—excelling in single domains such as material science, quantum physics, or biomedicine—without the &lt;strong>versatility&lt;/strong> for interdisciplinary tasks or the ability to stay up-to-date with rapidly evolving knowledge. Furthermore, &lt;strong>interpretability&lt;/strong> is paramount. Scientists need AI agents that can be trusted to generate precise, interpretable outputs while offering flexible, dynamic reasoning ability to fit a range of needs, from brainstorming and hypothesis generation to decision-making. For AI agents to truly automate scientific discovery, they must seamlessly integrate knowledge across domains and continuously update themselves to reflect the latest advancements and generate interpretable output.&lt;/p>
 &lt;p>Currently, effective human-AI collaboration is still a grand challenge. While agents are increasingly capable, there is still no clear design framework to allow intelligible and responsive collaborations where researchers can guide, understand, refine, and work with them effectively. This lack of &lt;strong>collaborativity&lt;/strong> hinders the full potential of AI in advancing scientific discovery workflows. Moreover, with the increasing power of AI in high-stakes fields, there is growing concern about its potential misuse. Unchecked, AI agents could be employed irresponsibly in ways that lead to flawed research, ethical violations, or even the proliferation of biased or harmful findings. Ensuring that AI systems are compliant with strict ethical, legal, and regulatory standards is crucial to preventing misuse and fostering responsible innovation.&lt;/p>
@@ -46,20 +43,14 @@
 &lt;p>&lt;strong>Outcomes&lt;/strong>: Intuitive, adaptive interaction frameworks; prototypes for real-time collaboration in scientific workflows; improved operational collaborativity and streamlined workflows through automated task management.&lt;/p>
 &lt;h3 id="wp4-ensuring-compliance-reliability-and-ethical-integrity-pdra2-o4">WP4: Ensuring Compliance, Reliability, and Ethical Integrity [PDRA2] (O4)&lt;/h3>
 &lt;p>&lt;strong>Goal&lt;/strong>: Develop AI agents that adhere to the highest standards of regulatory, ethical, and legal frameworks governing scientific research, fostering trust through demonstrable reliability, transparency, and responsible decision-making across diverse scientific applications.&lt;/p>
-&lt;p>&lt;strong>Methodology&lt;/strong>:&lt;/p>
-&lt;ul>
-&lt;li>&lt;strong>Develop Compliance and Regulatory Frameworks&lt;/strong>: Design advanced frameworks that go beyond current regulations such as the EU AI Act, including real-time auditing and monitoring systems.&lt;/li>
-&lt;li>&lt;strong>Integrate Real-Time Compliance Mechanisms&lt;/strong>: Embed real-time compliance mechanisms into the LLM agents, utilizing continuous monitoring systems to assess alignment with ethical and legal standards.&lt;/li>
-&lt;li>&lt;strong>Engage in Cross-Domain, Multi-Disciplinary Collaborations&lt;/strong>: Collaborate with legal, ethical, and scientific experts to ensure AI agents operate responsibly across domains.&lt;/li>
-&lt;li>&lt;strong>Evaluate Trust and Compliance in High-Stakes Domains&lt;/strong>: Conduct evaluations in high-stakes areas like drug discovery and healthcare, using human-in-the-loop systems to validate the accuracy, ethical adherence, and regulatory compliance of AI outputs.&lt;/li>
-&lt;/ul>
-&lt;p>&lt;strong>Outcomes&lt;/strong>: AI agents that consistently comply with regulatory standards; real-time auditing and monitoring systems for continuous compliance assessment; guidelines and best practices for responsible AI use in high-stakes domains.&lt;/p>
 &lt;hr>
-&lt;p>This Markdown document was converted by ChatGPT from the original proposal document.&lt;/p></description></item><item><title>Sella - Modeling Self-evolving Collaborative LLM-based Agents</title><link>https://mengzaiqiao.github.io/project/sella/</link><pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate><guid>https://mengzaiqiao.github.io/project/sella/</guid><description>&lt;h2 id="sella-modeling-self-evolving-collaborative-llm-based-agents">Sella: Modeling Self-evolving Collaborative LLM-based Agents&lt;/h2>
 &lt;blockquote>
-&lt;p>This proposal was originally submitted to the 2024 Cooperative AI Foundation (CAIF) and UKRI FLF, but was not selected for funding.
-However, we remain committed to bringing this project to life. Check out my &lt;a href="https://scholar.google.com/citations?user=5jJKFVcAAAAJ&amp;amp;hl=en" target="_blank" rel="noopener">Google Scholar&lt;/a> for my latest research related to this project.&lt;/p>
-&lt;/blockquote>
+&lt;p>This research proposal was originally developed for the The Cooperative AI Foundation (CAIF) scheme. While not selected for funding, the research agenda remains active and ongoing. Here are some of the latest publications and developments related to this research direction.&lt;/p>
+&lt;ul>
+&lt;li>Zeng, R., Fang, J., Liu, S. and Meng, Z., 2024. On the Structural Memory of LLM Agents. arXiv preprint arXiv:2412.15266.
+For the latest publications and developments related to this research direction, please visit my &lt;a href="https://scholar.google.com/citations?user=5jJKFVcAAAAJ&amp;amp;hl=en" target="_blank" rel="noopener">Google Scholar profile&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;/blockquote></description></item><item><title>Sella - Modeling Self-evolving Collaborative LLM-based Agents</title><link>https://mengzaiqiao.github.io/project/sella/</link><pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate><guid>https://mengzaiqiao.github.io/project/sella/</guid><description>&lt;h2 id="sella-modeling-self-evolving-collaborative-llm-based-agents">Sella: Modeling Self-evolving Collaborative LLM-based Agents&lt;/h2>
 &lt;h3 id="vision">Vision&lt;/h3>
 &lt;h2 id="background">Background&lt;/h2>
 &lt;p>Recent advancements in artificial intelligence (AI) have been significantly driven by the development of large language models (LLMs) such as GPT-4 and their effectiveness in various tasks, including dialogue generation, machine translation, question answering, and other open-ended generation tasks. LLM-based agents are AI systems that leverage the powerful language understanding capabilities of LLMs to interact with the world, make decisions, and perform tasks autonomously.&lt;/p>
@@ -89,70 +80,11 @@ However, we remain committed to bringing this project to life. Check out my &lt;
 &lt;li>&lt;strong>WP3&lt;/strong>: Developing a Versatile Simulation Platform for the Self-Evolution of Collaborative LLM-based Agents (Months 12-18)&lt;/li>
 &lt;li>&lt;strong>WP4&lt;/strong>: Public Engagement and Impact Maximization (Months 7-18)&lt;/li>
 &lt;/ul>
-&lt;h3 id="project-timeline-and-management">Project Timeline and Management&lt;/h3>
-&lt;p>The project’s work plan consists of four work packages distributed across an 18-month timeline:&lt;/p>
-&lt;table>
-&lt;thead>
-&lt;tr>
-&lt;th>Quarter&lt;/th>
-&lt;th>WP1&lt;/th>
-&lt;th>WP2&lt;/th>
-&lt;th>WP3&lt;/th>
-&lt;th>WP4&lt;/th>
-&lt;/tr>
-&lt;/thead>
-&lt;tbody>
-&lt;tr>
-&lt;td>Q1-Q2 (2025)&lt;/td>
-&lt;td>✅&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Q3-Q4 (2025)&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>✅&lt;/td>
-&lt;td>✅&lt;/td>
-&lt;td>✅&lt;/td>
-&lt;/tr>
-&lt;tr>
-&lt;td>Q1-Q2 (2026)&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>&lt;/td>
-&lt;td>✅&lt;/td>
-&lt;td>✅&lt;/td>
-&lt;/tr>
-&lt;/tbody>
-&lt;/table>
-&lt;p>Recruitment for an 18-month PDRA will commence three months before the project begins. WP1 will extend over approximately 6 months, WP2 will span another six months, and WP3 will commence midway through WP2 and cover the remaining duration of the project. WP4, focusing on maximizing the project’s impact, will begin in the sixth month and continue with periodic activities throughout the project’s duration.&lt;/p>
-&lt;h3 id="significance-of-the-research">Significance of the Research&lt;/h3>
-&lt;p>This project aims to deliver 3-4 research papers to top-tier conferences such as NeurIPS, ICLR, EMNLP, and ACL. We will be making the codes, models, and platforms publicly available, ensuring accessibility for researchers and practitioners worldwide.&lt;/p>
-&lt;p>The &lt;strong>Sella&lt;/strong> project will have profound social significance, particularly in enhancing medical reasoning and advancing sustainable AI development. By leveraging self-evolving collaborative LLM-based agents, the project has the potential to revolutionize healthcare and improve various AI-driven processes.&lt;/p>
-&lt;h3 id="risks-and-mitigations">Risks and Mitigations&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>WP1 Risk&lt;/strong>: Metrics may not fully capture all aspects of LLM-based agents’ performance. &lt;strong>Mitigation&lt;/strong>: Iterative testing and feedback loops.&lt;/li>
-&lt;li>&lt;strong>WP2 Risk&lt;/strong>: Complexity in dynamically adjusting communication weights between agents. &lt;strong>Mitigation&lt;/strong>: Leverage expertise in dynamic graphs and graph semantics.&lt;/li>
-&lt;li>&lt;strong>WP3 Risk&lt;/strong>: Simulation platform may not cover all necessary scenarios. &lt;strong>Mitigation&lt;/strong>: Incremental development with early feedback integration.&lt;/li>
-&lt;li>&lt;strong>WP4 Risk&lt;/strong>: Insufficient research outcomes impacting deliverables. &lt;strong>Mitigation&lt;/strong>: Leverage PI’s experience in NLP and AI research.&lt;/li>
-&lt;/ul>
-&lt;h3 id="pathways-to-impact">Pathways to Impact&lt;/h3>
-&lt;ul>
-&lt;li>Target publications in top AI venues (NeurIPS, ICML, ICLR, ACL, EMNLP, NAACL).&lt;/li>
-&lt;li>Open-source all research outcomes, including models, data, and simulation platforms.&lt;/li>
-&lt;li>Collaborate with academia and industry (e.g., LangChain, ChatDev, MetaGPT).&lt;/li>
-&lt;li>Organize workshops and conferences to disseminate findings.&lt;/li>
-&lt;/ul>
-&lt;h3 id="limitations">Limitations&lt;/h3>
-&lt;ul>
-&lt;li>&lt;strong>Dependency on black-box LLMs&lt;/strong>: Mitigation via robust evaluation protocols and diverse datasets.&lt;/li>
-&lt;li>&lt;strong>Multi-agent safety concerns&lt;/strong>: Addressed through comprehensive safety frameworks and real-time monitoring.&lt;/li>
-&lt;/ul>
 &lt;hr>
-&lt;h3 id="references">References&lt;/h3>
-&lt;p>[1] Achiam, J., Adler, S., et al., “GPT-4 Technical Report,” arXiv:2303.08774, 2023.&lt;/p>
-&lt;p>[2] Chang, Y., Wang, X., et al., “A Survey on Evaluation of Large Language Models,” ACM Transactions on Intelligent Systems and Technology, 2024.&lt;/p>
-&lt;p>[3] Wang, L., Ma, C., et al., “A Survey on Large Language Model Based Autonomous Agents,” Frontiers of Computer Science, 2024.&lt;/p>
-&lt;p>(And more references as per the original document&amp;hellip;)&lt;/p>
-&lt;hr>
-&lt;p>This Markdown document was converted by ChatGPT from the original proposal document.&lt;/p></description></item></channel></rss>
+&lt;blockquote>
+&lt;p>This research proposal was originally developed for the The Cooperative AI Foundation (CAIF) scheme. While not selected for funding, the research agenda remains active and ongoing. Here are some of the latest publications and developments related to this research direction.&lt;/p>
+&lt;ul>
+&lt;li>Zeng, R., Fang, J., Liu, S. and Meng, Z., 2024. On the Structural Memory of LLM Agents. arXiv preprint arXiv:2412.15266.&lt;/li>
+&lt;/ul>
+&lt;/blockquote>
+&lt;p>For the latest publications and developments related to this research direction, please visit my &lt;a href="https://scholar.google.com/citations?user=5jJKFVcAAAAJ&amp;amp;hl=en" target="_blank" rel="noopener">Google Scholar profile&lt;/a>.&lt;/p></description></item></channel></rss>
