@@ -9,7 +9,367 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>GLA-SD - Towards General LLM-based Agents for Scientific Discovery.</title><link>https://mengzaiqiao.github.io/project/ercstg/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate><guid>https://mengzaiqiao.github.io/project/ercstg/</guid><description>&lt;h2 id="gla-sd---towards-general-llm-based-agents-for-scientific-discovery">GLA-SD - Towards General LLM-based Agents for Scientific Discovery.&lt;/h2>
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>EvoAgentX - Building a Self-Evolving Ecosystem of AI Agents</title><link>https://mengzaiqiao.github.io/project/sella/</link><pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate><guid>https://mengzaiqiao.github.io/project/sella/</guid><description>&lt;!-- Add logo here -->
+&lt;div align="center">
+&lt;a href="https://github.com/EvoAgentX/EvoAgentX">
+&lt;img src="./assets/EAXLoGo.svg" alt="EvoAgentX" width="50%">
+&lt;/a>
+&lt;/div>
+&lt;h2 align="center">
+Building a Self-Evolving Ecosystem of AI Agents
+&lt;/h2>
+&lt;div align="center">
+&lt;p>&lt;a href="https://evo-agent-x-landing-page.vercel.app/" target="_blank" rel="noopener">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://img.shields.io/badge/EvoAgentX-Homepage-blue?logo=homebridge" alt="EvoAgentX Homepage" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/a>
+&lt;a href="https://EvoAgentX.github.io/EvoAgentX/" target="_blank" rel="noopener">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://img.shields.io/badge/-Documentation-0A66C2?logo=readthedocs&amp;amp;logoColor=white&amp;amp;color=7289DA&amp;amp;labelColor=grey" alt="Docs" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/a>
+&lt;a href="https://discord.gg/SUEkfTYn" target="_blank" rel="noopener">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://img.shields.io/badge/Chat-Discord-5865F2?&amp;amp;logo=discord&amp;amp;logoColor=white" alt="Discord" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/a>
+&lt;a href="https://x.com/EvoAgentX" target="_blank" rel="noopener">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://img.shields.io/badge/Follow-@EvoAgentX-e3dee5?&amp;amp;logo=x&amp;amp;logoColor=white" alt="Twitter" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/a>
+&lt;a href="https://github.com/EvoAgentX/EvoAgentX/blob/main/assets/wechat_info.md" target="_blank" rel="noopener">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://img.shields.io/badge/WeChat-EvoAgentX-brightgreen?logo=wechat&amp;amp;logoColor=white" alt="Wechat" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/a>
+&lt;a href="https://star-history.com/#EvoAgentX/EvoAgentX" target="_blank" rel="noopener">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://img.shields.io/github/stars/EvoAgentX/EvoAgentX?style=social" alt="GitHub star chart" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/a>
+&lt;a href="https://github.com/EvoAgentX/EvoAgentX/fork" target="_blank" rel="noopener">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://img.shields.io/github/forks/EvoAgentX/EvoAgentX?style=social" alt="GitHub fork" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/a>
+&lt;a href="https://github.com/EvoAgentX/EvoAgentX/blob/main/LICENSE" target="_blank" rel="noopener">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://img.shields.io/badge/License-MIT-blue.svg?" alt="License" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/a>&lt;/p>
+&lt;!-- [![EvoAgentX Homepage](https://img.shields.io/badge/EvoAgentX-Homepage-blue?logo=homebridge)](https://EvoAgentX.github.io/EvoAgentX/) -->
+&lt;!-- [![hf_space](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-EvoAgentX-ffc107?color=ffc107&amp;logoColor=white)](https://huggingface.co/EvoAgentX) -->
+&lt;/div>
+&lt;div align="center">
+&lt;h3 align="center">
+&lt;p>&lt;a href="./README.md" style="text-decoration: underline;">English&lt;/a> | &lt;a href="./README-zh.md">简体中文&lt;/a>&lt;/p>
+&lt;/h3>
+&lt;/div>
+&lt;h4 align="center">
+&lt;i>An automated framework for evaluating and evolving agentic workflows.&lt;/i>
+&lt;/h4>
+&lt;p align="center">
+&lt;img src="./assets/framework_en.png">
+&lt;/p>
+&lt;h2 id="-latest-news">🔥 Latest News&lt;/h2>
+&lt;ul>
+&lt;li>&lt;strong>[May 2025]&lt;/strong> 🎉 &lt;strong>EvoAgentX&lt;/strong> has been officially released!&lt;/li>
+&lt;/ul>
+&lt;h2 id="-get-started">⚡ Get Started&lt;/h2>
+&lt;ul>
+&lt;li>&lt;a href="#installation">Installation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#llm-configuration">LLM Configuration&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#automatic-workflow-generation">Automatic WorkFlow Generation&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#demo-video">Demo Video&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#evolution-algorithms">Evolution Algorithms&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#applications">Applications&lt;/a>&lt;/li>
+&lt;li>&lt;a href="#tutorial-and-use-cases">Tutorial and Use Cases&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;h2 id="installation">Installation&lt;/h2>
+&lt;p>We recommend installing EvoAgentX using &lt;code>pip&lt;/code>:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">pip install git+https://github.com/EvoAgentX/EvoAgentX.git
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>For local development or detailed setup (e.g., using conda), refer to the &lt;a href="./docs/installation.md">Installation Guide for EvoAgentX&lt;/a>.&lt;/p>
+&lt;details>
+&lt;summary>Example (optional, for local development):&lt;/summary>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">git clone https://github.com/EvoAgentX/EvoAgentX.git
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">cd&lt;/span> EvoAgentX
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Create a new conda environment&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">conda create -n evoagentx &lt;span class="nv">python&lt;/span>&lt;span class="o">=&lt;/span>3.10
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Activate the environment&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">conda activate evoagentx
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Install the package&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pip install -r requirements.txt
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># OR install in development mode&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">pip install -e .
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/details>
+&lt;h2 id="llm-configuration">LLM Configuration&lt;/h2>
+&lt;h3 id="api-key-configuration">API Key Configuration&lt;/h3>
+&lt;p>To use LLMs with EvoAgentX (e.g., OpenAI), you must set up your API key.&lt;/p>
+&lt;details>
+&lt;summary>Option 1: Set API Key via Environment Variable&lt;/summary>
+&lt;ul>
+&lt;li>Linux/macOS:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">&lt;span class="nb">export&lt;/span> &lt;span class="nv">OPENAI_API_KEY&lt;/span>&lt;span class="o">=&lt;/span>&amp;lt;your-openai-api-key&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
+&lt;li>Windows Command Prompt:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-cmd" data-lang="cmd">&lt;span class="line">&lt;span class="cl">&lt;span class="k">set&lt;/span> &lt;span class="nv">OPENAI_API_KEY&lt;/span>&lt;span class="p">=&amp;lt;&lt;/span>your-openai-api-key&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ul>
+&lt;li>Windows PowerShell:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-powershell" data-lang="powershell">&lt;span class="line">&lt;span class="cl">&lt;span class="nv">$env:OPENAI_API_KEY&lt;/span>&lt;span class="p">=&lt;/span>&lt;span class="s2">&amp;#34;&amp;lt;your-openai-api-key&amp;gt;&amp;#34;&lt;/span> &lt;span class="c"># &amp;#34; is required &lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Once set, you can access the key in your Python code with:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">os&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">OPENAI_API_KEY&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">os&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">getenv&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;OPENAI_API_KEY&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/details>
+&lt;details>
+&lt;summary>Option 2: Use .env File&lt;/summary>
+&lt;ul>
+&lt;li>Create a .env file in your project root and add the following:&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-bash" data-lang="bash">&lt;span class="line">&lt;span class="cl">&lt;span class="nv">OPENAI_API_KEY&lt;/span>&lt;span class="o">=&lt;/span>&amp;lt;your-openai-api-key&amp;gt;
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Then load it in Python:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">from&lt;/span> &lt;span class="nn">dotenv&lt;/span> &lt;span class="kn">import&lt;/span> &lt;span class="n">load_dotenv&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kn">import&lt;/span> &lt;span class="nn">os&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">load_dotenv&lt;/span>&lt;span class="p">()&lt;/span> &lt;span class="c1"># Loads environment variables from .env file&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">OPENAI_API_KEY&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">os&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">getenv&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;OPENAI_API_KEY&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;/details>
+&lt;!-- > 🔐 Tip: Don't forget to add `.env` to your `.gitignore` to avoid committing secrets. -->
+&lt;h3 id="configure-and-use-the-llm">Configure and Use the LLM&lt;/h3>
+&lt;p>Once the API key is set, initialise the LLM with:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">from&lt;/span> &lt;span class="nn">evoagentx.models&lt;/span> &lt;span class="kn">import&lt;/span> &lt;span class="n">OpenAILLMConfig&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">OpenAILLM&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Load the API key from environment&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">OPENAI_API_KEY&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">os&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">getenv&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;OPENAI_API_KEY&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Define LLM configuration&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">openai_config&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">OpenAILLMConfig&lt;/span>&lt;span class="p">(&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">model&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;gpt-4o-mini&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="c1"># Specify the model name&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">openai_key&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="n">OPENAI_API_KEY&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="c1"># Pass the key directly&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">stream&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="kc">True&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="c1"># Enable streaming response&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="n">output_response&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="kc">True&lt;/span> &lt;span class="c1"># Print response to stdout&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Initialize the language model&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">llm&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">OpenAILLM&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">config&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="n">openai_config&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="c1"># Generate a response from the LLM&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">response&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">llm&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">generate&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">prompt&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s2">&amp;#34;What is Agentic Workflow?&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;blockquote>
+&lt;p>📖 More details on supported models and config options: &lt;a href="./docs/modules/llm.md">LLM module guide&lt;/a>.&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="automatic-workflow-generation">Automatic WorkFlow Generation&lt;/h2>
+&lt;p>Once your API key and language model are configured, you can automatically generate and execute multi-agent workflows in EvoAgentX.&lt;/p>
+&lt;p>🧩 Core Steps:&lt;/p>
+&lt;ol>
+&lt;li>Define a natural language goal&lt;/li>
+&lt;li>Generate the workflow with &lt;code>WorkFlowGenerator&lt;/code>&lt;/li>
+&lt;li>Instantiate agents using &lt;code>AgentManager&lt;/code>&lt;/li>
+&lt;li>Execute the workflow via &lt;code>WorkFlow&lt;/code>&lt;/li>
+&lt;/ol>
+&lt;p>💡 Minimal Example:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="kn">from&lt;/span> &lt;span class="nn">evoagentx.workflow&lt;/span> &lt;span class="kn">import&lt;/span> &lt;span class="n">WorkFlowGenerator&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">WorkFlowGraph&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">WorkFlow&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="kn">from&lt;/span> &lt;span class="nn">evoagentx.agents&lt;/span> &lt;span class="kn">import&lt;/span> &lt;span class="n">AgentManager&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">goal&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;Generate html code for the Tetris game&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">workflow_graph&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">WorkFlowGenerator&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">llm&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="n">llm&lt;/span>&lt;span class="p">)&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">generate_workflow&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">goal&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">agent_manager&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">AgentManager&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">agent_manager&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">add_agents_from_workflow&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">workflow_graph&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">llm_config&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="n">openai_config&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">workflow&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">WorkFlow&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">graph&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="n">workflow_graph&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">agent_manager&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="n">agent_manager&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="n">llm&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="n">llm&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="n">output&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="n">workflow&lt;/span>&lt;span class="o">.&lt;/span>&lt;span class="n">execute&lt;/span>&lt;span class="p">()&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="n">output&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>You can also:&lt;/p>
+&lt;ul>
+&lt;li>📊 Visualise the workflow: &lt;code>workflow_graph.display()&lt;/code>&lt;/li>
+&lt;li>💾 Save/load workflows: &lt;code>save_module()&lt;/code> / &lt;code>from_file()&lt;/code>&lt;/li>
+&lt;/ul>
+&lt;blockquote>
+&lt;p>📂 For a complete working example, check out the &lt;a href="https://github.com/EvoAgentX/EvoAgentX/blob/main/examples/workflow_demo.py" target="_blank" rel="noopener">&lt;code>workflow_demo.py&lt;/code>&lt;/a>&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="demo-video">Demo Video&lt;/h2>
+&lt;p>🎥 Demo video:&lt;/p>
+&lt;p>In this demo, we showcase the workflow generation and execution capabilities of EvoAgentX through two examples:&lt;/p>
+&lt;ol>
+&lt;li>
+&lt;p>Application 1: Intelligent Job Recommendation from Resume&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Application 2: Visual Analysis of A-Share Stocks&lt;/p>
+&lt;/li>
+&lt;/ol>
+&lt;p>&lt;a href="https://youtu.be/Wu0ZydYDqgg" target="_blank" rel="noopener">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="./assets/demo.png" alt="EvoAgentX demo video" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/a>&lt;/p>
+&lt;h3 id="-final-results">✨ Final Results&lt;/h3>
+&lt;table>
+&lt;tr>
+&lt;td align="center">
+&lt;img src="./assets/demo_result_1.png" width="400">&lt;br>
+&lt;strong>Application&amp;nbsp;1:&lt;/strong>&lt;br>Job Recommendation
+&lt;/td>
+&lt;td align="center">
+&lt;img src="./assets/demo_result_2.jpeg" width="400">&lt;br>
+&lt;strong>Application&amp;nbsp;2:&lt;/strong>&lt;br>Stock Visual Analysis
+&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;h2 id="evolution-algorithms">Evolution Algorithms&lt;/h2>
+&lt;p>We have integrated some existing agent/workflow evolution algorithms into EvoAgentX, including &lt;a href="https://www.nature.com/articles/s41586-025-08661-4" target="_blank" rel="noopener">TextGrad&lt;/a>, &lt;a href="https://arxiv.org/abs/2406.11695" target="_blank" rel="noopener">MIPRO&lt;/a> and &lt;a href="https://arxiv.org/abs/2410.10762" target="_blank" rel="noopener">AFlow&lt;/a>.&lt;/p>
+&lt;p>To evaluate the performance, we use them to optimize the same agent system on three different tasks: multi-hop QA (HotPotQA), code generation (MBPP) and reasoning (MATH). We randomly sample 50 examples for validation and other 100 examples for testing.&lt;/p>
+&lt;blockquote>
+&lt;p>Tip: We have integrated these benchmark and evaluation code in EvoAgentX. Please refer to the &lt;a href="https://github.com/EvoAgentX/EvoAgentX/blob/main/docs/tutorial/benchmark_and_evaluation.md" target="_blank" rel="noopener">benchmark and evaluation tutorial&lt;/a> for more details.&lt;/p>
+&lt;/blockquote>
+&lt;h3 id="-results">📊 Results&lt;/h3>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Method&lt;/th>
+&lt;th>HotPotQA&lt;br>(F1%)&lt;/th>
+&lt;th>MBPP&lt;br>(Pass@1 %)&lt;/th>
+&lt;th>MATH&lt;br>(Solve Rate %)&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>Original&lt;/td>
+&lt;td>63.58&lt;/td>
+&lt;td>69.00&lt;/td>
+&lt;td>66.00&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>TextGrad&lt;/td>
+&lt;td>69.21&lt;/td>
+&lt;td>68.00&lt;/td>
+&lt;td>76.00&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>AFlow&lt;/td>
+&lt;td>65.09&lt;/td>
+&lt;td>79.00&lt;/td>
+&lt;td>71.00&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>MIPRO&lt;/td>
+&lt;td>69.16&lt;/td>
+&lt;td>68.00&lt;/td>
+&lt;td>72.30&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>Please refer to the &lt;code>examples/optimization&lt;/code> folder for more details.&lt;/p>
+&lt;h2 id="applications">Applications&lt;/h2>
+&lt;p>We use our framework to optimize existing multi-agent systems on the &lt;a href="https://huggingface.co/spaces/gaia-benchmark/leaderboard" target="_blank" rel="noopener">GAIA&lt;/a> benchmark. We select &lt;a href="https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research" target="_blank" rel="noopener">Open Deep Research&lt;/a> and &lt;a href="https://github.com/camel-ai/owl" target="_blank" rel="noopener">OWL&lt;/a>, two representative multi-agent framework from the GAIA leaderboard that is open-source and runnable.&lt;/p>
+&lt;p>We apply EvoAgentX to optimize their prompts. The performance of the optimized agents on the GAIA benchmark validation set is shown in the figure below.&lt;/p>
+&lt;table>
+&lt;tr>
+&lt;td align="center" width="50%">
+&lt;img src="./assets/open_deep_research_optimization_report.png" alt="Open Deep Research Optimization" width="100%">&lt;br>
+&lt;strong>Open Deep Research&lt;/strong>
+&lt;/td>
+&lt;td align="center" width="50%">
+&lt;img src="./assets/owl_optimization_result.png" alt="OWL Optimization" width="100%">&lt;br>
+&lt;strong>OWL Agent&lt;/strong>
+&lt;/td>
+&lt;/tr>
+&lt;/table>
+&lt;blockquote>
+&lt;p>Full Optimization Reports: &lt;a href="https://github.com/eax6/smolagents" target="_blank" rel="noopener">Open Deep Research&lt;/a> and &lt;a href="https://github.com/TedSIWEILIU/owl" target="_blank" rel="noopener">OWL&lt;/a>.&lt;/p>
+&lt;/blockquote>
+&lt;h2 id="tutorial-and-use-cases">Tutorial and Use Cases&lt;/h2>
+&lt;blockquote>
+&lt;p>💡 &lt;strong>New to EvoAgentX?&lt;/strong> Start with the &lt;a href="./docs/quickstart.md">Quickstart Guide&lt;/a> for a step-by-step introduction.&lt;/p>
+&lt;/blockquote>
+&lt;p>Explore how to effectively use EvoAgentX with the following resources:&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th style="text-align:left">Cookbook&lt;/th>
+&lt;th style="text-align:left">Description&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td style="text-align:left">&lt;strong>&lt;a href="./docs/tutorial/first_agent.md">Build Your First Agent&lt;/a>&lt;/strong>&lt;/td>
+&lt;td style="text-align:left">Quickly create and manage agents with multi-action capabilities.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">&lt;strong>&lt;a href="./docs/tutorial/first_workflow.md">Build Your First Workflow&lt;/a>&lt;/strong>&lt;/td>
+&lt;td style="text-align:left">Learn to build collaborative workflows with multiple agents.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">&lt;strong>&lt;a href="./docs/quickstart.md#automatic-workflow-generation-and-execution">Automatic Workflow Generation&lt;/a>&lt;/strong>&lt;/td>
+&lt;td style="text-align:left">Automatically generate workflows from natural language goals.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">&lt;strong>&lt;a href="./docs/tutorial/benchmark_and_evaluation.md">Benchmark and Evaluation Tutorial&lt;/a>&lt;/strong>&lt;/td>
+&lt;td style="text-align:left">Evaluate agent performance using benchmark datasets.&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td style="text-align:left">&lt;strong>&lt;a href="./docs/tutorial/aflow_optimizer.md">AFlow Optimizer Tutorial&lt;/a>&lt;/strong>&lt;/td>
+&lt;td style="text-align:left">Automatically optimise multi-agent workflows for better task performance.&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;!-- | **[SEW Optimizer Tutorial](./docs/tutorial/sew_optimizer.md)** | Create SEW (Self-Evolving Workflows) to enhance agent systems. | -->
+&lt;p>🛠️ Follow the tutorials to build and optimize your EvoAgentX workflows.&lt;/p>
+&lt;p>🚀 We&amp;rsquo;re actively working on expanding our library of use cases and optimization strategies. &lt;strong>More coming soon — stay tuned!&lt;/strong>&lt;/p>
+&lt;h2 id="-roadmap">🎯 Roadmap&lt;/h2>
+&lt;ul>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Modularize Evolution Algorithms&lt;/strong>: Abstract optimization algorithms into plug-and-play modules that can be easily integrated into custom workflows.&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Develop Task Templates and Agent Modules&lt;/strong>: Build reusable templates for typical tasks and standardized agent components to streamline application development.&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Integrate Self-Evolving Agent Algorithms&lt;/strong>: Incorporate more recent and advanced agent self-evolution across multiple dimensions, including prompt tuning, workflow structures, and memory modules.&lt;/li>
+&lt;li>&lt;input disabled="" type="checkbox"> &lt;strong>Enable Visual Workflow Editing Interface&lt;/strong>: Provide a visual interface for workflow structure display and editing to improve usability and debugging.&lt;/li>
+&lt;/ul>
+&lt;h2 id="-support">🙋 Support&lt;/h2>
+&lt;h3 id="join-the-community">Join the Community&lt;/h3>
+&lt;p>📢 Stay connected and be part of the &lt;strong>EvoAgentX&lt;/strong> journey!&lt;br>
+🚩 Join our community to get the latest updates, share your ideas, and collaborate with AI enthusiasts worldwide.&lt;/p>
+&lt;ul>
+&lt;li>&lt;a href="https://discord.gg/SUEkfTYn" target="_blank" rel="noopener">Discord&lt;/a> — Chat, discuss, and collaborate in real-time.&lt;/li>
+&lt;li>&lt;a href="https://x.com/EvoAgentX" target="_blank" rel="noopener">X (formerly Twitter)&lt;/a> — Follow us for news, updates, and insights.&lt;/li>
+&lt;li>&lt;a href="https://github.com/EvoAgentX/EvoAgentX/blob/main/assets/wechat_info.md" target="_blank" rel="noopener">WeChat&lt;/a> — Connect with our Chinese community.&lt;/li>
+&lt;/ul>
+&lt;h3 id="contact-information">Contact Information&lt;/h3>
+&lt;p>If you have any questions or feedback about this project, please feel free to contact us. We highly appreciate your suggestions!&lt;/p>
+&lt;ul>
+&lt;li>&lt;strong>Email:&lt;/strong> &lt;a href="mailto:evoagentx.ai@gmail.com">evoagentx.ai@gmail.com&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;p>We will respond to all questions within 2-3 business days.&lt;/p>
+&lt;h2 id="-contributing-to-evoagentx">🙌 Contributing to EvoAgentX&lt;/h2>
+&lt;p>Thanks go to these awesome contributors&lt;/p>
+&lt;a href="https://github.com/EvoAgentX/EvoAgentX/graphs/contributors">
+&lt;img src="https://contrib.rocks/image?repo=EvoAgentX/EvoAgentX" />
+&lt;/a>
+&lt;p>We appreciate your interest in contributing to our open-source initiative. We provide a document of &lt;a href="https://github.com/EvoAgentX/EvoAgentX/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener">contributing guidelines&lt;/a> which outlines the steps for contributing to EvoAgentX. Please refer to this guide to ensure smooth collaboration and successful contributions. 🤝🚀&lt;/p>
+&lt;p>&lt;a href="https://www.star-history.com/#EvoAgentX/EvoAgentX&amp;amp;Date" target="_blank" rel="noopener">
+&lt;figure >
+&lt;div class="d-flex justify-content-center">
+&lt;div class="w-100" >&lt;img src="https://api.star-history.com/svg?repos=EvoAgentX/EvoAgentX&amp;amp;type=Date" alt="Star History Chart" loading="lazy" data-zoomable />&lt;/div>
+&lt;/div>&lt;/figure>
+&lt;/a>&lt;/p>
+&lt;h2 id="-acknowledgements">📚 Acknowledgements&lt;/h2>
+&lt;p>This project builds upon several outstanding open-source projects: &lt;a href="https://github.com/FoundationAgents/MetaGPT/tree/main/metagpt/ext/aflow" target="_blank" rel="noopener">AFlow&lt;/a>, &lt;a href="https://github.com/zou-group/textgrad" target="_blank" rel="noopener">TextGrad&lt;/a>, &lt;a href="https://github.com/stanfordnlp/dspy" target="_blank" rel="noopener">DSPy&lt;/a>, &lt;a href="https://github.com/LiveCodeBench/LiveCodeBench" target="_blank" rel="noopener">LiveCodeBench&lt;/a>, and more. We would like to thank the developers and maintainers of these frameworks for their valuable contributions to the open-source community.&lt;/p>
+&lt;h2 id="-license">📄 License&lt;/h2>
+&lt;p>Source code in this repository is made available under the &lt;a href="./LICENSE">MIT License&lt;/a>.&lt;/p></description></item><item><title>GLA-SD - Towards General LLM-based Agents for Scientific Discovery.</title><link>https://mengzaiqiao.github.io/project/ercstg/</link><pubDate>Fri, 20 Sep 2024 00:00:00 +0000</pubDate><guid>https://mengzaiqiao.github.io/project/ercstg/</guid><description>&lt;h2 id="gla-sd---towards-general-llm-based-agents-for-scientific-discovery">GLA-SD - Towards General LLM-based Agents for Scientific Discovery.&lt;/h2>
 &lt;p>Large Language Models (LLMs) have revolutionized numerous domains, with scientific discovery poised to experience a profound transformation. LLM-based agents, enhanced by capabilities such as planning, memory, reflection, and tool use, are designed to execute complex tasks autonomously. These agents are already demonstrating their potential by solving advanced problems in fields like mathematics, gaming, software development, biomedicine, and material science. With their ability to process vast amounts of data, generate hypotheses, and assist in decision-making, LLM-based agents are increasingly seen as essential collaborators in accelerating scientific research. The potential of these agents to contribute meaningfully to automated scientific discovery is vast, opening up possibilities for breakthroughs in how knowledge is generated and applied across disciplines.&lt;/p>
 &lt;p>Despite the remarkable advancements in Artificial Intelligence (AI), the application of LLM-based agents for automated scientific discovery still faces significant technical and societal challenges, particularly in terms of &lt;strong>versatility&lt;/strong>, &lt;strong>interpretability&lt;/strong>, &lt;strong>collaborativity&lt;/strong>, and &lt;strong>trustworthiness&lt;/strong>. Major technology leaders such as OpenAI, Microsoft, Apple, ByteDance, and LangChain are investing heavily in AI agent frameworks, aiming to shape the future of AI agent research and application. However, existing agents tend to specialize in narrow fields—excelling in single domains such as material science, quantum physics, or biomedicine—without the &lt;strong>versatility&lt;/strong> for interdisciplinary tasks or the ability to stay up-to-date with rapidly evolving knowledge. Furthermore, &lt;strong>interpretability&lt;/strong> is paramount. Scientists need AI agents that can be trusted to generate precise, interpretable outputs while offering flexible, dynamic reasoning ability to fit a range of needs, from brainstorming and hypothesis generation to decision-making. For AI agents to truly automate scientific discovery, they must seamlessly integrate knowledge across domains and continuously update themselves to reflect the latest advancements and generate interpretable output.&lt;/p>
 &lt;p>Currently, effective human-AI collaboration is still a grand challenge. While agents are increasingly capable, there is still no clear design framework to allow intelligible and responsive collaborations where researchers can guide, understand, refine, and work with them effectively. This lack of &lt;strong>collaborativity&lt;/strong> hinders the full potential of AI in advancing scientific discovery workflows. Moreover, with the increasing power of AI in high-stakes fields, there is growing concern about its potential misuse. Unchecked, AI agents could be employed irresponsibly in ways that lead to flawed research, ethical violations, or even the proliferation of biased or harmful findings. Ensuring that AI systems are compliant with strict ethical, legal, and regulatory standards is crucial to preventing misuse and fostering responsible innovation.&lt;/p>
@@ -61,7 +421,7 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>Zeng, R., Fang, J., Liu, S. and Meng, Z., 2024. On the Structural Memory of LLM Agents. arXiv preprint arXiv:2412.15266.&lt;/li>
 &lt;/ul>
 &lt;/blockquote>
-&lt;p>For the latest publications and developments related to this research direction, please visit my &lt;a href="https://scholar.google.com/citations?user=5jJKFVcAAAAJ&amp;amp;hl=en" target="_blank" rel="noopener">Google Scholar profile&lt;/a>.&lt;/p></description></item><item><title>Sella - Modeling Self-evolving Collaborative LLM-based Agents</title><link>https://mengzaiqiao.github.io/project/sella/</link><pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate><guid>https://mengzaiqiao.github.io/project/sella/</guid><description>&lt;h2 id="sella-modeling-self-evolving-collaborative-llm-based-agents">Sella: Modeling Self-evolving Collaborative LLM-based Agents&lt;/h2>
+&lt;p>For the latest publications and developments related to this research direction, please visit my &lt;a href="https://scholar.google.com/citations?user=5jJKFVcAAAAJ&amp;amp;hl=en" target="_blank" rel="noopener">Google Scholar profile&lt;/a>.&lt;/p></description></item><item><title>Sella - Modeling Self-evolving Collaborative LLM-based Agents</title><link>https://mengzaiqiao.github.io/project/evoagentx/</link><pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate><guid>https://mengzaiqiao.github.io/project/evoagentx/</guid><description>&lt;h2 id="sella-modeling-self-evolving-collaborative-llm-based-agents">Sella: Modeling Self-evolving Collaborative LLM-based Agents&lt;/h2>
 &lt;h3 id="vision">Vision&lt;/h3>
 &lt;h2 id="background">Background&lt;/h2>
 &lt;p>Recent advancements in artificial intelligence (AI) have been significantly driven by the development of large language models (LLMs) such as GPT-4 and their effectiveness in various tasks, including dialogue generation, machine translation, question answering, and other open-ended generation tasks. LLM-based agents are AI systems that leverage the powerful language understanding capabilities of LLMs to interact with the world, make decisions, and perform tasks autonomously.&lt;/p>
@@ -458,7 +818,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-915862347" class="chart">&lt;/div>
+&lt;div id="chart-321485697" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -467,7 +827,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-915862347', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-321485697', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
