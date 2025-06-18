@@ -18,6 +18,7 @@ design:
 
 
 * **2025-5-15:**  🚀 Thrilled to introduce EvoAgentX: The world’s first self-evolving framework for AI Agents!🌐 An automated framework for evaluating and evolving agentic workflows. Build and evolve your agents today at 👉 [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX)
+* **2025-5-15:**  Two papers were accepted by [ACL 2025](https://2025.aclweb.org/) on **Knowledge-enhanced retrieval-augmented generation (RAG) models** and **Temporally-aware multimodal large language model tailored for chest X-ray report generation**, see you in Vienna.
 * **2024-11-26:** Delivered a tutorial on "[Integrating Knowledge Graphs and Large Language Models for Advancing Scientific Research](http://scimind.ai/tutorial/)" with [Qiang Zhang](https://person.zju.edu.cn/zhangqiang) and [Jiaoyan Chen](https://chenjiaoyan.github.io/) at [Learning on Graphs Conference 2024](https://logconference.org/). Recordings are avaiable at [here](https://www.youtube.com/watch?v=Af-_ELCHsxg).
 * **2024-09-20:**  Two papers were accepted by [EMNLP 2024](https://2024.emnlp.org/) on **RAG models with reasoning chains** and **position bias in large language models**.
 * **2024-06-10:** Two papers have been accepted at [Briefings in Bioinformatics](https://academic.oup.com/bib), on **Automatic Biochemical Pathway Prediction** and **Gene-disease Association Prediction**.
