@@ -16,7 +16,7 @@ design:
   columns: '1'
 ---
 
-* **2025-8-12**: 📢 Excited to announce our new survey paper: A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems! 🌱🤖 A deep dive into techniques that bridge foundation models with lifelong agentic systems, featuring a unified framework, domain-specific strategies, and insights on evaluation, safety, and ethics.
+* **2025-8-12**: 📢 Excited to announce our new survey paper: **A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems**! 🌱🤖 A deep dive into techniques that bridge foundation models with lifelong agentic systems, featuring a unified framework, domain-specific strategies, and insights on evaluation, safety, and ethics.
 Read the full survey 👉 [arXiv](https://arxiv.org/abs/2508.07407) | Explore resources on [GitHub](https://github.com/EvoAgentX/Awesome-Self-Evolving-Agents)
 * **2025-5-15:**  🚀 Thrilled to introduce EvoAgentX: The world’s first self-evolving framework for AI Agents!🌐 An automated framework for evaluating and evolving agentic workflows. Build and evolve your agents today at 👉 [EvoAgentX](https://github.com/EvoAgentX/EvoAgentX)
 * **2025-5-15:**  Two papers were accepted by [ACL 2025](https://2025.aclweb.org/) on **Knowledge-enhanced retrieval-augmented generation (RAG) models** and **Temporally-aware multimodal large language model tailored for chest X-ray report generation**, see you in Vienna.
