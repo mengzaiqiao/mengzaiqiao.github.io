@@ -9,7 +9,7 @@ Click on the &lt;strong>Slides&lt;/strong> button above to view the built-in sli
 &lt;li>&lt;strong>Upload&lt;/strong> an existing slide deck to &lt;code>static/&lt;/code> and link using &lt;code>url_slides&lt;/code> parameter in the front matter of the talk file&lt;/li>
 &lt;li>&lt;strong>Embed&lt;/strong> your slides (e.g. Google Slides) or presentation video on this page using &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">shortcodes&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>EvoAgentX - Building a Self-Evolving Ecosystem of AI Agents</title><link>https://mengzaiqiao.github.io/project/sella/</link><pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate><guid>https://mengzaiqiao.github.io/project/sella/</guid><description>&lt;!-- Add logo here -->
+&lt;p>Further event details, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">page elements&lt;/a> such as image galleries, can be added to the body of this page.&lt;/p></description></item><item><title>EvoAgentX - Building a Self-Evolving Ecosystem of AI Agents</title><link>https://mengzaiqiao.github.io/project/evoagentx/</link><pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate><guid>https://mengzaiqiao.github.io/project/evoagentx/</guid><description>&lt;!-- Add logo here -->
 &lt;div align="center">
 &lt;a href="https://github.com/EvoAgentX/EvoAgentX">
 &lt;img src="./assets/EAXLoGo.svg" alt="EvoAgentX" width="50%">
@@ -419,9 +419,10 @@ Building a Self-Evolving Ecosystem of AI Agents
 &lt;p>This research proposal was originally developed for the The Cooperative AI Foundation (CAIF) scheme. While not selected for funding, the research agenda remains active and ongoing. Here are some of the latest publications and developments related to this research direction.&lt;/p>
 &lt;ul>
 &lt;li>Zeng, R., Fang, J., Liu, S. and Meng, Z., 2024. On the Structural Memory of LLM Agents. arXiv preprint arXiv:2412.15266.&lt;/li>
+&lt;li>Fang, J., Peng, Y., Zhang, X., Wang, Y., Yi, X., Zhang, G., &amp;hellip; &amp;amp; Meng, Z. (2025). A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems. arXiv preprint arXiv:2508.07407.
+For the latest publications and developments related to this research direction, please visit my &lt;a href="https://scholar.google.com/citations?user=5jJKFVcAAAAJ&amp;amp;hl=en" target="_blank" rel="noopener">Google Scholar profile&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;/blockquote>
-&lt;p>For the latest publications and developments related to this research direction, please visit my &lt;a href="https://scholar.google.com/citations?user=5jJKFVcAAAAJ&amp;amp;hl=en" target="_blank" rel="noopener">Google Scholar profile&lt;/a>.&lt;/p></description></item><item><title>Sella - Modeling Self-evolving Collaborative LLM-based Agents</title><link>https://mengzaiqiao.github.io/project/evoagentx/</link><pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate><guid>https://mengzaiqiao.github.io/project/evoagentx/</guid><description>&lt;h2 id="sella-modeling-self-evolving-collaborative-llm-based-agents">Sella: Modeling Self-evolving Collaborative LLM-based Agents&lt;/h2>
+&lt;/blockquote></description></item><item><title>Sella - Modeling Self-evolving Collaborative LLM-based Agents</title><link>https://mengzaiqiao.github.io/project/sella/</link><pubDate>Mon, 29 Jul 2024 00:00:00 +0000</pubDate><guid>https://mengzaiqiao.github.io/project/sella/</guid><description>&lt;h2 id="sella-modeling-self-evolving-collaborative-llm-based-agents">Sella: Modeling Self-evolving Collaborative LLM-based Agents&lt;/h2>
 &lt;h3 id="vision">Vision&lt;/h3>
 &lt;h2 id="background">Background&lt;/h2>
 &lt;p>Recent advancements in artificial intelligence (AI) have been significantly driven by the development of large language models (LLMs) such as GPT-4 and their effectiveness in various tasks, including dialogue generation, machine translation, question answering, and other open-ended generation tasks. LLM-based agents are AI systems that leverage the powerful language understanding capabilities of LLMs to interact with the world, make decisions, and perform tasks autonomously.&lt;/p>
@@ -456,9 +457,11 @@ Building a Self-Evolving Ecosystem of AI Agents
 &lt;p>This research proposal was originally developed for the The Cooperative AI Foundation (CAIF) scheme. While not selected for funding, the research agenda remains active and ongoing. Here are some of the latest publications and developments related to this research direction.&lt;/p>
 &lt;ul>
 &lt;li>Zeng, R., Fang, J., Liu, S. and Meng, Z., 2024. On the Structural Memory of LLM Agents. arXiv preprint arXiv:2412.15266.&lt;/li>
+&lt;li>Fang, J., Peng, Y., Zhang, X., Wang, Y., Yi, X., Zhang, G., &amp;hellip; &amp;amp; Meng, Z. (2025). A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems. arXiv preprint arXiv:2508.07407.&lt;/li>
+&lt;li>Liu, S., Fang, J., Zhou, H., Wang, Y. and Meng, Z., 2025. SEW: Self-Evolving Agentic Workflows for Automated Code Generation. arXiv preprint arXiv:2505.18646.
+For the latest publications and developments related to this research direction, please visit my &lt;a href="https://scholar.google.com/citations?user=5jJKFVcAAAAJ&amp;amp;hl=en" target="_blank" rel="noopener">Google Scholar profile&lt;/a>.&lt;/li>
 &lt;/ul>
-&lt;/blockquote>
-&lt;p>For the latest publications and developments related to this research direction, please visit my &lt;a href="https://scholar.google.com/citations?user=5jJKFVcAAAAJ&amp;amp;hl=en" target="_blank" rel="noopener">Google Scholar profile&lt;/a>.&lt;/p></description></item><item><title>Knowledge Graph Embedding: A Survey from the Perspective of Representation Spaces</title><link>https://mengzaiqiao.github.io/publication/cao2023knowledge/</link><pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate><guid>https://mengzaiqiao.github.io/publication/cao2023knowledge/</guid><description>&lt;h3 id="if-you-find-this-page-helpful-consider-sharing-it-">If you find this page helpful, consider sharing it 🙌&lt;/h3></description></item><item><title>Biomedical Knowledge Integration and Editing for Large Pretrained Language Models</title><link>https://mengzaiqiao.github.io/project/biomedknowledge/</link><pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate><guid>https://mengzaiqiao.github.io/project/biomedknowledge/</guid><description>&lt;h1 id="biomedical-knowledge-integration-and-editing-for-large-pretrained-language-models">Biomedical Knowledge Integration and Editing for Large Pretrained Language Models&lt;/h1>
+&lt;/blockquote></description></item><item><title>Knowledge Graph Embedding: A Survey from the Perspective of Representation Spaces</title><link>https://mengzaiqiao.github.io/publication/cao2023knowledge/</link><pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate><guid>https://mengzaiqiao.github.io/publication/cao2023knowledge/</guid><description>&lt;h3 id="if-you-find-this-page-helpful-consider-sharing-it-">If you find this page helpful, consider sharing it 🙌&lt;/h3></description></item><item><title>Biomedical Knowledge Integration and Editing for Large Pretrained Language Models</title><link>https://mengzaiqiao.github.io/project/biomedknowledge/</link><pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate><guid>https://mengzaiqiao.github.io/project/biomedknowledge/</guid><description>&lt;h1 id="biomedical-knowledge-integration-and-editing-for-large-pretrained-language-models">Biomedical Knowledge Integration and Editing for Large Pretrained Language Models&lt;/h1>
 &lt;h2 id="1-vision">1. Vision&lt;/h2>
 &lt;p>Large Language Models (LLMs) are significantly reshaping the landscape across various global domains, including the field of biomedicine. Within biomedicine, LLMs have demonstrated their potential in various biomedical natural language processing (BioNLP) tasks and applications—ranging from question answering and medical dialogue generation to medical education and clinical practice—by leveraging extensive pretraining on textual data. Concurrently, biomedical knowledge graphs serve as distinctive repositories, encapsulating complex interconnections among key biomedical elements like proteins, genes, drugs, and diseases. These interactions go beyond mere textual representation, encompassing a wide array of biological attributes, including molecular functions, phenotyping, protein functional roles, and disease relationships. Leveraging this structural knowledge is vital, as it underpins numerous biomedical applications, ranging from drug target identification and drug repurposing to protein docking, gene–disease association prediction, ligand–receptor interaction prediction, and disease module identification.&lt;/p>
 &lt;p>Despite their potentials, current LLMs face challenges in effectively assimilating and fully harnessing biomedical knowledge, underscoring the need for an integrated, comprehensive collection of biomedical knowledge graphs. Given the swift progression of biomedical research, knowledge within LLMs can quickly become obsolete, making it imperative to have efficient integration and editing mechanisms that update models cost-effectively without the need for exhaustive retraining, thus ensuring timely relevance and accuracy. Moreover, the absence of standardized techniques for infusing and editing biomedical knowledge into LLMs, along with a lack of a holistic evaluation and benchmarking framework, further highlights the aim of our project.&lt;/p>
@@ -818,7 +821,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-196547823" class="chart">&lt;/div>
+&lt;div id="chart-581346729" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -827,7 +830,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-196547823', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-581346729', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
