@@ -1,12 +1,12 @@
 ---
-title: EvoAgentX - Building a Self-Evolving Ecosystem of AI Agents
-summary: An automated framework for evaluating and evolving agentic workflows.
+title: Sella - Modeling Self-evolving Collaborative LLM-based Agents
+summary: This project envisions a future where AI systems are more capable, versatile, and continually improving, driving progress across various fields. Building on this, our project, named Sella, aims to develop new techniques and methodologies for modelling Self-evolving collaborative LLM-based Agents.
 tags:
   - AI Agent
-date: '2025-05-15T00:00:00Z'
+date: '2024-07-29T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://github.com/EvoAgentX/EvoAgentX/'
+external_link: ''
 
 image:
   focal_point: Smart
@@ -16,10 +16,10 @@ image:
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/georgecushen
-url_code: 'https://github.com/EvoAgentX/EvoAgentX/'
+url_code: ''
 url_pdf: ''
 url_slides: ''
-url_video: 'https://www.youtube.com/watch?v=Wu0ZydYDqgg'
+url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -29,327 +29,53 @@ url_video: 'https://www.youtube.com/watch?v=Wu0ZydYDqgg'
 # slides: example
 ---
 
-<!-- Add logo here -->
-<div align="center">
-  <a href="https://github.com/EvoAgentX/EvoAgentX">
-    <img src="./assets/EAXLoGo.svg" alt="EvoAgentX" width="50%">
-  </a>
-</div>
 
-<h2 align="center">
-    Building a Self-Evolving Ecosystem of AI Agents
-</h2>
+## Sella: Modeling Self-evolving Collaborative LLM-based Agents
 
-<div align="center">
 
-[![EvoAgentX Homepage](https://img.shields.io/badge/EvoAgentX-Homepage-blue?logo=homebridge)](https://evo-agent-x-landing-page.vercel.app/)
-[![Docs](https://img.shields.io/badge/-Documentation-0A66C2?logo=readthedocs&logoColor=white&color=7289DA&labelColor=grey)](https://EvoAgentX.github.io/EvoAgentX/)
-[![Discord](https://img.shields.io/badge/Chat-Discord-5865F2?&logo=discord&logoColor=white)](https://discord.gg/SUEkfTYn)
-[![Twitter](https://img.shields.io/badge/Follow-@EvoAgentX-e3dee5?&logo=x&logoColor=white)](https://x.com/EvoAgentX)
-[![Wechat](https://img.shields.io/badge/WeChat-EvoAgentX-brightgreen?logo=wechat&logoColor=white)](https://github.com/EvoAgentX/EvoAgentX/blob/main/assets/wechat_info.md)
-[![GitHub star chart](https://img.shields.io/github/stars/EvoAgentX/EvoAgentX?style=social)](https://star-history.com/#EvoAgentX/EvoAgentX)
-[![GitHub fork](https://img.shields.io/github/forks/EvoAgentX/EvoAgentX?style=social)](https://github.com/EvoAgentX/EvoAgentX/fork)
-[![License](https://img.shields.io/badge/License-MIT-blue.svg?)](https://github.com/EvoAgentX/EvoAgentX/blob/main/LICENSE)
-<!-- [![EvoAgentX Homepage](https://img.shields.io/badge/EvoAgentX-Homepage-blue?logo=homebridge)](https://EvoAgentX.github.io/EvoAgentX/) -->
-<!-- [![hf_space](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-EvoAgentX-ffc107?color=ffc107&logoColor=white)](https://huggingface.co/EvoAgentX) -->
-</div>
+### Vision
 
-<div align="center">
+## Background
 
-<h3 align="center">
+Recent advancements in artificial intelligence (AI) have been significantly driven by the development of large language models (LLMs) such as GPT-4 and their effectiveness in various tasks, including dialogue generation, machine translation, question answering, and other open-ended generation tasks. LLM-based agents are AI systems that leverage the powerful language understanding capabilities of LLMs to interact with the world, make decisions, and perform tasks autonomously.
 
-<a href="./README.md" style="text-decoration: underline;">English</a> | <a href="./README-zh.md">简体中文</a>
+Building generally capable LLM-based agents is an active area for both academia and industry, aiming to create artificial general intelligence (AGI) systems that can handle a wide range of tasks through reasoning, planning, and tool use. By assigning different roles to multiple LLMs, LLM-based agents can form a collaborative entity for solving complex tasks, such as software development and medical diagnosis/reasoning. Several proof-of-concept demos, such as AutoGPT, LangChain, ChatDev, and MetaGPT, are inspiring examples under this vision.
 
-</h3>
+Currently, single-agent systems can perform tasks such as web browsing, online shopping, and household chores. However, as task complexity increases, the limitations of single agents become apparent, particularly in handling multifaceted environments. For instance, a software development task typically involves multiple stages, including requirements gathering, design, coding, testing, deployment, and maintenance.
 
-</div>
-
-<h4 align="center">
-  <i>An automated framework for evaluating and evolving agentic workflows.</i>
-</h4>
+To address this complexity, humans have developed Standardized Operating Procedures (SOPs) across various domains, widely used to solve complex tasks collaboratively. The intricacy of these processes highlights the need for more sophisticated collaborative AI agent systems to effectively navigate and contribute to such multifaceted projects.
 
-<p align="center">
-  <img src="./assets/framework_en.png">
-</p>
+Collaborative LLM-based agents, which involve multiple LLM-based agents working together to solve problems, present a promising frontier. This collaboration can take various forms, such as task delegation, information sharing, and mutual reinforcement. The collective intelligence of these agents has the potential to surpass the capabilities of individual agents, leading to more robust and versatile AI systems. Recent studies have demonstrated that multi-agent collaborations yield more effective solutions for tasks requiring collaboration and communication efforts, such as software engineering and medical reasoning. By automating complex tasks across various sectors, collaborative LLM-based agents enhance efficiency and effectiveness, providing adaptable and robust solutions to meet the growing demands of modern AI applications.
 
+### Research Problem and Hypothesis
 
-## 🔥 Latest News
-- **[May 2025]** 🎉 **EvoAgentX** has been officially released!
+The fundamental knowledge gap addressed by this project is: **“How can we enable collaborative LLM-based agents to improve their effectiveness in solving complex tasks through self-evolution?”** This central research question is broken down into two key hypotheses:
 
-## ⚡ Get Started
-- [Installation](#installation)
-- [LLM Configuration](#llm-configuration)
-- [Automatic WorkFlow Generation](#automatic-workflow-generation)
-- [Demo Video](#demo-video)
-- [Evolution Algorithms](#evolution-algorithms)
-- [Applications](#applications)
-- [Tutorial and Use Cases](#tutorial-and-use-cases)
+- **H1**: The effectiveness of collaborative LLM-based agents can be efficiently assessed by automating evaluators consisting solely of multiple LLM-based agents.
+- **H2**: The effectiveness of collaborative LLM-based agents can be enhanced through self-evolution, facilitated by the mutations of individual agents and the optimized structuring of multiple agents.
 
-## Installation
-
-We recommend installing EvoAgentX using `pip`:
-
-```bash
-pip install git+https://github.com/EvoAgentX/EvoAgentX.git
-```
+### Research Objectives
 
-For local development or detailed setup (e.g., using conda), refer to the [Installation Guide for EvoAgentX](./docs/installation.md).
+To address these limitations, this project aims to develop a package of methodologies for evaluating and modeling self-evolving collaborative LLM-based agents. The project has the following three objectives:
 
-<details>
-<summary>Example (optional, for local development):</summary>
+- **O1**: Automating LLM agents evaluation with collaborative LLM agents.
+- **O2**: Research and develop new methodologies that model the self-evolution of single agents and collaborative agents.
+- **O3**: Developing a versatile simulation platform for the self-evolution of collaborative LLM agents.
 
-```bash
-git clone https://github.com/EvoAgentX/EvoAgentX.git
-cd EvoAgentX
-# Create a new conda environment
-conda create -n evoagentx python=3.10
-
-# Activate the environment
-conda activate evoagentx
-
-# Install the package
-pip install -r requirements.txt
-# OR install in development mode
-pip install -e .
-```
-</details>
+### Approach
 
-## LLM Configuration
+#### Work Packages (WPs)
 
-### API Key Configuration 
+To deliver upon the three project objectives, the project is broken into four work packages (WPs):
 
-To use LLMs with EvoAgentX (e.g., OpenAI), you must set up your API key.
+- **WP1**: Automating LLM-based Agents Evaluation via Agentic Evaluator (Months 1-6)
+- **WP2**: Research and Develop New Methodologies for Agent Self-evolution (Months 7-12)
+- **WP3**: Developing a Versatile Simulation Platform for the Self-Evolution of Collaborative LLM-based Agents (Months 12-18)
+- **WP4**: Public Engagement and Impact Maximization (Months 7-18)
 
-<details>
-<summary>Option 1: Set API Key via Environment Variable</summary> 
-
-- Linux/macOS: 
-```bash
-export OPENAI_API_KEY=<your-openai-api-key>
-```
-
-- Windows Command Prompt: 
-```cmd 
-set OPENAI_API_KEY=<your-openai-api-key>
-```
-
--  Windows PowerShell:
-```powershell
-$env:OPENAI_API_KEY="<your-openai-api-key>" # " is required 
-```
-
-Once set, you can access the key in your Python code with:
-```python
-import os
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-```
-</details>
-
-<details>
-<summary>Option 2: Use .env File</summary> 
-
-- Create a .env file in your project root and add the following:
-```bash
-OPENAI_API_KEY=<your-openai-api-key>
-```
-
-Then load it in Python:
-```python
-from dotenv import load_dotenv 
-import os 
-
-load_dotenv() # Loads environment variables from .env file
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-```
-</details>
-<!-- > 🔐 Tip: Don't forget to add `.env` to your `.gitignore` to avoid committing secrets. -->
-
-### Configure and Use the LLM
-Once the API key is set, initialise the LLM with:
-
-```python
-from evoagentx.models import OpenAILLMConfig, OpenAILLM
-
-# Load the API key from environment
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-
-# Define LLM configuration
-openai_config = OpenAILLMConfig(
-    model="gpt-4o-mini",       # Specify the model name
-    openai_key=OPENAI_API_KEY, # Pass the key directly
-    stream=True,               # Enable streaming response
-    output_response=True       # Print response to stdout
-)
-
-# Initialize the language model
-llm = OpenAILLM(config=openai_config)
-
-# Generate a response from the LLM
-response = llm.generate(prompt="What is Agentic Workflow?")
-```
-> 📖 More details on supported models and config options: [LLM module guide](./docs/modules/llm.md).
-
-
-## Automatic WorkFlow Generation 
-Once your API key and language model are configured, you can automatically generate and execute multi-agent workflows in EvoAgentX.
-
-🧩 Core Steps:
-1. Define a natural language goal
-2. Generate the workflow with `WorkFlowGenerator`
-3. Instantiate agents using `AgentManager`
-4. Execute the workflow via `WorkFlow`
-
-💡 Minimal Example:
-```python
-from evoagentx.workflow import WorkFlowGenerator, WorkFlowGraph, WorkFlow
-from evoagentx.agents import AgentManager
-
-goal = "Generate html code for the Tetris game"
-workflow_graph = WorkFlowGenerator(llm=llm).generate_workflow(goal)
-
-agent_manager = AgentManager()
-agent_manager.add_agents_from_workflow(workflow_graph, llm_config=openai_config)
-
-workflow = WorkFlow(graph=workflow_graph, agent_manager=agent_manager, llm=llm)
-output = workflow.execute()
-print(output)
-```
-
-You can also:
-- 📊 Visualise the workflow: `workflow_graph.display()`
-- 💾 Save/load workflows: `save_module()` / `from_file()`
-
-> 📂 For a complete working example, check out the [`workflow_demo.py`](https://github.com/EvoAgentX/EvoAgentX/blob/main/examples/workflow_demo.py)
-
-
-## Demo Video
-🎥 Demo video:
-
-In this demo, we showcase the workflow generation and execution capabilities of EvoAgentX through two examples:
-
-1. Application 1: Intelligent Job Recommendation from Resume
-
-2. Application 2: Visual Analysis of A-Share Stocks
-
-[![EvoAgentX demo video](./assets/demo.png)](https://youtu.be/Wu0ZydYDqgg)
-
-### ✨ Final Results
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="./assets/demo_result_1.png" width="400"><br>
-      <strong>Application&nbsp;1:</strong><br>Job Recommendation
-    </td>
-    <td align="center">
-      <img src="./assets/demo_result_2.jpeg" width="400"><br>
-      <strong>Application&nbsp;2:</strong><br>Stock Visual Analysis
-    </td>
-  </tr>
-</table>
-
-## Evolution Algorithms 
-
-We have integrated some existing agent/workflow evolution algorithms into EvoAgentX, including [TextGrad](https://www.nature.com/articles/s41586-025-08661-4), [MIPRO](https://arxiv.org/abs/2406.11695) and [AFlow](https://arxiv.org/abs/2410.10762).
-
-To evaluate the performance, we use them to optimize the same agent system on three different tasks: multi-hop QA (HotPotQA), code generation (MBPP) and reasoning (MATH). We randomly sample 50 examples for validation and other 100 examples for testing. 
-
-> Tip: We have integrated these benchmark and evaluation code in EvoAgentX. Please refer to the [benchmark and evaluation tutorial](https://github.com/EvoAgentX/EvoAgentX/blob/main/docs/tutorial/benchmark_and_evaluation.md) for more details.
-
-### 📊 Results 
-
-| Method   | HotPotQA<br>(F1%) | MBPP<br>(Pass@1 %) | MATH<br>(Solve Rate %) |
-|----------|--------------------|---------------------|--------------------------|
-| Original | 63.58              | 69.00               | 66.00                    |
-| TextGrad | 69.21              | 68.00               | 76.00                    |
-| AFlow    | 65.09              | 79.00               | 71.00                    |
-| MIPRO    | 69.16              | 68.00               | 72.30       
-
-Please refer to the `examples/optimization` folder for more details. 
-
-## Applications 
-
-We use our framework to optimize existing multi-agent systems on the [GAIA](https://huggingface.co/spaces/gaia-benchmark/leaderboard) benchmark. We select [Open Deep Research](https://github.com/huggingface/smolagents/tree/main/examples/open_deep_research) and [OWL](https://github.com/camel-ai/owl), two representative multi-agent framework from the GAIA leaderboard that is open-source and runnable. 
-
-We apply EvoAgentX to optimize their prompts. The performance of the optimized agents on the GAIA benchmark validation set is shown in the figure below.
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="./assets/open_deep_research_optimization_report.png" alt="Open Deep Research Optimization" width="100%"><br>
-      <strong>Open Deep Research</strong>
-    </td>
-    <td align="center" width="50%">
-      <img src="./assets/owl_optimization_result.png" alt="OWL Optimization" width="100%"><br>
-      <strong>OWL Agent</strong>
-    </td>
-  </tr>
-</table>
-
-> Full Optimization Reports: [Open Deep Research](https://github.com/eax6/smolagents) and [OWL](https://github.com/TedSIWEILIU/owl).  
-
-## Tutorial and Use Cases
-
-> 💡 **New to EvoAgentX?** Start with the [Quickstart Guide](./docs/quickstart.md) for a step-by-step introduction.
-
-
-Explore how to effectively use EvoAgentX with the following resources:
-
-| Cookbook | Description |
-|:---|:---|
-| **[Build Your First Agent](./docs/tutorial/first_agent.md)** | Quickly create and manage agents with multi-action capabilities. |
-| **[Build Your First Workflow](./docs/tutorial/first_workflow.md)** | Learn to build collaborative workflows with multiple agents. |
-| **[Automatic Workflow Generation](./docs/quickstart.md#automatic-workflow-generation-and-execution)** | Automatically generate workflows from natural language goals. |
-| **[Benchmark and Evaluation Tutorial](./docs/tutorial/benchmark_and_evaluation.md)** | Evaluate agent performance using benchmark datasets. |
-| **[AFlow Optimizer Tutorial](./docs/tutorial/aflow_optimizer.md)** | Automatically optimise multi-agent workflows for better task performance. |
-<!-- | **[SEW Optimizer Tutorial](./docs/tutorial/sew_optimizer.md)** | Create SEW (Self-Evolving Workflows) to enhance agent systems. | -->
-
-🛠️ Follow the tutorials to build and optimize your EvoAgentX workflows.
-
-🚀 We're actively working on expanding our library of use cases and optimization strategies. **More coming soon — stay tuned!**
-
-## 🎯 Roadmap
-- [ ] **Modularize Evolution Algorithms**: Abstract optimization algorithms into plug-and-play modules that can be easily integrated into custom workflows. 
-- [ ] **Develop Task Templates and Agent Modules**: Build reusable templates for typical tasks and standardized agent components to streamline application development.
-- [ ] **Integrate Self-Evolving Agent Algorithms**: Incorporate more recent and advanced agent self-evolution across multiple dimensions, including prompt tuning, workflow structures, and memory modules. 
-- [ ] **Enable Visual Workflow Editing Interface**: Provide a visual interface for workflow structure display and editing to improve usability and debugging. 
-
-
-
-## 🙋 Support
-
-### Join the Community
-
-📢 Stay connected and be part of the **EvoAgentX** journey!  
-🚩 Join our community to get the latest updates, share your ideas, and collaborate with AI enthusiasts worldwide.
-
-- [Discord](https://discord.gg/SUEkfTYn) — Chat, discuss, and collaborate in real-time.
-- [X (formerly Twitter)](https://x.com/EvoAgentX) — Follow us for news, updates, and insights.
-- [WeChat](https://github.com/EvoAgentX/EvoAgentX/blob/main/assets/wechat_info.md) — Connect with our Chinese community.
-
-### Contact Information
-
-If you have any questions or feedback about this project, please feel free to contact us. We highly appreciate your suggestions!
-
-- **Email:** evoagentx.ai@gmail.com
-
-We will respond to all questions within 2-3 business days.
-
-## 🙌 Contributing to EvoAgentX
-Thanks go to these awesome contributors
-
-<a href="https://github.com/EvoAgentX/EvoAgentX/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=EvoAgentX/EvoAgentX" />
-</a>
-
-We appreciate your interest in contributing to our open-source initiative. We provide a document of [contributing guidelines](https://github.com/EvoAgentX/EvoAgentX/blob/main/CONTRIBUTING.md) which outlines the steps for contributing to EvoAgentX. Please refer to this guide to ensure smooth collaboration and successful contributions. 🤝🚀
-
-[![Star History Chart](https://api.star-history.com/svg?repos=EvoAgentX/EvoAgentX&type=Date)](https://www.star-history.com/#EvoAgentX/EvoAgentX&Date)
-
-
-## 📚 Acknowledgements 
-This project builds upon several outstanding open-source projects: [AFlow](https://github.com/FoundationAgents/MetaGPT/tree/main/metagpt/ext/aflow), [TextGrad](https://github.com/zou-group/textgrad), [DSPy](https://github.com/stanfordnlp/dspy), [LiveCodeBench](https://github.com/LiveCodeBench/LiveCodeBench), and more. We would like to thank the developers and maintainers of these frameworks for their valuable contributions to the open-source community.
-
-## 📄 License
-
-Source code in this repository is made available under the [MIT License](./LICENSE).
+----
+> This research proposal was originally developed for the The Cooperative AI Foundation (CAIF) scheme. While not selected for funding, the research agenda remains active and ongoing. Here are some of the latest publications and developments related to this research direction.
+> - Zeng, R., Fang, J., Liu, S. and Meng, Z., 2024. On the Structural Memory of LLM Agents. arXiv preprint arXiv:2412.15266.
+> - Fang, J., Peng, Y., Zhang, X., Wang, Y., Yi, X., Zhang, G., ... & Meng, Z. (2025). A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems. arXiv preprint arXiv:2508.07407.
+> - Liu, S., Fang, J., Zhou, H., Wang, Y. and Meng, Z., 2025. SEW: Self-Evolving Agentic Workflows for Automated Code Generation. arXiv preprint arXiv:2505.18646.
+For the latest publications and developments related to this research direction, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=5jJKFVcAAAAJ&hl=en).
