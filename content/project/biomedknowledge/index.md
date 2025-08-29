@@ -135,4 +135,5 @@ Aligned with EPSRC's AREA framework, dissemination strategies include:
 > - Fang, J., Meng, Z. and Macdonald, C., 2024. TRACE the evidence: Constructing knowledge-grounded reasoning chains for retrieval-augmented generation. arXiv preprint arXiv:2406.11460.
 > - Yi, X., Lever, J., Bryson, K. and Meng, Z., 2025. Can We Edit LLMs for Long-Tail Biomedical Knowledge?. EMNLP 2025.
 
+---
 For the other latest publications and developments related to this research direction, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=5jJKFVcAAAAJ&hl=en).
