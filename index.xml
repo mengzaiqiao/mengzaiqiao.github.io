@@ -556,6 +556,7 @@ Building a Self-Evolving Ecosystem of AI Agents
 &lt;li>Yi, X., Lever, J., Bryson, K. and Meng, Z., 2025. Can We Edit LLMs for Long-Tail Biomedical Knowledge?. EMNLP 2025.&lt;/li>
 &lt;/ul>
 &lt;/blockquote>
+&lt;hr>
 &lt;p>For the other latest publications and developments related to this research direction, please visit my &lt;a href="https://scholar.google.com/citations?user=5jJKFVcAAAAJ&amp;amp;hl=en" target="_blank" rel="noopener">Google Scholar profile&lt;/a>.&lt;/p></description></item><item><title>Working with me in Glasgow or Remotely</title><link>https://mengzaiqiao.github.io/post/working-with-me/</link><pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate><guid>https://mengzaiqiao.github.io/post/working-with-me/</guid><description>&lt;p>My research focuses on the intersection of machine learning, knowledge graph, graph neural networks and natural language processing, with a current emphasis on the biomedical applications and healthcare technologies. I’m always looking for students &amp;amp; researchers working with me on these topics.&lt;/p>
 &lt;h2 id="phd">PhD&lt;/h2>
 &lt;p>I will be taking 1-2 PhD students working on biomedical knowledge graphs, LLMs, AI Agents and AI for Science.&lt;/p>
@@ -827,7 +828,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-436518927" class="chart">&lt;/div>
+&lt;div id="chart-358742916" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -836,7 +837,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-436518927', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-358742916', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
