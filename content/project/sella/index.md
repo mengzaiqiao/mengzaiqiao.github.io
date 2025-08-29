@@ -74,7 +74,9 @@ To deliver upon the three project objectives, the project is broken into four wo
 - **WP4**: Public Engagement and Impact Maximization (Months 7-18)
 
 ----
-> This research proposal was originally developed for the The Cooperative AI Foundation (CAIF) scheme. While not selected for funding, the research agenda remains active and ongoing. Here are some of the latest publications and developments related to this research direction.
+> This research proposal was originally developed for the Cooperative AI Foundation (CAIF) scheme. Although it was not selected for funding, the research agenda remains active, and we have initiated some preliminary work: EvoAgentX: https://github.com/EvoAgentX/EvoAgentX. Below are some of the latest publications and developments related to this research direction.
+
+> - Wang, Y., Liu, S., Fang, J., & Meng, Z., 2025. EvoAgentX: An automated framework for evolving agentic workflows. arXiv preprint arXiv:2507.03616.
 > - Zeng, R., Fang, J., Liu, S. and Meng, Z., 2024. On the Structural Memory of LLM Agents. arXiv preprint arXiv:2412.15266.
 > - Fang, J., Peng, Y., Zhang, X., Wang, Y., Yi, X., Zhang, G., ... & Meng, Z. (2025). A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems. arXiv preprint arXiv:2508.07407.
 > - Liu, S., Fang, J., Zhou, H., Wang, Y. and Meng, Z., 2025. SEW: Self-Evolving Agentic Workflows for Automated Code Generation. arXiv preprint arXiv:2505.18646.
