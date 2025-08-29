@@ -129,10 +129,10 @@ Aligned with EPSRC's AREA framework, dissemination strategies include:
 
 ---
 > This research proposal was originally developed for the EPSRC New Investigator Award scheme. While not selected for funding, the research agenda remains active and ongoing. Here are some of the latest publications and developments related to this research direction.
-> - Meng, Z., Meng, Z. and Ounis, I., FusionDTI: Fine-grained Binding Discovery with Token-level Fusion for Drug-Target Interaction. In ICML 2024 AI for Science Workshop.
+> - Meng, Z., Meng, Z. and Ounis, I., FusionDTI: Fine-grained Binding Discovery with Token-level Fusion for Drug-Target Interaction. In EMNLP 2025.
 > - Meng, Z., Liu, S., Liang, S., Jani, B. and Meng, Z., 2024. Heterogeneous biomedical entity representation learning for gene–disease association prediction. Briefings in Bioinformatics, 25(5), p.bbae380.
 > - Fang, J., Meng, Z. and Macdonald, C., 2024, August. Reano: Optimising retrieval-augmented reader models through knowledge graph generation. In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 2094-2112).
 > - Fang, J., Meng, Z. and Macdonald, C., 2024. TRACE the evidence: Constructing knowledge-grounded reasoning chains for retrieval-augmented generation. arXiv preprint arXiv:2406.11460.
-
+> - Yi, X., Lever, J., Bryson, K. and Meng, Z., 2025. Can We Edit LLMs for Long-Tail Biomedical Knowledge?. EMNLP 2025.
 
 For the other latest publications and developments related to this research direction, please visit my [Google Scholar profile](https://scholar.google.com/citations?user=5jJKFVcAAAAJ&hl=en).
