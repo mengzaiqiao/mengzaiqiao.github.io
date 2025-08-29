@@ -454,8 +454,11 @@ For the latest publications and developments related to this research direction,
 &lt;/ul>
 &lt;hr>
 &lt;blockquote>
-&lt;p>This research proposal was originally developed for the The Cooperative AI Foundation (CAIF) scheme. While not selected for funding, the research agenda remains active and ongoing. Here are some of the latest publications and developments related to this research direction.&lt;/p>
+&lt;p>This research proposal was originally developed for the Cooperative AI Foundation (CAIF) scheme. Although it was not selected for funding, the research agenda remains active, and we have initiated some preliminary work: EvoAgentX: &lt;a href="https://github.com/EvoAgentX/EvoAgentX" target="_blank" rel="noopener">https://github.com/EvoAgentX/EvoAgentX&lt;/a>. Below are some of the latest publications and developments related to this research direction.&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
 &lt;ul>
+&lt;li>Wang, Y., Liu, S., Fang, J., &amp;amp; Meng, Z., 2025. EvoAgentX: An automated framework for evolving agentic workflows. arXiv preprint arXiv:2507.03616.&lt;/li>
 &lt;li>Zeng, R., Fang, J., Liu, S. and Meng, Z., 2024. On the Structural Memory of LLM Agents. arXiv preprint arXiv:2412.15266.&lt;/li>
 &lt;li>Fang, J., Peng, Y., Zhang, X., Wang, Y., Yi, X., Zhang, G., &amp;hellip; &amp;amp; Meng, Z. (2025). A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems. arXiv preprint arXiv:2508.07407.&lt;/li>
 &lt;li>Liu, S., Fang, J., Zhou, H., Wang, Y. and Meng, Z., 2025. SEW: Self-Evolving Agentic Workflows for Automated Code Generation. arXiv preprint arXiv:2505.18646.
@@ -544,10 +547,11 @@ For the latest publications and developments related to this research direction,
 &lt;blockquote>
 &lt;p>This research proposal was originally developed for the EPSRC New Investigator Award scheme. While not selected for funding, the research agenda remains active and ongoing. Here are some of the latest publications and developments related to this research direction.&lt;/p>
 &lt;ul>
-&lt;li>Meng, Z., Meng, Z. and Ounis, I., FusionDTI: Fine-grained Binding Discovery with Token-level Fusion for Drug-Target Interaction. In ICML 2024 AI for Science Workshop.&lt;/li>
+&lt;li>Meng, Z., Meng, Z. and Ounis, I., FusionDTI: Fine-grained Binding Discovery with Token-level Fusion for Drug-Target Interaction. In EMNLP 2025.&lt;/li>
 &lt;li>Meng, Z., Liu, S., Liang, S., Jani, B. and Meng, Z., 2024. Heterogeneous biomedical entity representation learning for gene–disease association prediction. Briefings in Bioinformatics, 25(5), p.bbae380.&lt;/li>
 &lt;li>Fang, J., Meng, Z. and Macdonald, C., 2024, August. Reano: Optimising retrieval-augmented reader models through knowledge graph generation. In Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers) (pp. 2094-2112).&lt;/li>
 &lt;li>Fang, J., Meng, Z. and Macdonald, C., 2024. TRACE the evidence: Constructing knowledge-grounded reasoning chains for retrieval-augmented generation. arXiv preprint arXiv:2406.11460.&lt;/li>
+&lt;li>Yi, X., Lever, J., Bryson, K. and Meng, Z., 2025. Can We Edit LLMs for Long-Tail Biomedical Knowledge?. EMNLP 2025.&lt;/li>
 &lt;/ul>
 &lt;/blockquote>
 &lt;p>For the other latest publications and developments related to this research direction, please visit my &lt;a href="https://scholar.google.com/citations?user=5jJKFVcAAAAJ&amp;amp;hl=en" target="_blank" rel="noopener">Google Scholar profile&lt;/a>.&lt;/p></description></item><item><title>Working with me in Glasgow or Remotely</title><link>https://mengzaiqiao.github.io/post/working-with-me/</link><pubDate>Mon, 19 Dec 2022 00:00:00 +0000</pubDate><guid>https://mengzaiqiao.github.io/post/working-with-me/</guid><description>&lt;p>My research focuses on the intersection of machine learning, knowledge graph, graph neural networks and natural language processing, with a current emphasis on the biomedical applications and healthcare technologies. I’m always looking for students &amp;amp; researchers working with me on these topics.&lt;/p>
@@ -821,7 +825,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-568471239" class="chart">&lt;/div>
+&lt;div id="chart-753489216" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -830,7 +834,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-568471239', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-753489216', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();

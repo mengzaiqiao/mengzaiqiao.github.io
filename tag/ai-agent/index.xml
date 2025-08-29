@@ -443,8 +443,11 @@ For the latest publications and developments related to this research direction,
 &lt;/ul>
 &lt;hr>
 &lt;blockquote>
-&lt;p>This research proposal was originally developed for the The Cooperative AI Foundation (CAIF) scheme. While not selected for funding, the research agenda remains active and ongoing. Here are some of the latest publications and developments related to this research direction.&lt;/p>
+&lt;p>This research proposal was originally developed for the Cooperative AI Foundation (CAIF) scheme. Although it was not selected for funding, the research agenda remains active, and we have initiated some preliminary work: EvoAgentX: &lt;a href="https://github.com/EvoAgentX/EvoAgentX" target="_blank" rel="noopener">https://github.com/EvoAgentX/EvoAgentX&lt;/a>. Below are some of the latest publications and developments related to this research direction.&lt;/p>
+&lt;/blockquote>
+&lt;blockquote>
 &lt;ul>
+&lt;li>Wang, Y., Liu, S., Fang, J., &amp;amp; Meng, Z., 2025. EvoAgentX: An automated framework for evolving agentic workflows. arXiv preprint arXiv:2507.03616.&lt;/li>
 &lt;li>Zeng, R., Fang, J., Liu, S. and Meng, Z., 2024. On the Structural Memory of LLM Agents. arXiv preprint arXiv:2412.15266.&lt;/li>
 &lt;li>Fang, J., Peng, Y., Zhang, X., Wang, Y., Yi, X., Zhang, G., &amp;hellip; &amp;amp; Meng, Z. (2025). A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems. arXiv preprint arXiv:2508.07407.&lt;/li>
 &lt;li>Liu, S., Fang, J., Zhou, H., Wang, Y. and Meng, Z., 2025. SEW: Self-Evolving Agentic Workflows for Automated Code Generation. arXiv preprint arXiv:2505.18646.
