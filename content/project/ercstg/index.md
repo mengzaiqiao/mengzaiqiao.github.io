@@ -86,7 +86,7 @@ Currently, effective human-AI collaboration is still a grand challenge. While ag
 **Goal**: Develop AI agents that adhere to the highest standards of regulatory, ethical, and legal frameworks governing scientific research, fostering trust through demonstrable reliability, transparency, and responsible decision-making across diverse scientific applications.
 
 ----
-> This research proposal was originally developed for the The Cooperative AI Foundation (CAIF) scheme. While not selected for funding, the research agenda remains active and ongoing. Here are some of the latest publications and developments related to this research direction.
+> This research proposal was originally developed for the ERC Starting Grant. While not selected for funding, the research agenda remains active and ongoing. Here are some of the latest publications and developments related to this research direction.
 > - Zeng, R., Fang, J., Liu, S. and Meng, Z., 2024. On the Structural Memory of LLM Agents. arXiv preprint arXiv:2412.15266.
 > - Fang, J., Peng, Y., Zhang, X., Wang, Y., Yi, X., Zhang, G., ... & Meng, Z. (2025). A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems. arXiv preprint arXiv:2508.07407.
 
