@@ -416,7 +416,7 @@ Building a Self-Evolving Ecosystem of AI Agents
 &lt;p>&lt;strong>Goal&lt;/strong>: Develop AI agents that adhere to the highest standards of regulatory, ethical, and legal frameworks governing scientific research, fostering trust through demonstrable reliability, transparency, and responsible decision-making across diverse scientific applications.&lt;/p>
 &lt;hr>
 &lt;blockquote>
-&lt;p>This research proposal was originally developed for the The Cooperative AI Foundation (CAIF) scheme. While not selected for funding, the research agenda remains active and ongoing. Here are some of the latest publications and developments related to this research direction.&lt;/p>
+&lt;p>This research proposal was originally developed for the ERC Starting Grant. While not selected for funding, the research agenda remains active and ongoing. Here are some of the latest publications and developments related to this research direction.&lt;/p>
 &lt;ul>
 &lt;li>Zeng, R., Fang, J., Liu, S. and Meng, Z., 2024. On the Structural Memory of LLM Agents. arXiv preprint arXiv:2412.15266.&lt;/li>
 &lt;li>Fang, J., Peng, Y., Zhang, X., Wang, Y., Yi, X., Zhang, G., &amp;hellip; &amp;amp; Meng, Z. (2025). A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm Bridging Foundation Models and Lifelong Agentic Systems. arXiv preprint arXiv:2508.07407.&lt;/li>
@@ -828,7 +828,7 @@ console.log('code block');
 &lt;p>Wowchemy supports the popular &lt;a href="https://plot.ly/" target="_blank" rel="noopener">Plotly&lt;/a> format for interactive charts.&lt;/p>
 &lt;p>Save your Plotly JSON in your page folder, for example &lt;code>line-chart.json&lt;/code>, and then add the &lt;code>{{&amp;lt; chart data=&amp;quot;line-chart&amp;quot; &amp;gt;}}&lt;/code> shortcode where you would like the chart to appear.&lt;/p>
 &lt;p>Demo:&lt;/p>
-&lt;div id="chart-358742916" class="chart">&lt;/div>
+&lt;div id="chart-456912837" class="chart">&lt;/div>
 &lt;script>
 (function() {
 let a = setInterval( function() {
@@ -837,7 +837,7 @@ return;
 }
 clearInterval( a );
 Plotly.d3.json("./line-chart.json", function(chart) {
-Plotly.plot('chart-358742916', chart.data, chart.layout, {responsive: true});
+Plotly.plot('chart-456912837', chart.data, chart.layout, {responsive: true});
 });
 }, 500 );
 })();
