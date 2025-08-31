@@ -12,7 +12,9 @@ My research focuses on the intersection of machine learning, knowledge graph, gr
 
 ## PhD
 
-I will be taking 1-2 PhD students working on biomedical knowledge graphs, LLMs, AI Agents and AI for Science.
+<del>I will be taking 1-2 PhD students working on biomedical knowledge graphs, LLMs, AI Agents and AI for Science.</del>
+**I will be leaving the University of Glasgow soon, and therefore will no longer be available to take on new PhD students at the university.**
+
 
 <!-- **My current PhD position for 2024 is full.** -->
 
