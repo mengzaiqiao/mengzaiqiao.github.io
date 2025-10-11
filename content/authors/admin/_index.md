@@ -57,7 +57,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:zaiqiao.meng@gmail.com'
+    link: 'mailto:zm324@cam.ac.uk'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/mengzaiqiao
